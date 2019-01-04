@@ -1,0 +1,3070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <version>0.18.0</version>
+  <categories>
+    <category>
+      <name>People</name>
+      <color>229,229,229</color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Principal Characters</name>
+      <color>255,0,0</color>
+      <font_color>0,0,0</font_color>
+      <parent>People</parent>
+    </category>
+    <category>
+      <name>Paulina Maria Bisdom von Vliet</name>
+      <color>255,192,203</color>
+      <font_color>0,0,0</font_color>
+      <parent>Principal Characters</parent>
+    </category>
+    <category>
+      <name>Johan Jacob le Fevre de Montigny</name>
+      <color>173,216,230</color>
+      <font_color>0,0,0</font_color>
+      <parent>Principal Characters</parent>
+    </category>
+    <category>
+      <name>Paulina's father</name>
+      <color>144,238,144</color>
+      <font_color>0,0,0</font_color>
+      <parent>Principal Characters</parent>
+    </category>
+    <category>
+      <name>Paulina's mother</name>
+      <color>144,238,144</color>
+      <font_color>0,0,0</font_color>
+      <parent>Principal Characters</parent>
+    </category>
+    <category>
+      <name>Supporting Characters</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>People</parent>
+    </category>
+    <category>
+      <name>Viruly (half-nephew)</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>Cornelis (half-bro)</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>Catharina (half-sis)</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>Aegidia (step-sis)</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>Others</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>Gilles Johannes FM (bro-in-law)</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>Otto Mr Braet Bisdom van Cattenbroek</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>Uncle Otto</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>Gilles Johannis FM (JJs grandfather)</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>JohanJacob FM (JJs nephew)</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+      <parent>Supporting Characters</parent>
+    </category>
+    <category>
+      <name>National</name>
+      <color>255,229,181</color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>International</name>
+      <color>210,168,255</color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Provincial</name>
+      <color>255,255,255</color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Village/local</name>
+      <color>230,230,250</color>
+      <font_color>0,0,0</font_color>
+    </category>
+  </categories>
+  <events>
+    <event>
+      <start>1914-7-22 0:0:0</start>
+      <end>1918-11-11 0:0:0</end>
+      <text>WWI</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Economy suffered by blockade of Britain. Public hoarded silver coins forcing isuing of low denomination bank notes so shopkeepers could give change and wages get paid.
+Wartime industry fell foul of contraband regulationbs e.g. importing groundnuts from Britain then sending them to Germany to be crushed. Forced a new indutrial independence e.g own crushing mills. Specialist scientists and engineers now emerged.
+Agriculture switched from wheat to fruit &amp; veg. Reciprocal agreement allowed import of German fertilizer and export of produce to Britain.
+No E Indies imports as navy too weak to be able to protect shipping. Food supplies dwindled. Royal Relief Committee set up in 1914 but most used after 1917. Bread rationing 1917. 1916 Food Distribution Act meant goods could be impounded and sent to where they were most needed.
+Riots and prostitution signs of civil strain. House of Orange strong influence on coping.
+1918 army reserve rations released to public.
+Feb 1919 first food arrived from E Indies.
+1919 45h week revoked.</description>
+    </event>
+    <event>
+      <start>1839-7-11 0:0:0</start>
+      <end>1839-7-11 0:0:0</end>
+      <text>Paulina's parents marry</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+    </event>
+    <event>
+      <start>1869-8-6 0:0:0</start>
+      <end>1869-8-6 0:0:0</end>
+      <text>JJFM &amp; PMBV  announce marriage to family</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+      <description>After a short courtship and no engagement announce to marry to family.
+
+JJ had been lodging with his brother in berkel and in the hotel De Zalm in Gouda, 'without profession' in the register until 9/11.
+</description>
+    </event>
+    <event>
+      <start>1840-6-30 0:0:0</start>
+      <end>1923-6-1 0:0:0</end>
+      <text>Paulina Maria Bisdom van Vliet (PMBV)</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+      <description>Only child of Marcellus and Maria Elisabeth.
+Named 'our' Paulina for her paternal grandmother.
+Half sister to Maria's 3 Children:
+Cornelius (1828-1851)
+Catharina Geertruida (1830-1851)
+Aegidia Johanna Elisabeth (1833-1907)
+
+In the second half of the nineteenth century the 'family business' in practice run by Paulina (picture left) and her mother, Mary Elizabeth Knogh (picture left). They kept the records not only the operating expenses, but also the income and expenditure of all property, while Father Marcellus (picture left) and husband John (picture right) their management positions and did business in Rotterdam and The Hague. After the death of her mother in 1871 Paulina did this work alone. When her husband died in 1881, lapsed its social obligations and administrative contacts as mayor, wife, what was her very badly. 
+As a widow she built a new network and its own social status by working to pursue the social life of Haas. She took the initiative to build a new church for the Dutch progressive minded Protestants Association and supported the union financially. They also supported the development of culture and sports in the community initiatives and significant financial contributions. So she left the club house Concordia drop in 1900.
+</description>
+    </event>
+    <event>
+      <start>1840-9-8 0:0:0</start>
+      <end>1881-3-25 0:0:0</end>
+      <text>Johan Jacob le Fevre de Montigny (JJFM)</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Johan Jacob le Fevre de Montigny</category>
+      <description>QUERY: M/D of death
+
+Grave in Nieuwe Tonge of namesake 17-1818. 
+
+Said to be named after his father &amp; from Nieuwe Tonge. Father minister, died aged 37). Family poor/middle class but moved in better circles. 
+Mother, Petronella Henrietta Kleijn, father's second wife after first (Lena van der Sluis) died. Married 1836. She died aged aged 53)
+Older brother Gilles Johannis (1837-1909) named after grandfather (colonel engineer/sapper in French times).
+Went to naval college in Den Helder at 14. Kept log books still available. Writing smaller than Paulina's and more sharp/clear.
+Cadet 1855 2 yr voyage on Frigate 'Admiral van Wassenaar'
+23/5 to 31/8 midshipman on transport ship 'Heldin' from Hellevoetsluis to West Indies.  Cargo 300 barrels of salt, among other things. Sighted Curacao 23/6. Log book describes landing and unloading and visit by Governor Landsbergen on 2/7.
+Aged 22 promoted to leuitenant at sea. A year later belonged to Freemasons lodge, Den Haag. A year later with firm Jonas &amp; Krugman, Amsterdam where he invested f14,000 (3Million+ gilder) in the Royal Steanship Company.
+</description>
+    </event>
+    <event>
+      <start>1806-12-25 0:0:0</start>
+      <end>1877-11-29 0:0:0</end>
+      <text>Marcellus Bisdom van Vliet (MBV)</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina's father</category>
+      <description>Portraits of Marcellus &amp; Marie on Parenteel ... site
+
+His mother was 20 and his father 31 when he was born. Went to the 'kostschool' in Kerkplein aged 7, master Dupper (this is now 'The Old Schoolhouse'.
+
+Because of their possession, public functions and duties, family Diocese Vliet very influential. They not only played a major role in public and church administration, but also determined the lives of countless families in the household environment by Haas and as a tenant or employee's dependent.
+
+1806 - 1877
+Mayor 1831-1877
+died at Haastrecht
+Married Maria Elizabeth Knogh, born Dordrecht, (1803 - 1871), widow of Abraham Ledeboer, 'koopman' died 1836, in 1839
+Two youger brothers, Frederikus Augustinus (1808 - 1833) died of TB and Otto (1810-1889) married Adelaide Paulina Florentina van Hall (1817-1901) in 1847
+
+De vierde burgemeester van Haastrecht in de familie.
+
+Uit "Mensen in een waard vol wind en water" Door G P van de Ven, F H J van Aesch. (pag 28-29)
+Marcellus Bisdom van Vliet (1857-1877)
+Na het vrijwillig ontslag van de vorige dijkgraaf, Pieter Smits Janszn, werd niet direct voorzien in de ontstane vacature. Op voordracht van de minister van Binnenlandse zaken wordt Marcellus Bisdom van Vliet benoemd tot dijkgraaf van de Krimpenerwaard, ingaande 19-2-1857. Hij behoudt deze funktie tot zijn overlijden op 30-11-1877. Evenals zijn voorganger als dijkgraaf is Marcellus Bisdom van Vliet lang in dienst geweest van de Krimpernerwaard. Eerst als hoogheemraad vanaf 1825 en daarna als dijkgraaf. In 1875 werd hem een kostbaar album met zilverbeslag aangeboden met als titel"Marcellus Bisdom, Heer van Vliet, Dijkgraaf van de Krimpernerwaard, ter herinnering aan zijn 50-jarig lidmaatschap van het bestuur, aangeboden door de Hoogheemraden, Hoofdingelanden, Hoofdingelanden-plaatsvervangers en de Secretaris-Rentmeester van het Hoogheemraadschap" Op zeer hoge leeftijd heeft hij ook nog een rol gespeeld bij de leniging van de nood in de door de rivier de Maas overstroomde gebieden in Noord Brabant. Hij ontving voor zijn verdiensten bij het organiseren van deze hulpverlening van Koning Willem III een Luxemburgse onderscheiding (Willem III was ook Groothertog van Luxemburg. De baret behorende bij de Eikenkroon verkreeg hij voor daden, verricht bij de watersnood van 1876.
+Bisdom van Vliet werd op 25121806 geboren te Haastrecht Zijn vader Salomon Reynders Bisdom, Heer van Vliet, was o.a. Schout en Secretaris van Haastrecht, Burgemeester van Haastrecht enz. Daarnaast was hij in de periode 1813-1825 hoogheemraad van de Krimpenerwaard.
+Marcellus werd al op jonge leeftijd Burgemeester van Haastrecht. Daartoe werd hij op 20-jarige leeftijd in 1826 benoemd. Toen hij 25 jaar burgemeester was ontving hij o.a. van zijn moedereen zilveren beker met inscriptie. Verder was hij burgemeester, Secretaris en Gemeenteontvanger van de gemeente Vliet en aldaar ook Polder-Schout en -Secretaris. Naast zijn ambtelijke funkties was Marcellus koopman in hennep en zeildoek.
+Het maatschappelijk aanzien van Marcellus Bisdom van Vliet blijkt ook uit het prachtige woonhuis dat hij in Haastrecht liet bouwen. Het huis bestaat nog steeds en is bekend als het Museum Stichting Bisdom van Vliet te Haastrecht. Het is beslist de moeite van het bezichtigen waard.
+Marcellus trouwde met Maria Elisabeth Knogh (afb. 115).
+Notitie bij het huwelijk van Marcellus en Maria: Weduwe van Abraham Ledeboer
+Maria is geboren op 11-07-1803 in Dordrecht. Maria is overleden op 07-06-1871 in Eems, 67 jaar oud.
+Kind van Marcellus en Maria:
+1 Paulina Maria Bisdom van Vliet, geboren op 30-06-1840 in Haastrecht. Volgt 1.1.1.3.2.1.4.1.1.</description>
+    </event>
+    <event>
+      <start>1892-1-1 0:0:0</start>
+      <end>1892-1-1 0:0:0</end>
+      <text>Viruly assumes office</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+      <description>QUERY: M/D
+
+Viruly assumes office as mayor of Haastrecht</description>
+    </event>
+    <event>
+      <start>1902-1-1 0:0:0</start>
+      <end>1902-1-1 0:0:0</end>
+      <text>Viruly leaves office</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+      <description>QUERY: M/D
+
+Viruly leaves office of Mayor of Haastrecht</description>
+    </event>
+    <event>
+      <start>1860-1-1 0:0:0</start>
+      <end>1860-1-1 0:0:0</end>
+      <text>Multatuli's Max Havelaar published</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>QUERY: MM/DD
+
+Author Multatuli's satire on colonial life and opression by the Princes in Java and Sumatra</description>
+    </event>
+    <event>
+      <start>1803-7-11 0:0:0</start>
+      <end>1871-6-7 0:0:0</end>
+      <text>Maria Elizabeth Bisdom van Vliet (MEBV)</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina's mother</category>
+      <description>Born Dordrecht, (1803 - 1871), nee Knogh, widow of Abraham Ledeboer (09/07/1797 in Haastrecht - 03/09/1837 'koopman' or dealer/merchant), in 1839. Died Eems.
+Four children, three from first marriage: Cornelius, Catharina Geertruida &amp; Aegidia Johanna Elisabeth; and Paulina Maria</description>
+    </event>
+    <event>
+      <start>1828-1-1 0:0:0</start>
+      <end>1851-1-1 0:0:0</end>
+      <text>Cornelis Ledeboer</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Cornelis (half-bro)</category>
+      <description>Query exact dates
+
+Died aged 26 when student at Hoge School Utrecht</description>
+    </event>
+    <event>
+      <start>1830-1-1 0:0:0</start>
+      <end>1851-1-1 0:0:0</end>
+      <text>Catharina Geertruida Ledeboer</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Catharina (half-sis)</category>
+      <description>Query exact dates
+
+Died aged 21</description>
+    </event>
+    <event>
+      <start>1833-10-8 0:0:0</start>
+      <end>1907-11-14 0:0:0</end>
+      <text>Aegidia Johanna Elisabeth Ledeboer</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Aegidia (step-sis)</category>
+      <description>Query exact dob
+Born Haastrecht.
+Died De Steeg, Rheden, Gelderland.
+
+In May 1845 Aegidia stayed, according to affectionate letters to her brother, Cornelis, as a twelve year old in Gouda and De Bilt. The contents of the letters concern among other things purchase of a picture, daily communications concerning a message list and concerning forthcoming a ball.
+
+A note to her mother from 1850  (then her 17th  birthday) from De Bilt concerning appointments which she has for other visites and concerning the patients in the family.
+
+Married Theodorus Pieter Viruly (29/8/1822 Rotterdam - 10/4/1902 Leiden) on 5/7/1855) (Wikipedia). They had ?8 children. !1st son  Jan Thoedorus Constant (11/4/1860 Gouda - 4/8/1917 Leiden) becoming mayor of Haastrecht 1892-1902 (Wikipedia). Married Emma Constance Roijer 11/6/1891 at Zwolle. Son, Theodorus Pieter born 1891 at Brummen, Gelderland.
+
+2nd son Michiel Abraham Marcellus (1862? De Steeg - 3/1/1932 De Steeg) 
+
+The Viruly seniors lived at 'De Haven', Ossthaven, Gouda where he built a soapworks, Viruly Company (Wikipedia)  'De Hammer' nearby. 1892 house sold to Central Israelite Association, men'sand women's house - a retirement house until the Germans came in 1943 ...
+
+http://www.groenehartarchieven.nl/voorouders/k2bev/94592135
+Trans:
+
+- Householder
+
+source	1860-1880 (Part B District 2) Gouda
+page	64
+Family	- Householder: Pieter Theodorus Viruly (geh.; born. 29.08.1822 Rotterdam) (soap boiler, brake) (12/31/1877 to vertr. Leiden) 
+- wife Johanna Elisabeth Aegidia Ledeboer (geh., b.. 08 -10 to 1833 to Haastrecht) (nh (brake later)) (31/12/1877 to vertr. Leiden) 
+- children: Catharina Johanna Viruly Michelina (b. 9/21/1857) (brake) (31-12 vertr. -1877 to Leiden) 
+- children: Mary Elizabeth Viruly (born 09.07.1858) (Brake) (12/31/1877 to vertr. Leiden) 
+- child: January Viruly Theodore Constantine (born 11/04/1860) (brake) (12/31/1877 vertr. to Arnhem) 
+- children: Michael Abraham Viruly Marcellus (born 28/08/1861 in Rheden) (brake) (31/12/1877 vertr. to Arnhem) 
+- Child: Aegidia Viruly Johanna Elisabeth (born 06.08.1863) (Brake) (31/12/1877 to vertr. Leiden) 
+- Child: Petrus Theodorus Viruly (born 01.29.1865) (Brake) (12-09 vertr. -1877 to Rheden) 
+- children: Cornelis Catharinus Viruly (born 12.21.1867) (Brake) (vertr. to Rheden 12/09/1877) 
+- children: Helena Cornelia Viruly (b. 7/13/1869) ( brake) (31/12/1877 to vertr. Leiden) 
+- resident: Johanna de Jong (born 08.03.1844 in Amsterdam) (governess; doopsg) (A 88 comes from, mon. 30.11.1869 to Dordrecht ) 
+- living at: Johanna Petronella Koch (born 01/03/1837 in The Hague) (maid, nh) (B 73 comes from DR, mon. to Utrecht 29.09.1870) 
+- living at: Alida Johanna Goedhart ( b.. 13-04-1839) (maid, nh) (31/12/1877 to vertr. Leiden) 
+- living at: Lina Danes (born 20/09/1834) (04/12/1876 geh.) (maid; nh) (12/05/1876 to Rheden vertr.) 
+- living at: Trijntje Velthoven (born 04/21/1835 in Rhoon) (maid, nh) (12/31/1877 to vertr. Leiden) 
+- living at: Hendrika Berendina Pancake (born 10/12/1845 to Animals) (maid, ger) (31/12/1877 to vertr. Leiden) 
+- living at: Teunisje of the Ee (geh.; born. Kootwijk to 14/03/1849) ( min, nh) (B 49 comes from DR, mon. 09.24.1870 to Barneveld) 
+- living at home: Dirk Adrian Lam (born 01/07/1850) (maid, nh) (135a comes from C, mon. 31 -12 to 1877 in Leiden) 
+- living at: Zesie Colette Jeanne de la Rocque (b. 4/11/1842 in Lumerai (?) (F)) (governess, nh) (vertr. England) 
+- living at: Pieternella Eijk Hoff ( b.. 02-04-1837) (09/05/1877 geh.) (maid, rk) (2a comes from L, mon. to L 154) VNH 
+- resident: Salome Richer (born 00-00-1844 in Bouxwiller (F)) (governess, nh) (04/28/1875 to vertr. Hague) 
+- living at: Emilie Henriette Rosenveldt (born 27/08/1850 in Konigsberg (Rusl.)) (governess, nh) ( comes from 04.24.1875 London (GB)) 
+- living at: Susette Locher (born 07.02.1846 in Zurich (CH)) (governess; WLS) (31/12/1877 vertr. to Leiden)
+address	East Haven B 49 (later 50 and 51)
+place name	Gouda
+setting	 Regional Middle Holland
+
+</description>
+    </event>
+    <event>
+      <start>1664-7-30 0:0:0</start>
+      <end>1728-8-1 0:0:0</end>
+      <text>Adriaan Bisdom</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Birth 30 July 1664 - Krimpen aan de Lek, family recorded here since 1550 and of non-noble birth
+Died 1 August 1728 - Haastrecht , age at death: 64 years old
+Notary in Haastrecht, secretary to the 'congregation' and secretary-treasurer for Krimpenerwaard
+merchants and landowners since the seventeenth century a considerable wealth built up by investments in companies such as VOC and real estate. Some family members held important administrative positions in Haastrecht and the surrounding area, including that of Dijkgraaf and mayor.
+11 children listed in directories of important Dutch families, but Pieter died 16/17 - have portraits of Adriaan &amp; Elisabeth
+Children of Adriaan and Elisabeth:
+1 Jacob, born on 09.07.1696 at Haas.
+2 Theodorus van Vliet, born in 1698. 
+3 January, born 1700 in. deceased was in January 1762, 61 or 62 years old.
+4 Catharina, born on 10.3.1702 in Haastrecht.
+5 Margaret, born on 14.01.1705 at Haastrecht.
+6 Peter, born in 1706 in Haastrecht. Pieter deceased in 1723, 16 or 17 years old.
+7 Adriaan, born on 03.05.1710 at Haastrecht.
+8 Maria, born on 18.02.1712 in Haastrecht.
+9 Elisabeth, born on 12.13.1713 at Haastrecht.
+10 WIVA, born in 1717. WIVA was deceased in 1788, 70 or 71 years old.
+
+Married Elisabeth Wijckerhelt (1675-1729)
+Settled in Haastrecht 1695, house on Hoogstrat (no longer standing) where he planted the red beech tree 1692.
+First son, Jacob, became advocaat &amp; procurreur-generaal van de Staten van Holland in Den Haag.
+Second son Theodorus.
+Third son, Jan, VOC director in Bengalen
+
+Married 23 August 1695, Schiedam, to Elisaebth Wickerhelt , birth 11 March 1675 - Schiedam, died 26 January 1729 - Haastrecht age at death: 53 years old (parents :  Dirck Wickerhelt  &amp;   Margaretha de Wijs ) ,
+ Jacob Bisdom , Mr. 1696-1762 Married 11 April 1742, Middelburg, to Anna Maria Zeegers 1705-1742 
+ Carel Jan Bisdom , Mr. 1732-1803 Married 12 December 1754, Den Bosch, to Henrietta Carlotta Louise Storm van 's Gravesande 1736-1760  :
+ Ewoud Charl Bisdom 1757-1832
+
+ Carel Jan Bisdom, Mr. 1732-1803  Married 24 October 1762, Den Bosch, to Agneta Anna Verspeyk 1736-1825  :
+ Gerard Johan Bisdom ,  Arend Bisdom ,  Dirk Rudolph Bisdom
+ Dirk Rudolf Wijkerheld Bisdom
+ Theodorus Bisdom , heer van Vliet Married to Maria van Harthals  
+ Marcellus Bisdom , heer van Vliet en van Willige Langerak 1729-1806 Married 10 December 1766, Goes, to Maria Catharina Reijnders 1737-1798  :
+ Salomon Reijnders Bisdom , heer van Vliet en van Willige Langerak 1775-1825</description>
+    </event>
+    <event>
+      <start>1698-1-1 0:0:0</start>
+      <end>1777-1-1 0:0:0</end>
+      <text>Theodorus Bisdom van Vliet</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Query MM/DD
+
+Second son of Adriaan. 21/08/1724 married Maria van Harhals (1703-1763)  had 12 children (not all lived as only 10 in portrait)
+Mayor (a Crown appointment) ca 1730-60.
+
+ Cornelis (1737-73), Maria Theodora (1739-1828) en Adriana Elisabeth (1742-76), linksonder: Agatha (1743-76) Johanna Margaretha (1735-64) en Johan de Wijs (1740-62), met fluit, en rechts Elisabeth (1727-64) met waaier en gearmd met Marcellus (1729-1806), rechtsachter te paard Adriaan Jacob (1732-90) en Evert (1733-86). 
+
+Bought castle 'te Vliet' and added 'van Vliet' to family name 1755. Mayor ca. 1730-1760. First son, Marcellus (elder). Second son, Adriaan Jacob (1732-1790) Mayor ca. 1760-1790. Third son, Evert (1733-1786) something about sherrif , admirality of Maas at Rotterdam, shot at night?
+
+Notitie bij Theodorus: Hij was van de familie de eerste burgemeester van Haastrecht. Was naast koopman in hennep en wijn, tevens hoogheemraad van de Krimpenerwaard.
+In 1755 kocht hij de polders Vliet, Dijkveld en Rateles en het nog overgebleven stuk toren van het slot " te Vliet" met bijbehorende rehten en vanaf dat moment noemde hij zich Bisdom van Vliet
+
+Schilderij:
+Titel: Theodorus Bisdom van Vliet (1698-1777). Burgemeester van Haastrecht en hoogheemraad van de Krimpenerwaard, met zijn gezin in de tuin van zijn huis te Haastrecht
+Theodorus Bisdom van Vliet en zijn gezin. Afgebeeld zijn verder: zijn vrouw Maria van Harthals en zijn kinderen linksboven: Cornelis (1737-73), Maria Theodora (1739-1828) en Adriana Elisabeth (1742-76), linksonder: Agatha (1743-76) Johanna Margaretha (1735-64) en Johan de Wijs (1740-62), met fluit, en rechts Elisabeth (1727-64) met waaier en gearmd met Marcellus (1729-1806), rechtsachter te paard Adriaan Jacob (1732-90) en Evert (1733-86). 
+schilderij
+Maker: door: Stolker, Jan
+Verv.jaar: 1757
+Bron: signatuur: SK-A-3830 [schilderij (olieverf op doek)] ([Rijksmuseum Amsterdam])
+Copyright: Rijksmuseum Amsterdam
+Afmetingen: hoogte: 185 cm; breedte: 150 cm
+Techniek: olieverf op doek
+
+Penning: Zilveren huwelijk Theodorus Bisdom &amp; Maria van Harthals. Beide familiewapens onder kroon tegen een door wolken omgeven zuil. / Staande man en vrouw bij brandend altaar en boom met elf loten (kinderen). J.G. Holtzhey. Licht opgewreven. Ruim prachtig.
+Theodorus trouwde, 25 of 26 jaar oud, op 21-08-1724 met Maria van Harthals (afb. 113), 20 of 21 jaar oud.
+Notitie bij het huwelijk van Theodorus en Maria: Uit "Nagelaten gedichten" II deel door Dirk Smits pag 338 ev
+
+Kinderen van Theodorus en Maria:
+1 Marcellus Bisdom van Vliet, geboren op 26-12-1729 in Haastrecht.
+2 Adriaan Jacob Bisdom van Vliet, geboren op 15-01-1732 in Haastrecht. Adriaan is overleden in 1790, 57 of 58 jaar oud.
+Notitie bij Adriaan: Adriaan volgde zijn vader op als de tweede burgemeester van de familie in Haastrecht. Daarnaast was hij tevens baljuw van de gemeente Vliet. Hij stierf ongehuwd op 58 jarige leeftijd
+
+In de kerk van Haastrecht stond al voor 1790 een orgel. In 1789 stichtte Adriaan Jacob Bisdom bij testament een orgelfonds. Het bestaande orgel zal mogelijk aan vervanging toe zijn geweest. In 1790 werd een nieuw orgel gebouwd. Hendricus Hermanus Hess uit Gouda leverde het speelwerk voor f 4.000,-. De orgelkast werd getimmerd door Jan Timmerman. Het plan voor het beschilderen en vergulden werd ontworpen door de beeldhouwer en houtsnijder Chr. Mulder uit Utrecht. Bij de brand van 1896 gaat het orgel verloren. In 1900 werd in de herbouwde kerk door J. Fr. Witte en Batz en Co uit Utrecht een nieuw orgel geplaatst. Bij de brand van 1964 ging ook dit orgel verloren.
+3 Evert Bisdom van Vliet, geboren op 27-12-1733 in Haastrecht. Evert is overleden in 1786, 52 of 53 jaar oud.
+Notitie bij Evert: Schout bij nacht bij de admiraliteit op de Maas bij Rotterdam. Stierf ongehuwd
+4 Johanna Margaretha Bisdom van Vliet, geboren op 03-09-1735 in Haastrecht.
+5 Maria Theodora Bisdom van Vliet, geboren in 1739. Maria is overleden in 1826, 86 of 87 jaar oud.
+6 Cornelis Bisdom van Vliet, geboren op 23-04-1739 in Haastrecht. 
+7 Agatha Bisdom van Vliet, geboren in 1743. Agatha is overleden in 1776, 32 of 33 jaar oud.
+</description>
+    </event>
+    <event>
+      <start>1729-12-26 0:0:0</start>
+      <end>1806-1-1 0:0:0</end>
+      <text>Marcellus Bisdom van Vliet (elder)</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Query MM/DD death
+
+1764 married Maria Catharina Reijnders (1737-1796), a widow, had daughter, son, daughter. Son Salomon Reijnders (1775-1825)
+
+otitie bij Marcellus: Hij zette de activiteiten van zijn vader in het hoogheemraadschap voort. Daarnaast werd hij in Gouda schepen, kerkmeester, weeshuisregent, politiemeester en voor een korte periode burgemeester van de stad
+Marcellus trouwde, 36 of 37 jaar oud, in 1766 met Maria Catharina Reijnders, 28 of 29 jaar oud. Maria is geboren op 19-10-1737 in Middelburg. Maria is overleden in 1796, 58 of 59 jaar oud.
+Notitie bij Maria: Weduwe van Daniel Caysius
+dochter van Salomon Reijnders vice admiraal van Zeeland
+Kinderen van Marcellus en Maria:
+1 Maria Bisdom van Vliet, geboren op 25-10-1767 in Haastrecht.
+2 Theodora Bisdom van Vliet, geboren in 1768. Theodora is overleden in 1798, 29 of 30 jaar oud.
+3 Apollonia Agatha Bisdom van Vliet, geboren op 14-11-1771 in Haastrecht. Apollonia is overleden in 1792, 20 of 21 jaar oud.
+4 Salomon Reijnders Bisdom van Vliet, geboren op 23-05-1775 in Gouda.
+5 Elisabeth Agatha Bisdom van Vliet, geboren in 1778.
+6 Catharina Jacoba Bisdom van Vliet, geboren op 06-08-1778 in Gouda.</description>
+    </event>
+    <event>
+      <start>1775-5-23 0:0:0</start>
+      <end>1825-10-30 0:0:0</end>
+      <text>Salomon Bisdom van Vliet</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Born in Gouda. Eldest 2 of older sibs born in Haastrecht but he and last born in Gouda and he was the only son.
+
+1806 married Paulina Maria Hondorff Block (1786-1871). Three sons, Marcellus the eldest. Mayor 1806-1825
+
+Notitie bij Salomon: http://www.parlement.com/9291000/biof/08252
+S.R. Bisdom
+in de periode 1814: lid notabelenvergadering
+
+voornamen
+Salomon Reijnders
+
+personalia
+wijziging in naam en/of titulatuur
+Ook wel: Bisdom van Vliet
+
+geboorteplaats en -datum
+Gouda, 23 mei 1775
+
+overlijdensplaats en -datum
+Haastrecht, 30 oktober 1825
+
+loopbaan
+-	 koopman, lid firma "Theodorus Bisdom en Zoonen"
+-	 burgemeester en secretaris van Haastrecht
+-	 lid Vergadering van Notabelen voor het departement Monden van de Maas, 29 en 30 maart 1814
+
+nevenfuncties
+heemraad van de Krimpenerwaard
+
+wetenswaardigheden
+woonplaats(en)/adres(sen)
+Salomon trouwde, 30 jaar oud, op 05-01-1806 in Schoonhoven met Paulina Maria Hondorff Block, 19 jaar oud. Paulina is geboren op 05-01-1787 in Schoonhoven, dochter van Fredericus Augustinus Hondorff Block en Cornelia Braet. Paulina is overleden op 19-07-1871 in Haastrecht, 84 jaar oud.
+Notitie bij Paulina: De boerderij van Lambertus Leeuwenhoek en Maria van Leeuwen (alsmede de grondstukken van hun zoon Gerrit), zijnde "een zeer schone en welgeleegenehoffsteede", worden geveild op 18 oktober 1810 in de herberg "Het Ooievaarsnest" in Haastrecht.86Koper is zoon Lambertus Leeuwenhoek voor in totaal 12.000 gulden. De boerderij wordt geërfd door de dochter van Lambertus Leeuwenhoek en MariaRietveld, Maria Leeuwenhoek, die gehuwd was met Dirk Verweij en later met HendrikKromwijk. Zij verkoopt de boerderij -en het grootste deel van de grond- op 1 mei 1829voor 8.000 gulden aan Pauline Maria Hondorff Block, weduwe van Salomon ReijndersBisdom van Vliet (in leven schout van Haastrecht)
+Kinderen van Salomon en Paulina:
+1 Marcellus Bisdom van Vliet, geboren op 25-12-1806 in Haastrecht.
+2 Fredericus Augustinus Bisdom van Vliet, geboren in 1808. Fredericus is overleden op 04-06-1833 in Utrecht, 24 of 25 jaar oud.
+Notitie bij Fredericus: Nam deel aan de Tiendaagse Veldtocht tegen de Belgen en overleed kort daarna an tuberculose
+3 Otto Mr Braet Bisdom van Cattenbroek, geboren op 15-08-1810. 
+
+Different surname:
+
+Persoonlijke gegevens Salomon Reijnders Bisdom van Cattenbroek 
+
+Hij is geboren op 23 mei 1775 in Gouda (Zuid-Holland) The Netherlands.
+Hij is overleden op 30 oktober 1825 in Haastrecht (Zuid-Holland) The Netherlands.
+Gezin van Salomon Reijnders Bisdom van Cattenbroek
+
+Hij is getrouwd met Paulina Maria Hondorff Block op 5 januari 1806 te Schoonhoven (Zuid-Holland) The Netherlands.
+•Heer van Vliet en van Willige Langerak en
+•Hoogheemraad van den Krimpenerwaard, schout en secretaris der stede en lande v. Haasdregt
+Kind(eren):
+(Mr.) Otto Braet Bisdom van Cattenbroek  1810-1889</description>
+    </event>
+    <event>
+      <start>1787-1-5 0:0:0</start>
+      <end>1871-7-19 0:0:0</end>
+      <text>Paulina Maria Bisdom van Vliet (g'ma)</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Paulina named for her grandmother
+
+Three sons, Marcellus the eldest.
+Then Frederikus Augustinus (1808-1833)
+Then Otto (1810-1889) maaried Adelaide Paulina Florentina van Hall (1817-1901) in 1847
+
+Died Haastrecht aged 84</description>
+    </event>
+    <event>
+      <start>1854-1-1 0:0:0</start>
+      <end>1854-1-1 0:0:0</end>
+      <text>JJFM to Zeevart school</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Johan Jacob le Fevre de Montigny</category>
+      <description>Query MM/DD
+
+Went to Zeevart School Den Helder</description>
+    </event>
+    <event>
+      <start>1855-1-1 0:0:0</start>
+      <end>1855-1-1 0:0:0</end>
+      <text>JJFM on Friegat Admiral van Wassenar</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Johan Jacob le Fevre de Montigny</category>
+      <description>Query MM/DD
+
+Served two years</description>
+    </event>
+    <event>
+      <start>1859-1-1 0:0:0</start>
+      <end>1859-1-1 0:0:0</end>
+      <text>JJFM on transport ship 'Heldin'</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Johan Jacob le Fevre de Montigny</category>
+      <description>Query MM/DD
+
+Called midshipman 23/05 - 31/08 1857. Sailed from Hellevoatsluis to West Indies. Records Wiind, Temperature, etc in day book.
+
+23/06 Curacao sighted. 02/07 ship unloads and visit by Governor Landsbergen.
+
+Promoted to Leitenant at sea aged 22
+
+One year later is lodged van Vrijmetsellars, Den Haag in 1862</description>
+    </event>
+    <event>
+      <start>1862-1-1 0:0:0</start>
+      <end>1862-1-1 0:0:0</end>
+      <text>JJFM to Amsterdam</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Johan Jacob le Fevre de Montigny</category>
+      <description>Query MM/DD
+
+Jonas &amp; Krugman 
+Koninklijke Stoomboot Maat Schappij
+
+http://www.theshipslist.com/ships/lines/knsm.htm
+
+http://en.wikipedia.org/wiki/Netherland_Line#Foundation</description>
+    </event>
+    <event>
+      <start>1874-1-1 0:0:0</start>
+      <end>1874-1-1 0:0:0</end>
+      <text>17th C house demolished</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+    </event>
+    <event>
+      <start>1877-1-1 0:0:0</start>
+      <end>1877-1-1 0:0:0</end>
+      <text>New house ready</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Built 1874-7 when Marcellus 50yrs mayor.
+Wealth &amp; taste of 'fin de siecle' with Italian and French influences and with resonances of den Haag.
+Front and side elevations on foundations of old house, but extended further back.
+Classical fascade. Customary layout of living and service rooms downstairs, working and sleeping rooms upstairs.
+New furniature purchased for reception rooms.
+Rooms lit by candles and a single oil lamp, some electric light installed 1920.
+Contractor: Theodorus Hooft, Den Haag.
+Worked with local cxarpenter, Cornelis Straver.
+Quarters for PMBV &amp; JJFM who return from Den Haag.
+Coach house built on right side in 1879 in neo-renaisance fascade. Paulina had large and small, open and closed carriages. Also housed stables for the horses. 
+Paulina built small house on left side in 1907 for her lady's companion, Janke Hospes.
+Paulina decorated rooms with Chinese porcelain, very fashionable in late 19th C.
+Paulina further modernized parts of rooms, including the garden and the guest house, around 1890 and around 1900.</description>
+    </event>
+    <event>
+      <start>1890-1-1 0:0:0</start>
+      <end>1903-1-1 0:0:0</end>
+      <text>Nora the dog</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Query MM/DD
+
+Probably a great dane or ulmer hound.</description>
+    </event>
+    <event>
+      <start>1923-6-6 0:0:0</start>
+      <end>1923-6-6 0:0:0</end>
+      <text>Paulina's funeral</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+    </event>
+    <event>
+      <start>1869-8-20 0:0:0</start>
+      <end>1869-8-20 0:0:0</end>
+      <text>PMBV &amp; JJFM Wedding Day</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+      <description>Wed in Haastrecht church
+
+ Purchsed black neorococo suite of furniture in the small lounge and the neo-Queen Anne suite of furniture in the sitting room for guests on their marriage.</description>
+    </event>
+    <event>
+      <start>1815-3-15 0:0:0</start>
+      <end>1815-3-15 0:0:0</end>
+      <text>Willem 1 took title of King</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>New Kingdom of the Netherlands included Belgium and Luxembourg - and most of returned colonies. 
+Prince of Orange, later King Willem 1, rode roughshod over voting rights returning power to wealthy &amp; nobility, enforced Dutch as the national language, etc.
+New constitution inroduced second chamber to States General, Provinced represented in lower house by elected representatives - males who could afford to pay big taxes. Introduced life Royal appointments. Capital shuttled between Den Haag and Brussels.
+Clear vision of the country he wanted to create, activist agenda. But, stubborn, self-righteous, autocratic, arrogant and haughty. Brought upon himself the very criticism he could not tolerate.
+
+Nieuwe Hollandse Waterlinie Willem 1's defensive structure for Kingdom of the Netherlands 1815-1830. Ran from Muiden to Biesbosch.
+
+</description>
+    </event>
+    <event>
+      <start>1830-1-1 0:0:0</start>
+      <end>1830-1-1 0:0:0</end>
+      <text>Belgian revolt</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Belgium split from Kingdom, taking industry with it. Den Haag now the capital.
+
+Country stagnating. E &amp; W India Cos failed. Population shift to countryside and agricultural work, transit trade choked by poor waterways and some German Rhine traffic moved to Scheldt route in sympathy with Belgium, economy wekened by loss of Belgian industry.</description>
+    </event>
+    <event>
+      <start>1866-1-1 0:0:0</start>
+      <end>1866-1-1 0:0:0</end>
+      <text>Influx of uplanders</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Impoverished central and southern German farmworkers attracted by Dutch industrial boom and seeking to escape Prussian control and conscription especially after Austrian defeat 1866.</description>
+    </event>
+    <event>
+      <start>1894-12-1 0:0:0</start>
+      <end>1894-12-1 0:0:0</end>
+      <text>Floods</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query DD
+
+Impetus for closing of Zuider Zee</description>
+    </event>
+    <event>
+      <start>1916-1-1 0:0:0</start>
+      <end>1916-1-1 0:0:0</end>
+      <text>Floods</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+</description>
+    </event>
+    <event>
+      <start>1863-9-7 0:0:0</start>
+      <end>1863-9-7 0:0:0</end>
+      <text>Railways Act</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Rail links to major towns by 1880s, but problems with soft terraine, spans of rivers and finanace slowed rail development.
+Contract mainly given to Amsterdam &amp; Hague</description>
+    </event>
+    <event>
+      <start>1870-1-1 0:0:0</start>
+      <end>1870-1-1 0:0:0</end>
+      <text>Trams introduced</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Became characteristic of Amstedam and Den Haag</description>
+    </event>
+    <event>
+      <start>1824-1-1 0:0:0</start>
+      <end>1824-1-1 0:0:0</end>
+      <text>Keulse Vaart excavated</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Canals an attempt to improve reputation of transit trade to Rhine, which was painfully slow , and bring income.</description>
+    </event>
+    <event>
+      <start>1825-1-1 0:0:0</start>
+      <end>1825-1-1 0:0:0</end>
+      <text>Zederikkanaal excavated</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Linked Lek at Vianen to Upper Merwede at Gorinchem. 1825-1893 part of Colognevaart. Replaced by Merwedekanaal in 1893.</description>
+    </event>
+    <event>
+      <start>1830-1-1 0:0:0</start>
+      <end>1830-1-1 0:0:0</end>
+      <text>Voornsche Kanaalin excavated</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Built between Hellevoetsluis and the lost village of Nieuwesluis to connect Rotterdam to the sea. Suspected that Willem 1 wanted it for naval use rather than commercial. Soon became too small for ships so replaced by Nieuwe Waterweg</description>
+    </event>
+    <event>
+      <start>1831-2-5 0:0:0</start>
+      <end>1831-2-5 0:0:0</end>
+      <text>van Speijck explodes in Antwerp</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Half hearted attempt by William of Orange to regain Belgium. Grand gesture by navy lieutenant Jan CJ van Speijck who blew himself, his ship and enemy to pieces in Antwerp.</description>
+    </event>
+    <event>
+      <start>1840-10-7 0:0:0</start>
+      <end>1840-10-7 0:0:0</end>
+      <text>Willem 1 abdicated for Willem 2</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>To great general relief! especially liberals.
+
+W1 married Catholic Belgian Countess Henriette d'Outremont (25yrs Lady in Waiting to Queen), died 2 yrs later 12/12/43 (born 24/08/1772). Had been very controlling and favoured the remnants of the French departmental system as enabled him to divide and conquer.
+
+W2 UK educated military man, married to Tsar Paul 1's daughter, Anna Paulovna. Alienated NL liberals by seeking to emulate GB political system.</description>
+    </event>
+    <event>
+      <start>1851-1-1 0:0:0</start>
+      <end>1851-1-1 0:0:0</end>
+      <text>First steam entirely factory</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+British engineers helped set up first entirely steam powered factory in Twente, which now turned from linen to cotton trade.</description>
+    </event>
+    <event>
+      <start>1823-1-1 0:0:0</start>
+      <end>1823-1-1 0:0:0</end>
+      <text>Netherlands Stemboat Co</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Led to Rotterdam's conversion to steamship building</description>
+    </event>
+    <event>
+      <start>1844-1-1 0:0:0</start>
+      <end>1844-1-1 0:0:0</end>
+      <text>New coinage introduced</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Provincial money replaced by universal silver-based coinage.</description>
+    </event>
+    <event>
+      <start>1825-1-1 0:0:0</start>
+      <end>1825-1-1 0:0:0</end>
+      <text>Java War started</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1830-1-1 0:0:0</start>
+      <end>1830-1-1 0:0:0</end>
+      <text>Java War ended</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Further drained Dutch coffers</description>
+    </event>
+    <event>
+      <start>1840-1-1 0:0:0</start>
+      <end>1840-1-1 0:0:0</end>
+      <text>Postal &amp; telegraph systems</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>From now on these methods of communication began to improve. Passenger traffic still slow, canals quicker than carriages &amp; widely used to transport agricultural produce.</description>
+    </event>
+    <event>
+      <start>1848-1-1 0:0:0</start>
+      <end>1848-1-1 0:0:0</end>
+      <text>Rotterdam cholera outbreak</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Piped drinking water not widely available until 1870s</description>
+    </event>
+    <event>
+      <start>1852-1-1 0:0:0</start>
+      <end>1852-1-1 0:0:0</end>
+      <text>Relaxation of pork &amp; mutton taxes</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Improved diet of poor, which had been mainly potatoes and other starches. Babies were fed on bread, butter &amp; syrup until weaned at 12 months.</description>
+    </event>
+    <event>
+      <start>1842-11-9 0:0:0</start>
+      <end>1842-11-9 0:0:0</end>
+      <text>NS Abolition of Strong Drink</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Drunkenness had become a social problem by 1840, especially gin.
+1870s Temperance Societies.</description>
+    </event>
+    <event>
+      <start>1850-11-9 0:0:0</start>
+      <end>1850-11-9 0:0:0</end>
+      <text>Working life</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Industrial working day 15h for both men &amp; women. Children under 10 working in textile, glass-blowing, shoe &amp; tobacco industries.
+Life expectancy 30 for men &amp; 32 for women.
+
+Socialism &amp; enforced industrialisatio up to 1914. Expansion of Rotterdam steamship building using wood, then iron, then cheap German steel. Limburg coal mines supplied the fuel 1866 - 1900 when demand outstripped supply
+
+Britain granted sole trading rights to E Indies (Java &amp; Sumatra). Took out dairy produce returning with indigo, quinine, &amp; tin.</description>
+    </event>
+    <event>
+      <start>1848-11-9 0:0:0</start>
+      <end>1848-11-9 0:0:0</end>
+      <text>New constitution</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Willem 2 asked 4 liberals &amp; 1 Catholic to revise constitution, becoming a liberl overnight.
+Increased effectiveness of Lower House of States General, less power for Crown, responsibility for local govt passed to Provincial States &amp; municipal councils.</description>
+    </event>
+    <event>
+      <start>1849-3-17 0:0:0</start>
+      <end>1849-3-17 0:0:0</end>
+      <text>Willem 2 died</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>of heart attack whilst out riding at Tilburg.</description>
+    </event>
+    <event>
+      <start>1849-3-1 0:0:0</start>
+      <end>1849-3-1 0:0:0</end>
+      <text>Catholic Archbishopric of Utrecht created</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Pope Pius IX set this up in Calivinist stronghold. Also Bishoprics at Haarlem, Den Bosch, Breda &amp; Roermond.</description>
+    </event>
+    <event>
+      <start>1849-1-1 0:0:0</start>
+      <end>1849-1-1 0:0:0</end>
+      <text>Thorbecke's first cabinet begins</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1853-1-1 0:0:0</start>
+      <end>1853-1-1 0:0:0</end>
+      <text>Thorebecke's first cabinet ends</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1853-4-1 0:0:0</start>
+      <end>1853-4-1 0:0:0</end>
+      <text>The April Movement revolts</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Roman Catholic hierarchy restored. 'Reveil' protestant group burnt paper effigies of Catholic Bishops in the streets. Last &amp; most violent religious riots triggered.
+</description>
+    </event>
+    <event>
+      <start>1853-1-1 0:0:0</start>
+      <end>1853-1-1 0:0:0</end>
+      <text>The Schools Dispute begins</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Calvinists concerned Catholics promoting religious separatism, especially in the south. Dispute over funding model. Didn't end until equal funding for all schools passed in 1920s.</description>
+    </event>
+    <event>
+      <start>1860-1-1 0:0:0</start>
+      <end>1860-1-1 0:0:0</end>
+      <text>Abolition of slavery in E Indies</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Trade malpractices continued to be widespread.</description>
+    </event>
+    <event>
+      <start>1862-2-1 0:0:0</start>
+      <end>1862-2-1 0:0:0</end>
+      <text>Thorebecke's second cabinet formed</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Gave stability after a period of constant changes in leadership.</description>
+    </event>
+    <event>
+      <start>1866-2-10 0:0:0</start>
+      <end>1866-2-10 0:0:0</end>
+      <text>Thorebecke's second cabinet ended</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Ran its full term.
+Import taxes and fuel taxes altered, big canal built for A'dam &amp; R'dam to help NL enter european industrial scene.
+Higher Citizen's Schools created where science replaced classics.
+Public health, medical practise regulation &amp; child labour tackled.</description>
+    </event>
+    <event>
+      <start>1868-11-9 0:0:0</start>
+      <end>1868-11-9 0:0:0</end>
+      <text>Crown vs States General</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Caused by domination of Lower House over Crown in cabinet formation</description>
+    </event>
+    <event>
+      <start>1869-11-9 0:0:0</start>
+      <end>1869-11-9 0:0:0</end>
+      <text>Opening of Suex Canal</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Heavy Dutch investment. Also E Indies agrarian reforms led to investement from europe.</description>
+    </event>
+    <event>
+      <start>1870-9-15 0:0:0</start>
+      <end>1870-9-15 0:0:0</end>
+      <text>Abolition of Death Penalty</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1869-1-1 0:0:0</start>
+      <end>1869-1-1 0:0:0</end>
+      <text>Postal &amp; newspaper laws</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Abolition of duty on papers led to them becoming political organs.</description>
+    </event>
+    <event>
+      <start>1870-7-19 0:0:0</start>
+      <end>1870-7-19 0:0:0</end>
+      <text>Franco-Prussian War breaks out</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Dutch mobilisation a farce, cabinet fell.</description>
+    </event>
+    <event>
+      <start>1871-1-1 0:0:0</start>
+      <end>1871-1-1 0:0:0</end>
+      <text>Thorebecke's third cabinet</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Looked at defence but threat of war passed over.</description>
+    </event>
+    <event>
+      <start>1872-6-4 0:0:0</start>
+      <end>1872-6-4 0:0:0</end>
+      <text>Thorebecke died</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>At Den Haag aged 74. Mourned by the nation</description>
+    </event>
+    <event>
+      <start>1890-1-1 0:0:0</start>
+      <end>1890-1-1 0:0:0</end>
+      <text>Royal oil &amp; Philips lightbulbs established</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Royal following discovery of oil in E Indies.
+Philips following development of electricity after First National Control Station, Kinderdijk in 1886.</description>
+    </event>
+    <event>
+      <start>1880-1-1 0:0:0</start>
+      <end>1880-1-1 0:0:0</end>
+      <text>Chemical industry established</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1860-1-1 0:0:0</start>
+      <end>1860-1-1 0:0:0</end>
+      <text>Trade Schools</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Rise in sociualism led to formation of trade associations then unions.</description>
+    </event>
+    <event>
+      <start>1875-1-1 0:0:0</start>
+      <end>1875-1-1 0:0:0</end>
+      <text>Great Agrarian Depression began</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Worst in Friesland. Forced many people into the cities.</description>
+    </event>
+    <event>
+      <start>1895-1-1 0:0:0</start>
+      <end>1895-1-1 0:0:0</end>
+      <text>Great Agrarian depression ended</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>1885 year of hardship &amp; unemplyment, especially in cities.
+1892 Agrarian Crisis.
+Fuelled miltant socialism, but Orange Fury backlash on King's 70th birthday 19 Feb 1887</description>
+    </event>
+    <event>
+      <start>1887-2-19 0:0:0</start>
+      <end>1887-2-19 0:0:0</end>
+      <text>King's 70th birthday</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Orange Fury backlash against socialist threat to monarchy.</description>
+    </event>
+    <event>
+      <start>1897-1-1 0:0:0</start>
+      <end>1897-1-1 0:0:0</end>
+      <text>Toelstra elected to Lower House</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Miltant socialist who became elder statesman.</description>
+    </event>
+    <event>
+      <start>1886-7-25 0:0:0</start>
+      <end>1886-7-25 0:0:0</end>
+      <text>Jordaan Riots</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>2 days of riots fueled by narcissistic Domela Nieuwenhuis who began Social Democratic Union seeking the abolition of personal wealth.</description>
+    </event>
+    <event>
+      <start>1894-8-26 0:0:0</start>
+      <end>1894-8-26 0:0:0</end>
+      <text>Social Democratic Labour Party formed</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>SDU now just SU.
+SDLP wanted worker ownership of industry.
+However, many demands for reform were pre-empted by the liberals.</description>
+    </event>
+    <event>
+      <start>1874-1-1 0:0:0</start>
+      <end>1874-1-1 0:0:0</end>
+      <text>New Labour Laws</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Ban on child employment under 12. Max 11 h day for women. Factory inspectorate founded to police these.
+Some poor saw this as taking away their income, however.</description>
+    </event>
+    <event>
+      <start>1900-1-1 0:0:0</start>
+      <end>1900-1-1 0:0:0</end>
+      <text>Compulsory Education Act</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>At least 6 yrs of formal education either at school or at home.</description>
+    </event>
+    <event>
+      <start>1901-1-1 0:0:0</start>
+      <end>1901-1-1 0:0:0</end>
+      <text>Buildings Act</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+For control of diseases, local authorities set minimum standards for dwellings &amp; could condemn unfit buildings.</description>
+    </event>
+    <event>
+      <start>1905-1-1 0:0:0</start>
+      <end>1905-1-1 0:0:0</end>
+      <text>Childrens Act</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Local authorities given the power to take neglected children into care.</description>
+    </event>
+    <event>
+      <start>1912-1-1 0:0:0</start>
+      <end>1912-1-1 0:0:0</end>
+      <text>Law Medical Services for the Poor</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1875-1-1 0:0:0</start>
+      <end>1875-1-1 0:0:0</end>
+      <text>White Cross</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>District medical organisation</description>
+    </event>
+    <event>
+      <start>1893-1-1 0:0:0</start>
+      <end>1893-1-1 0:0:0</end>
+      <text>Professional nursing</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Jeltje de Bosch Kemper the main advocate</description>
+    </event>
+    <event>
+      <start>1893-1-1 0:0:0</start>
+      <end>1893-1-1 0:0:0</end>
+      <text>Dutch Union for the Care of the Sick</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query date
+
+Social care organisations especially active in country areas.</description>
+    </event>
+    <event>
+      <start>1903-1-1 0:0:0</start>
+      <end>1903-1-1 0:0:0</end>
+      <text>Organisations combat TB</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query date</description>
+    </event>
+    <event>
+      <start>1860-1-1 0:0:0</start>
+      <end>1860-1-1 0:0:0</end>
+      <text>Waaiersluis opened</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Provincial</category>
+      <description>At Gouda controlling River Ijssel past Haastrecht and on to Doorslagsluis at junction with Merwedekanaal.
+
+From Nieuwe Maas to lock known as Krimpen van Ijssel.</description>
+    </event>
+    <event>
+      <start>1903-1-1 0:0:0</start>
+      <end>1903-1-1 0:0:0</end>
+      <text>Rail Strike</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Poor conditions &amp; industrial relations but outcomew poor. Dutch Alliance of Trade Unions formed but socialism weakened.
+
+1903-1914 boom years</description>
+    </event>
+    <event>
+      <start>1906-1-1 0:0:0</start>
+      <end>1906-1-1 0:0:0</end>
+      <text>Defeat of Boers in South Africa</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <description>Query date 
+
+Led to bouycot of GB ships at Dutch docks worsening worker conditions even more..</description>
+    </event>
+    <event>
+      <start>1907-1-1 0:0:0</start>
+      <end>1907-1-1 0:0:0</end>
+      <text>Labour Contract</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+National profits used to improve conditions of the poor</description>
+    </event>
+    <event>
+      <start>1910-1-1 0:0:0</start>
+      <end>1910-1-1 0:0:0</end>
+      <text>Labour Act</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Further limiting working hours for women and children to 10/day, 58/week
+
+Private reforms alsocame about e.g. adoption of Plimsoll Line</description>
+    </event>
+    <event>
+      <start>1909-1-1 0:0:0</start>
+      <end>1909-1-1 0:0:0</end>
+      <text>Plimsoll Line adopted</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Safety measure introduced in GB 1876 but slow to be adopted in Dutch shipping.</description>
+    </event>
+    <event>
+      <start>1909-1-1 0:0:0</start>
+      <end>1909-1-1 0:0:0</end>
+      <text>New type of Secondary School</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1905-1-1 0:0:0</start>
+      <end>1905-1-1 0:0:0</end>
+      <text>Education extended</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Schools for learning difficulties
+More polytechnics
+First University of Technology in Delft
+Amsterdam Free University awards degrees
+</description>
+    </event>
+    <event>
+      <start>1913-1-1 0:0:0</start>
+      <end>1913-1-1 0:0:0</end>
+      <text>First School of Economics</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Rotterdam</description>
+    </event>
+    <event>
+      <start>1917-1-1 0:0:0</start>
+      <end>1917-1-1 0:0:0</end>
+      <text>Electoral reform</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Vote given to all adult males
+Women have right to be elceted to States General
+Proportional representation
+Equal subsidies to all schools ends The Schools Dispute</description>
+    </event>
+    <event>
+      <start>1918-11-11 0:0:0</start>
+      <end>1918-11-11 0:0:0</end>
+      <text>Armistice Day 'Revolution</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Unrest among Rotterdam dock workers and Twente weavers especially as had been starved of materials during war. Allied blockade of Germany affected NL despite profitable trade with both sides.
+Troelstra announced the 'revolution' saying, "the working class in the Netherlands is now seizing political power". Many demands but abolition of the monarchy their undoing.</description>
+    </event>
+    <event>
+      <start>1918-11-18 0:0:0</start>
+      <end>1918-11-18 0:0:0</end>
+      <text>Biggest Orangist demonstration</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>In Den Haag with beloved Queen Wihelmina appearing in person</description>
+    </event>
+    <event>
+      <start>1918-9-9 0:0:0</start>
+      <end>1918-9-9 0:0:0</end>
+      <text>First coalition Givernment elected</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Labour declining.
+Govt intrduced 8h day, womens' votes, etc. anyway.</description>
+    </event>
+    <event>
+      <start>1884-1-1 0:0:0</start>
+      <end>1884-1-1 0:0:0</end>
+      <text>GMT standard established</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+    </event>
+    <event>
+      <start>1899-1-1 0:0:0</start>
+      <end>1899-1-1 0:0:0</end>
+      <text>First Hague Peace Conference</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1869-8-16 0:0:0</start>
+      <end>1869-8-16 0:0:0</end>
+      <text>PMBV &amp; JJFM's Wedding Feast</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Provincial</category>
+      <description>Because of the huge number of guests, held over 2 days at Tivoli, Utrecht. Guests were welcomed to the feast with a verse.
+Dinner began about 1700 and Paulina certain herself, how the two evenings would go: 47 meat dishes! In the middle of the table 15 sweet dishes. A few vegetables/green dishes, too.
+Between courses there was sufficient time for speeches and singing.
+ An MC kept things on time for 17 songs/singers.
+Afterwards Paulina made a list of the wedding guests and the gifts they had given (lost).</description>
+    </event>
+    <event>
+      <start>1840-9-8 0:0:0</start>
+      <end>1840-9-8 0:0:0</end>
+      <text>Johan (JJFM) born</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Johan Jacob le Fevre de Montigny</category>
+      <description>At Neiuwe Tonge,a small place on the former island of Goeree-Overflakkee, South Holland.
+Named after his father, ? a minister.
+Father married Petronella Henrietta Klein after the death of his first wife (Lena van der Sluis).
+Older Brother Gilles Johannes (1837 -1909) named for his grandfather (1765-1821) who wasgenius/master? colonel under Baron Kayehoff during the French time. 
+Further background not tracked down, except that they were impecunious yet moved in 'better circles'.</description>
+    </event>
+    <event>
+      <start>1837-4-24 0:0:0</start>
+      <end>1907-6-18 0:0:0</end>
+      <text>Gilles Johannes le Fevre de Montigny</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Gilles Johannes FM (bro-in-law)</category>
+      <description>Name seems to be spelled Gillis Johannis.
+
+The Netherlands's Patriciaat Volume 7, p. 172, 1916 erroneously stated that he died on December 1, 1909 in Almelo. However, he died on June 18, 1907 in his hometown Hillegersberg (source: obituary, Rotterdam and New Tilburg municipal digital Courant dated 18 and 20 June 1907)
+
+See Wikipedia entry for portrait on 25th ann as mayor.23/02/1894.
+
+Le Fèvre de Montigny was built in 1837 to Kwadijk son of the preacher John le Fèvre de Montigny Jaoob and Petronella Henriette Klein. In 1863 he was appointed mayor of Berkel and Rodenrijs in 1869 and mayor of Hillegersberg. He combined this position with that of city manager and mayor of Bergschenhoek. In 1894 its 25th anniversary celebrated in Hillegersberg [2] .
+While the mayor of Montigny Le Fèvre was held in Hill Gersberg twice a firework exploded on an island in the lake Bergsche . Both explosions respectively in 1898 and in 1906 there were fatalities.
+Le Fèvre de Montigny married in 1866 in The Hague with Mary Woutherina van Haaften.  They had one child, JJ junior. Gillis died in June 1907 at age 70 in his hometown Hillegersberg. He was a Knight of the Order of Orange-Nassau . His brother John Jacob was mayor of Haastrecht . His namesake grandfather Augustus Gillis was an engineer with the genius and his namesake grandson Johannis Gillis was in the second half of the 20th century the Dutch land forces commander and Chief of Defence Staff  (not sure these names are correct).
+
+GJ Le Fèvre de Montigny (1869-1907), burgemeeser of Hillegersberg - since 1941 part of Rotterdam. Big house on outskirts of city to north.
+
+Fragment of draft note by Paulina on his death:
+zo gaat het leven voor ons oudjes voorbij, steeds afscheid nemende, niet enkel van wie wij zoo lief hadden, maar ook van wat het leven ons te genieten gaf
+ rough trans:thus the life for we ancients/ageds does not go past, always farewell taking, only of who we zoo (?) had affection, but also what enjoy living our gave
+
+Named for grandfather Gillis Johannis Le Fèvre de Montigny (1765-1821), Luitenant-Kolonel (see separate listing)
+GJ de Montigny Le Fèvre, Lieutenant General, Commander of the Army and Chief of Defence Staff</description>
+    </event>
+    <event>
+      <start>1872-1-1 0:0:0</start>
+      <end>1872-1-1 0:0:0</end>
+      <text>Nieuwe Waterweg opened</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Joins Nieuwe and Oude Maas from their junction to the sea at Maasmond. Serves port of Rotterdam</description>
+    </event>
+    <event>
+      <start>1824-1-1 0:0:0</start>
+      <end>1824-1-1 0:0:0</end>
+      <text>Noordhollansch Kanaal opened</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Construction began 1820. Linked Den Helder with Amsterdam, also connections with side canals. Distinctive floating brideges as engineers could not eyt build bridges long enough. Soon became inadequate as curves , bridges and sluices too small for increased size of ships. Replaced by Noorzee Kanaal.</description>
+    </event>
+    <event>
+      <start>1876-1-1 0:0:0</start>
+      <end>1876-1-1 0:0:0</end>
+      <text>Noordzeekanaal opened</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Linked Amsterdam to North Sea at Ijmuiden</description>
+    </event>
+    <event>
+      <start>1893-1-1 0:0:0</start>
+      <end>1893-1-1 0:0:0</end>
+      <text>Merwedekanaal opened</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1916-1-1 0:0:0</start>
+      <end>1916-1-1 0:0:0</end>
+      <text>Plans to dam Zuider Zee begun</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>1894 flood impacted on plan for Great Northern Enclosing Dam (Afsluitdijk) to cut off salt water and create fresh water reservoir fed by Ijssel with impolderization of parts</description>
+    </event>
+    <event>
+      <start>1900-1-1 0:0:0</start>
+      <end>1900-1-1 0:0:0</end>
+      <text>Glasshgouse cultivation began</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Loss of domestic what profit gone so NL went over to fruit &amp; veg instead. West took up greenhouses after development of sheet glass 1891. Bulb flields always there &amp; popular, valuable in the past.</description>
+    </event>
+    <event>
+      <start>1811-1-1 0:0:0</start>
+      <end>1811-1-1 0:0:0</end>
+      <text>State Highways begub</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Rijswegen begun in Napoleonic times. Netwrok linked A'dam, R'dam, Antwerp &amp; Utrecht with cities of Germany</description>
+    </event>
+    <event>
+      <start>1818-1-1 0:0:0</start>
+      <end>1818-1-1 0:0:0</end>
+      <text>Fen-reclamation invented</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Johannes van den Bosch (physiocrat* reformer) conceived of the idea and wanted to use urban poor to do the work
+
+* political economic movement begun in France in 18th C that govt shouldnot  interfere with natural economic laws and that the land is the source of all wealth.
+In NL their policies led to population shift from towns to country, move from mercatilism to agrarianism. Added to economic problems rsulting from French demands and Anglo-Dutch wars damaging merchant fleet and transut trade. Overseas territories dependent on Britain restored from 1816 but trade debits already huge.</description>
+    </event>
+    <event>
+      <start>1891-1-1 0:0:0</start>
+      <end>1891-1-1 0:0:0</end>
+      <text>Reorm of language rules</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Until 1946. Prof Roeland Kollewijn attempted to standardise language  but this was slow and bitty in passage through States General.
+Previously Prof Matthijs Siegenbeek had introduced vowel /double vowel system in 1804.
+End of 19th C fashionable among groups of young elite to speak English together, sometimes French.</description>
+    </event>
+    <event>
+      <start>1795-5-16 0:0:0</start>
+      <end>1795-5-16 0:0:0</end>
+      <text>Batavian Republic created</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Following French invasion. Hague Agreement between Dutch &amp; French  whereby United Provinces became 'etat secondaire'. 8 departements created on French model but public pressure made revert to provinces in 1801. Abolition of hereditary titles and rights. Elections.</description>
+    </event>
+    <event>
+      <start>1795-9-1 0:0:0</start>
+      <end>1795-9-1 0:0:0</end>
+      <text>Fifth Anglo-Dutch War broke out</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query DD
+
+</description>
+    </event>
+    <event>
+      <start>1802-3-27 0:0:0</start>
+      <end>1802-3-27 0:0:0</end>
+      <text>Fifth Anglo-Dutch War ends</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Peace of Amiens
+
+Saw return of Dutch overseas possessions, except Ceylon, to boost economy.</description>
+    </event>
+    <event>
+      <start>1807-1-1 0:0:0</start>
+      <end>1807-1-1 0:0:0</end>
+      <text>Batavian Commonwealth created</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Napolean came to power 1799 and soon overturned more representative National Assembly of Republic and put govt in his pocket as he needed money.</description>
+    </event>
+    <event>
+      <start>1803-5-1 0:0:0</start>
+      <end>1803-5-1 0:0:0</end>
+      <text>Sixth Anglo-Dutch War began</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query DD
+
+Reluctantly followed Napoleon causing loss of trade and increasing national debt. Napoleon put Schi,,elpenninck at head of govt and changed constitution to allow Grand Pensionary to govern again. Enabled Napoleon to blockade Britain from all continental europe.</description>
+    </event>
+    <event>
+      <start>1806-6-5 0:0:0</start>
+      <end>1806-6-5 0:0:0</end>
+      <text>King Louis proclaimed</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>S'p'ick gave way to creation of a King in order to avoid assimilation into France.  Napoleon chose his brother Louis who decided to help his new country prosper so reduced aid to France and refused conscription. Also encourage smuggling with GB which undermined Napoleon's Continental System blockade so he was forced to abdicate in 1810.</description>
+    </event>
+    <event>
+      <start>1809-10-1 0:0:0</start>
+      <end>1809-10-1 0:0:0</end>
+      <text>British attack Zeeland</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Louis unable to prevent this.
+
+Vlissingen, al;though in Zeeland, remained French military installation. Napoleon now used this to force Louis out and incorporate NL into his Empire. Thus restoring Cntinental Sytem blockade.</description>
+    </event>
+    <event>
+      <start>1810-7-9 0:0:0</start>
+      <end>1810-7-9 0:0:0</end>
+      <text>Incorporated into French  Empire</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Louis forced to abdicate  and netherlands annexed to France. Brief but brutal direct rule from france. Continental System enforced. Period of general hardship begins, press censored and Fench demand huge dues. But, introduced a civil registrar and a land registry with long term effects.
+
+Utrecht was briefly the capital 1807-8, then Amsterdam.</description>
+    </event>
+    <event>
+      <start>1813-12-2 0:0:0</start>
+      <end>1813-12-2 0:0:0</end>
+      <text>Willem 'sovereign prince'</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Formed after French lost ability to rule (weakened after 1812 march on Moscow, 1813 German victory over Fr at Leipzig).
+
+Nov 1813 van Hogendorp letter triggers Prince of Orange to return. 9 days later he lands at Scheveningen from a British Man of War (had left in a fishing smack in 1795 with his wife and child).
+
+Determined to regain posessions from Maas to Mosel taken by Napoleon and create United Netherlands of N &amp; S.
+
+
+</description>
+    </event>
+    <event>
+      <start>1815-8-24 0:0:0</start>
+      <end>1815-8-24 0:0:0</end>
+      <text>Willem 1 proclaimed ruler of south</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Duke of Luxembourg and King of the Belgians.
+
+Done quickly as Napoleon rallying, having entered Paris on 20th March. 24 Aug Belgium subjecy to new Dutch constitution. Formal oaths of allegiance from B &amp; L on 25 Sept</description>
+    </event>
+    <event>
+      <start>1791-1-1 0:0:0</start>
+      <end>1791-1-1 0:0:0</end>
+      <text>West India Company disolved</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Had been liquidated early 70s and re-invented along VOC lines.</description>
+    </event>
+    <event>
+      <start>1799-12-31 0:0:0</start>
+      <end>1799-12-31 0:0:0</end>
+      <text>East India Company ceased</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description> 
+Abolished by decree in 1798
+Bankrupted by dual role as trading organisation and organ of the state. Debts passed on to Batavian Republic, who rescued what it could &amp; re-named it the Council for Asian Posessions.
+23 yrs later, glorious Amsterdam VOC building burnt down.</description>
+    </event>
+    <event>
+      <start>1831-8-2 0:0:0</start>
+      <end>1831-8-2 0:0:0</end>
+      <text>10 Day Campaign began</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Willem's grand gesture to regain Belgium led by Prince of Orange. Failed when reports of  a French army led to lost heart. Maastricht held but Limburg lost yet subject to much resistance.</description>
+    </event>
+    <event>
+      <start>1839-9-20 0:0:0</start>
+      <end>1839-9-20 0:0:0</end>
+      <text>First railway line opened</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Amsterdam to Haarlem - and hour and a quarter by stage-coach.</description>
+    </event>
+    <event>
+      <start>1856-1-1 0:0:0</start>
+      <end>1856-1-1 0:0:0</end>
+      <text>First rail link with Germany</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Arnhem to Oberhausen</description>
+    </event>
+    <event>
+      <start>1823-1-1 0:0:0</start>
+      <end>1823-1-1 0:0:0</end>
+      <text>Netherlands Steamship Company established</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Established in Rotterdam, first company to convert from sail to exclusively steam.
+
+http://wapedia.mobi/nl/Nederlandsche_Stoomboot_Maatschappij</description>
+    </event>
+    <event>
+      <start>1850-11-12 0:0:0</start>
+      <end>1850-11-12 0:0:0</end>
+      <text>Mortgage banks established</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1850-1-1 0:0:0</start>
+      <end>1850-1-1 0:0:0</end>
+      <text>GB grants NL sole trading rights  E Indies</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1840-6-30 0:0:0</start>
+      <end>1840-6-30 0:0:0</end>
+      <text>Paulina (PMBV) born</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+    </event>
+    <event>
+      <start>1923-6-1 0:0:0</start>
+      <end>1923-6-1 0:0:0</end>
+      <text>Paulina (PMBV) died</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+    </event>
+    <event>
+      <start>1881-9-21 0:0:0</start>
+      <end>1881-9-21 0:0:0</end>
+      <text>Johan (JJFM) died</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Johan Jacob le Fevre de Montigny</category>
+      <description>1875 prescribed medicine against fever, possibly TB.
+Gave up public duties due to ill health 1880, </description>
+    </event>
+    <event>
+      <start>1844-1-1 0:0:0</start>
+      <end>1844-1-1 0:0:0</end>
+      <text>Hospital for poor established, Utrecht</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Provincial</category>
+      <description>german Deaconess (Sisters of Mercy) Movement, Protestants, led to Dutch nursing, attracting women from new white-collar middle classes.</description>
+    </event>
+    <event>
+      <start>1860-1-1 0:0:0</start>
+      <end>1860-1-1 0:0:0</end>
+      <text>De Sinkel's opens</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Fisr department store is opened in Amsterdam. Middle class women as assistants. Industrialization led to need for shops as self-sufficiency no longer possible.  
+
+Aristocratic women only able to persue equality through charitable works as well as educate middle class women on this issue.</description>
+    </event>
+    <event>
+      <start>1867-1-1 0:0:0</start>
+      <end>1867-1-1 0:0:0</end>
+      <text>First girls middle school</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Haarlem</description>
+    </event>
+    <event>
+      <start>1871-1-1 0:0:0</start>
+      <end>1871-1-1 0:0:0</end>
+      <text>First woman medical student</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Aletta Henrietta Jacobs admitted to Groningen after excelling in her studies as a pharmacist led to States General approving her admission.
+
+Started a family planning clinic in Amsterdam.
+
+1898 attempted to enrol to vote as 'resident', interpreting word in social rather than legal sense, causing a change to the wording 'male resident'.</description>
+    </event>
+    <event>
+      <start>1889-1-1 0:0:0</start>
+      <end>1889-1-1 0:0:0</end>
+      <text>Free Association of Women founded</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+By Wilhelmina Elizabeth Drucker (1848-19250, socialist. Followers dubbed 'Mad Minnies' after her.</description>
+    </event>
+    <event>
+      <start>1918-1-1 0:0:0</start>
+      <end>1918-1-1 0:0:0</end>
+      <text>fFrst woman MP</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Suzanna Groeneweg (1875-1940) elected to Lower House, even though women did not yet have the vote.</description>
+    </event>
+    <event>
+      <start>1918-1-1 0:0:0</start>
+      <end>1918-1-1 0:0:0</end>
+      <text>Women get the vote</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Though moral, social and legal rights still not developed</description>
+    </event>
+    <event>
+      <start>1922-1-1 0:0:0</start>
+      <end>1922-1-1 0:0:0</end>
+      <text>Women get the vote</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Moral, social and legal rights not yet developed</description>
+    </event>
+    <event>
+      <start>1879-1-1 0:0:0</start>
+      <end>1879-1-1 0:0:0</end>
+      <text>Regulation of brothels &amp; prostitutes</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Follows establishment of male run organisation to fight prostitution in 1878</description>
+    </event>
+    <event>
+      <start>1901-1-1 0:0:0</start>
+      <end>1901-1-1 0:0:0</end>
+      <text>Women's property rights established</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Previously husband's power over wife absolute but now her property not automatically his.</description>
+    </event>
+    <event>
+      <start>1909-1-1 0:0:0</start>
+      <end>1909-1-1 0:0:0</end>
+      <text>Paternity suits allowed</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Improved wretched ness of unwed mothers</description>
+    </event>
+    <event>
+      <start>1899-1-1 0:0:0</start>
+      <end>1899-1-1 0:0:0</end>
+      <text>First International Peace Conference</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Held in Den Haag.</description>
+    </event>
+    <event>
+      <start>1873-1-1 0:0:0</start>
+      <end>1901-1-1 0:0:0</end>
+      <text>Achin War</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Against Sultan in North Sumatra</description>
+    </event>
+    <event>
+      <start>1898-1-1 0:0:0</start>
+      <end>1898-1-1 0:0:0</end>
+      <text>Queen Wilhelmina sworn in</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Ends Queen Emma's regency</description>
+    </event>
+    <event>
+      <start>1870-1-1 0:0:0</start>
+      <end>1870-1-1 0:0:0</end>
+      <text>Afrikaner students begin to come to NL</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Epsecially to Utrecht
+
+Utrecht-Transvaal Committee
+1881 NL-SA Association focussing attention on SA bretheren suffering a century of British injustice</description>
+    </event>
+    <event>
+      <start>1899-1-1 0:0:0</start>
+      <end>1899-1-1 0:0:0</end>
+      <text>'Gelderland' affair</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Queen sent ship to rescue Paul Kruger, SA president, from Mosanbique. Raised Dutch prestige.
+
+House of Orange behind this and other courageous undertakings. NL portrayed as 'a small country, but a great nation'. 
+However, Staes General chose to fund Achin War not 'gunboat diplomacy'. </description>
+    </event>
+    <event>
+      <start>1880-1-1 0:0:0</start>
+      <end>1881-1-1 0:0:0</end>
+      <text>Transvaal War</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Successful rebellion of Boers ('farmers') against British and re-establishment of independenceQuery MM/DD</description>
+    </event>
+    <event>
+      <start>1887-1-1 0:0:0</start>
+      <end>1887-1-1 0:0:0</end>
+      <text>Boer independence lost in SA</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+Given up for British support against the Zulus</description>
+    </event>
+    <event>
+      <start>1889-10-11 0:0:0</start>
+      <end>1902-5-31 0:0:0</end>
+      <text>Boer War</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>The Second Boer War (Dutch: Tweede Boerenoorlog, Afrikaans:Tweede Vryheidsoorlog or Tweede Boereoorlog), was fought from 11 October 1899 until 31 May 1902. The Second Boer War was fought between the British Empire and the Dutch-speaking Boer inhabitants of the two independent Boer republics: the South African Republic (Transvaal Republic) and the Orange Free State. It ended with the annexation of the region under the British Empire, ultimately forming the Union of South Africa as part of the Commonwealth. The conflict is commonly referred to as The Boer War but is also known as the South African War outside South Africa, the Anglo-Boer War among most South Africans, and in Afrikaans as the Anglo-Boereoorlog or Tweede Vryheidsoorlog ("Second War of Liberation") or the Engelse oorlog (English War)[citation needed].
+Together with the earlier First Boer War (December 1880 to March 1881), this period is known as the Boer Wars.</description>
+    </event>
+    <event>
+      <start>1905-1-1 0:0:0</start>
+      <end>1908-1-1 0:0:0</end>
+      <text>Coalition with Germany posited</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+    </event>
+    <event>
+      <start>1914-10-9 0:0:0</start>
+      <end>1914-10-9 0:0:0</end>
+      <text>Fall of Antwerp</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Mobilised Dutch forces saw little action. First was interrment of 30,000 Belgian soldiers fleeing across border</description>
+    </event>
+    <event>
+      <start>1918-11-1 0:0:0</start>
+      <end>1918-11-1 0:0:0</end>
+      <text>Germans retreat through Limburg</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query DD
+
+Second action seen by Dutch forces. Had been subject of cartoons and fun because so little engaged.</description>
+    </event>
+    <event>
+      <start>1918-9-9 0:0:0</start>
+      <end>1918-9-9 0:0:0</end>
+      <text>de Beerenbruck cabinet formed</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Right wing, anti-military.</description>
+    </event>
+    <event>
+      <start>1920-1-1 0:0:0</start>
+      <end>1920-1-1 0:0:0</end>
+      <text>Kaiser allowed to settle</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1920-1-1 0:0:0</start>
+      <end>1920-1-1 0:0:0</end>
+      <text>Joined League of Nations</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1920-1-1 0:0:0</start>
+      <end>1920-1-1 0:0:0</end>
+      <text>Wielingen Question</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Dispute with Belgium over navigation rights on Scheldt and cutting of Antwerp-Rhine canal</description>
+    </event>
+    <event>
+      <start>1920-1-1 0:0:0</start>
+      <end>1923-1-1 0:0:0</end>
+      <text>Economic stagnation</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1920-5-17 0:0:0</start>
+      <end>1920-5-17 0:0:0</end>
+      <text>Royal Dutch Airlines</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>First flight on Amsterdam - London service</description>
+    </event>
+    <event>
+      <start>1923-4-4 0:0:0</start>
+      <end>1923-4-4 0:0:0</end>
+      <text>Wilhelminakanaal opened</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Begun 1910. 16 Sep 1916 first ship docked at Tilburg providing much-needed link for textile industry.
+Opening marred by disputes between responsible parties over costs and organisation.</description>
+    </event>
+    <event>
+      <start>1840-5-1 0:0:0</start>
+      <end>1840-5-1 0:0:0</end>
+      <text>Lake Haaarlem project began</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Prompted by 1836 flooding of Amsterdam &amp; Leiden. Speculators grabbed most of the land created with about 10% only going to farmers - land problems and injustices.
+
+In 1643, Jan Adriaanszoon Leeghwater proposed to endike and drain the lake. Similar schemes, among which those of Nicolaus Samuel Cruquius in 1742 and of Baron van Lijnden van Hemmen in 1820 are worthy of special mention, were brought forward from time to time. But it was not until a furious hurricane in November 1836 drove the waters as far as the gates of Amsterdam, and another on Christmas Day sent them in the opposite direction to submerge the streets of Leiden, that the mind of the nation was seriously turned to the matter.
+On August 1, 1837, King William I appointed a royal commission of inquiry; the scheme proposed by the commission received the sanction of the Second Chamber in March 1839, and in the following May the work was begun.
+
+In the 19th century government became centralized, gained real power and became capable of enterprises on a national scale. Two heavy storms in 1836 drove home the continuing menace of the `water wolf´. King Willem I appointed a committee to draw up proposals for draining the Haarlemmermeer at very short notice. The report called for drainage by 79 large windmills with Archimedean screws and scoop wheels, supplemented by three small steam-powered Archimedean screws.
+The King was not satisfied, and he ordered a closer look at the feasibility of steam-powered drainage. A second committee was formed, but internal disagreement on drainage by wind or steam resulted in deadlock. In 1840 renewed government intervention finally resulted in a report with clear recommendations, and soon the decision to use steam power alone was taken. This was a bold step: steam power had never been used on this scale before, and earlier applications on a smaller scale had met with mixed success. There was also reluctance to experiment with such an important provision as polder drainage. In addition, expensive coal would have to be imported, unless peat could be used (but experiments with that failed).
+A visit to Cornwall had convinced the committee of the reliability and efficiency of the Cornish pumping engine. This type of engine was used for pumping relatively small quantities of water out of deep mines. To make them suitable for land drainage, i.e. large quantities at relatively low lift, considerable adaptation of the standard design would be required. In addition, the proposed scale of the three pumping stations exceeded anything previously built. One of the three stations, Leeghwater, was built and tested first to make the risks more manageable. This caused some delay, but it permitted design adjustments for the remaining two: Lynden and Cruquius.
+
+First, a canal was dug around the lake, fittingly called Ringvaart (Ring Canal), to carry the water drainage and boat and ship traffic which had previously gone across the lake. This canal was 61 kilometres (38 mi) long, and 2.40 metres (7.9 ft) deep, and the excavated earth was used to build a dike from 30 to 50 metres (98 to 160 ft) wide around the lake. The area enclosed by the canal was more than 180 square kilometres (69 sq mi), and the average depth of the lake 4 metres (13 ft). As the water had no natural drainage, it was calculated that probably 1000 million tons would have to be raised by mechanical means.
+
+
+Pumping Station Cruquius
+All of the pumping was done by steam mills, an innovation contrasting with the historic practice of draining polders using windmills. Three Cornish beam engines were imported from Hayle: the Leeghwater, the Cruquius (the largest Watt-design reciprocal stroke steam engine ever built and now a museum), and the Lijnden. Pumping began in 1848, and the lake was dry by July 1, 1852; 800 million tons were actually discharged. At the first sale of the highest lands along the banks on 16 August 1853, about 28 per acre was paid; but the average price afterwards was less. The whole area of 170.36 square kilometres (65.78 sq mi) recovered from the waters brought in 9,400,000 forms, or about 780,000, exactly covering the cost of the enterprise; so that the actual cost to the nation was only the amount of the interest on the capital, or about 368,000.
+
+In 1854, the city of Leiden laid claim to the possession of the new territory, but the courts decided in favor of the nation. Haarlemmermeer became incorporated as a municipality in the province of North Holland by law on July 16, 1855. Its first mayor was M.S.P. Pabst. The first church was built in the same year and by 1877 there were seven. By 1860 its population was 7237, and 40 years later in 1900, it was 16,621.
+Initially agriculture dominated in Haarlemmermeer. But with 99% of the land owned by a few wealthy land owners, poor harvests, and low commodity prices, life was very difficult for the tenant farmers. After 1900, the situation improved when commodity prices rose and most farmers owned their own land. Then greenhouse farming developed. Seasonal labourers, attracted by good pay, boosted the population by settling in the villages along the Ringvaart. Maize, seeds, cattle, butter, and cheese were the principal produce</description>
+    </event>
+    <event>
+      <start>1918-6-14 0:0:0</start>
+      <end>1918-6-14 0:0:0</end>
+      <text>Bill to drain Zuider Zee passed</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>1891 Cornelis Lely's plan to drain ZZ accepted, although others put forward:
+1848 Kloppenburg &amp; Schiermonnikoog planned one great polder behind van Stevoren to den Helder dam
+van Diggelen planned dams from den Helder-Terscheling and Ameland-Passens
+1870 Huet proposed a smaller lake
+1875 Leeman got as far as partial legislation.
+
+1916 great north western galer caused damage. Demand for more land as so much lost to glass house cultivation. Demand for dwelling land. Need to irrigate N Holland and Friesland in summer.
+Land problems and injustices to be avoided this time.
+1919 admin body (MUZ) set up.
+Work began 1923.</description>
+    </event>
+    <event>
+      <start>1910-1-1 0:0:0</start>
+      <end>1910-1-1 0:0:0</end>
+      <text>First film theatre</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+1918 Dutch Cinematic Union established, selected and distributed films.</description>
+    </event>
+    <event>
+      <start>1919-1-1 0:0:0</start>
+      <end>1919-1-1 0:0:0</end>
+      <text>First music broadcast</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+Music from Den Haag.
+Radio supplanted barrel organs.</description>
+    </event>
+    <event>
+      <start>1880-9-1 0:0:0</start>
+      <end>1880-9-1 0:0:0</end>
+      <text>Spinoza's statue unvieled, Den Haag</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query DD
+
+A symbol of progressiveness. Nobody much interwsted in a jew who wrote in Latin in his day, though!
+
+Statues in many towns and villages brought history to the people via nationalist heros ushering glorious future &amp; liberal challenge of education.</description>
+    </event>
+    <event>
+      <start>1853-10-1 0:0:0</start>
+      <end>1856-2-1 0:0:0</end>
+      <text>Crimean War</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query DD
+
+Liberals deplored moderate government's neutrality - 'a policy of independence'.
+
+Conflict fought between the Russian Empire and an alliance of the French Empire, the British Empire, the Ottoman Empire, the Kingdom of Sardinia, and the Duchy of Nassau. The war was part of a long-running contest between the major European powers for influence over territories of the declining Ottoman Empire. Most of the conflict took place on the Crimean Peninsula, but there were smaller campaigns in western Anatolia, the Baltic Sea, the Pacific Ocean and the White Sea.</description>
+    </event>
+    <event>
+      <start>1840-1-1 0:0:0</start>
+      <end>1850-1-1 0:0:0</end>
+      <text>Demographics</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Per 1,000ave annual population:
+marriages 7.3
+Births 33.1
+Deaths 26.3
+deaths under 1yr 18.2
+
+Life expectancy at birth males 36.2, females 38.5
+
+Death rate per 1,000 1836-1840
+Utrecht  27.8
+S Holland 29.5
+
+Malaria due to swampy sea clay providing mosquito breeding ground (quinine from E. Indies1860s), poor quality (stagnant, polluted) drinking water and drainage (fevers and respiratory diseases) prior to assisted drainage of land by steam pumping engines1850s inland &amp; 60s on coast as well as piped water, and poor attitudes towards breast feeding (women often working away e.g. in fields leaving dry nursing to older children and elderly women until factories banned children &amp; mothers in 1874 so they had to stay home and feed).
+These improvements plus better nutrition &amp; medical advances improved matters via resistance to ravages ofg disease and labour. Appaling death rates peaked in 1870's. Highest infant mortality in 1873.
+
+1845-8 weather not cold enough in winter to kill mosquito larvae and sultry summers increased water supply, also agricultural problems.</description>
+    </event>
+    <event>
+      <start>1870-1-1 0:0:0</start>
+      <end>1880-1-1 0:0:0</end>
+      <text>Demographics</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Marriages per 1,000
+8.1
+Ave age males 28-9, females 26-8. 13-15% remaining unmarried. Religion influenced this, Calvinist dominated west married earlier, more frequently &amp; re-married more often. Also influenced by relative numbers of men &amp; women.
+Fertility rates per 1,000 married women under 50 e.g. 1870-75
+Utrecht 310 above national average 102.4%
+SHolland 324 as above 107.3%
+N Holland 280 below 92.5%
+Rate peaked 1875-79 then fell, most rapidly in 1890s
+
+High fertility due to no birth control, averaging a baby every three years of marriage. Abstinence and CI practices sporadically in less fecund provinces. Birth rates fell more slowly than deathrates so population increased.
+
+Water management : steam pumps improved water circulation piped drinking water.
+Improved resistance: better diet - agricultural boom 1850s into 70s.
+</description>
+    </event>
+    <event>
+      <start>1847-9-1 0:0:0</start>
+      <end>1847-9-1 0:0:0</end>
+      <text>Famine year</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description> ? exact period into 1848: potato blight  &amp; political turmoil. 1.7% population emigrated - unusually high.
+Emigration to US in 1840s and 1880s pushed by agricultural crises. But 1860s and 1910s good agricultural times, so people waited for best selling prices then. US land booms 1847-57 and 1865-73 encouraged land hungry Dutch. </description>
+    </event>
+    <event>
+      <start>1868-1-1 0:0:0</start>
+      <end>1868-1-1 0:0:0</end>
+      <text>Map made</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+    </event>
+    <event>
+      <start>1869-8-8 0:0:0</start>
+      <end>1869-8-8 0:0:0</end>
+      <text>PMBV &amp; JJFM announce marriage in church</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+      <description>Official announcement 8th August.
+10:00am service in Hevermondekerk van Haastrecht.
+Dinner at house in evening for family.</description>
+    </event>
+    <event>
+      <start>1820-3-2 0:0:0</start>
+      <end>1887-2-19 0:0:0</end>
+      <text>Eduard Douwes Dekker alias Multatuli</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Dekker was born in Amsterdam. His father, a ship's captain, intended his son for trade, but this humdrum prospect disgusted him, and in 1838 he went out to Java and obtained a post as a civil servant. He moved from one posting to another, until, in 1851, he became assistant-resident at Ambon, in the Moluccas. In 1857 he was transferred to Lebak, in the Bantam residency of Java (now Banten province). By this time, however, all the secrets of Dutch administration were known to him, and he had begun to openly protest about the abuses of the colonial system. Consequently he was threatened with dismissal from his office for his openness of speech. Dekker resigned his appointment and returned to the Netherlands in a state of fierce indignation.
+
+
+Statue of Multatuli on a square over the Singel canal in Amsterdam.
+He was determined to expose in detail the scandals he had witnessed, and he began to do so in newspaper articles and pamphlets. Little notice, however, was taken of his protestations until, in 1860, he published his novel Max Havelaar under the pseudonym of Multatuli. Dekker's new pseudonym, which is derived from Latin, means, "I have suffered much", or, more literally "I have borne much" referring to himself, as well as, it is thought, to the victims of the injustices he saw. An attempt was made to ignore this irregular (for the 1860s) book, but in vain; it was read all over Europe. The exposure of the abuse of free labour in the Dutch Indies was thorough, although colonialist apologists accused Dekker's terrible picture of being overdrawn. Multatuli now began his literary career, and published Love Letters (1861), which, in spite of their mild title, were mordant, unsparing satires.
+Although the literary merit of Multatuli's work was widely criticised, he received an unexpected and most valuable ally in Carel Vosmaer who published a book (The Sower 1874) praising him[1]. He continued to write much, and to publish his miscellanies in uniform volumes called Ideas, of which seven appeared between 1862 and 1877 and also contain his novel Woutertje Pieterse.
+Dekker left Holland, and went to live in Ingelheim am Rhein near Mainz, where he made several attempts to write for the stage. One of his pieces, The School for Princes (published in 1875 in the fourth volume of Ideas), expresses his non-conformist views on politics, society and religion. He moved his residence to Nieder Ingelheim, on the Rhine, where he died in 1887.
+In June 2002, the Dutch Maatschappij der Nederlandse Letterkunde (Society for Dutch Literature) proclaimed Multatuli the most important Dutch writer of all time[2].
+Multatuli's brother, Jan Douwes Dekker, is a grandfather of Ernest Douwes Dekker (also known as Danudirja Setiabudi, an Indonesian National hero).
+
+	
+
+Life and works of Multatuli, presented chronologically
+
+
+1820	born Eduard Douwes Dekker on 2nd March in the Korsjespoortsteeg in Amsterdam
+1838	 passage to the former Dutch East Indies on board of the trade ship whose captain was his own father
+1839	arrival in Batavia on 4th January in Batavia
+1840	appointment as clerk at the General Audi-tor's Office in January
+1841-1845	working on the Losse bladen uit het dagboek van een oude man (= Loose pages from an old man's diary)
+1842	conversion to Roman-Catholicism out of love for Caroli-ne Versteegh, though she never married him. Appointment as Controller second class in Natal
+1843	working on the theatre play De Eerloze (= The dishonoured), which was later published as De bruid daarboven (= The bride up there) (1864)
+1844	suspended in January because of a deficit in July 1843. Leaves for Batavia in September, where he spends some time in utmost poverty with his native love, Si Oepi Keteh
+1845	temporary appointment as secretary to the assistant-resident at Krawang	
+1846	marries Tine (Everdina Huberta baroness of Wijnbergen) on 10th April. Appointment as clerk in the residential office at Poerworedjo (Java)
+1848	appointment as secretary of the residence Menado (Celebes)
+1851	appointment as assistant-resident of Ambon in October. Writes a long letter to his old friend Arie C. Kruseman, publisher
+1852-1855	leave in Europe to recover from illness
+1854	birth of his son Edu on 1st January
+1856	appointment as assistant-resident of Lebak (Bantam, Java). Officially installed on 21st January. Charge against regent Karta Nata Negara on 24th February. Conflict with resident Brest van Kempen. Transfer to Ngawi on 23rd March. Resigns after governor-general Duymaer van Twist refuses to see him. Honourable discharge on 4th April
+1857	leaves for Europe without wife and son. Birth of his daughter Nonnie on 1st June
+1857-1860	roams Europe, visiting, among other countries, France, Germany, Belgium and the Netherlands.
+Tine and the children return to Europe in 1859. Tine and Douwes Dekker meet up in Antwerp, after which Tine leaves for The Hague and Douwes Dekker for Brussels. There he writes Max Havelaar in Au Prince Belge, a small Brussels hotel	
+1860	publication of Max Havelaar of the koffiveilingen der Nederlandse Handelsmaatschappij (= Max Havelaar or the Coffee Auctions of the Dutch Trading Company) under the pseudonym Multatuli
+1861	publication of Over vrijen arbeid in Nederlandsch Indië (= On Free Labour in the Dutch Indies), Wijs mij de plaats waar ik gezaaid heb (= Show me the place where I sowed) and Minnebrieven (= Love letters)
+1862	loses court case against Jacob van Lennep, who failed to provide a timely financial account after the publication of Max Havelaar. First volume of Ideën (= Ideas)
+1864	launches a fierce attack against the Dutch government at an interna-tional colonial congress in Amsterdam. Temporary stay in Germany with his mistress, Mimi Hamminck Schepel	
+1865	 publication of the second volume of Ideën and of De zegen Gods door Waterloo (= God's blessing through Waterloo)
+1867	Een en ander naar aanleiding van Bosscha's Pruisen en Nederland (= Some reflections in reply to Bosscha's 'Prussia and the Netherlands')
+1870	Nog eens: Vrye arbeid in Nederlandsch Indië (= Once again: Free Labour in the Dutch Indies)
+1871	Duizend-en-eenige hoofdstukken over specialiteiten (= Thousand and one chapters about specialties)
+1871-1877	third to seventh volume of Ideën
+1872	Millioenenstudiën (= Millionaire studies) and the theatre play Vorstenschool (= School for kings) as Idea 930 in the fourth volume of Ideën
+1874	Tine dies in Venice	
+1875	marries Mimi (Maria Hamminck Schepel); first performance of Vorstenschool in Rotterdam
+1877	decides to give up writing
+1887	dies in Nieder-Ingelheim on 19th February; cremated in Gotha on 23rd February
+</description>
+    </event>
+    <event>
+      <start>1856-1-1 0:0:0</start>
+      <end>1856-1-1 0:0:0</end>
+      <text>Multatuli in Java</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+appointment as assistant-resident of Lebak (Bantam, Java). Officially installed on 21st January. Charge against regent Karta Nata Negara on 24th February. Conflict with resident Brest van Kempen. Transfer to Ngawi on 23rd March. Resigns after governor-general Duymaer van Twist refuses to see him. Honourable discharge on 4th April
+1857	leaves for Europe without wife and son. Birth of his daughter Nonnie on 1st June</description>
+    </event>
+    <event>
+      <start>1852-1-1 0:0:0</start>
+      <end>1852-1-1 0:0:0</end>
+      <text>Multatuli on leave in Europe</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Until 1855 - Query MM/DDs - to recover from illness. Birth of son during this period</description>
+    </event>
+    <event>
+      <start>1859-1-1 0:0:0</start>
+      <end>1859-1-1 0:0:0</end>
+      <text>Multatuli in NL briefly</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query exact dates
+Tine and the children return to Europe in 1859. Tine and Douwes Dekker meet up in Antwerp, after which Tine leaves for The Hague and Douwes Dekker for Brussels. There he writes Max Havelaar in Au Prince Belge, a small Brussels hotel</description>
+    </event>
+    <event>
+      <start>1864-11-29 0:0:0</start>
+      <end>1864-11-29 0:0:0</end>
+      <text>Multatuli attacks govt.</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <description>Query MM/DD
+
+launches a fierce attack against the Dutch government at an interna-tional colonial congress in Amsterdam. </description>
+    </event>
+    <event>
+      <start>1875-11-29 0:0:0</start>
+      <end>1875-11-29 0:0:0</end>
+      <text>Multatuli's play performed Rotterdam</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+first performance of Vorstenschool in Rotterdam</description>
+    </event>
+    <event>
+      <start>1836-11-1 0:0:0</start>
+      <end>1836-11-1 0:0:0</end>
+      <text>Haarlemmermeer floods to Amsterdam</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1836-12-25 0:0:0</start>
+      <end>1836-12-25 0:0:0</end>
+      <text>Haarlemmermeer flood reverses into Leiden</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+    </event>
+    <event>
+      <start>1810-8-15 0:0:0</start>
+      <end>1889-1-10 0:0:0</end>
+      <text>Otto Braet Bisdom van Cattenbroek</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Uncle Otto</category>
+      <description>NB Cattenbroek is a municipality of Montfoort, Utrecht Province
+
+otitie bij Otto: Naam:	Otto Braet Bisdom
+alt. spelling: Otto Braet Bisdom van Cattenbroek
+Geboorteplaats:	Haastrecht
+Geboorte-/sterfjaar:	1810 - 1889
+Geslacht:	M
+
+
+Titel proefschrift:	Dissertatio juridica inauguralis de actione civili, quae ex damno injuria dato nascitur
+alt. titel: De actione civili, quae ex damno injuria dato nascitur
+Datum promotie:	29-06-1838
+Promotor:	J. M. F. Birnbaum
+Faculteit:	rechtsgeleerdheid
+Soort doctoraat:	Juris
+Soort promotie:	proefschrift, privaat
+Judicium:	summa cum laude
+Full text online:	
+Opmerkingen:	Braet Bisdom was lid van de Utrechtse gemeenteraad en plaatsvervangend kantonrechter. Advocaat te Utrecht
+Otto trouwde, 36 jaar oud, op 18-03-1847 in Amsterdam met Adelaide Paulina Florentina van Hall, 30 jaar oud. Adelaide is geboren op 29-12-1816 in Amsterdam. Adelaide is overleden op 01-02-1901 in Utrecht, 84 jaar oud.
+Notitie bij Adelaide: http://www.van-hal.net/Stambomen/vanhall_adel/pafg25.htm
+Kinderen van Otto en Adelaide:
+1 Paulina Maria Bisdom van Cattenbroek, geboren in 1848. Volgt 1.1.1.3.2.1.4.3.1.
+2 Christina Maria C. Bisdom van Cattenbroek [1.1.1.3.2.1.4.3.2], geboren in 1849 in Utrecht. Christina is overleden op 18-03-1895 in Utrecht, 45 of 46 jaar oud.
+3 Marcellina Maria Elisabeth Bisdom van Cattenbroek [1.1.1.3.2.1.4.3.3], geboren in 1850 in Utrecht. Marcellina is overleden op 11-12-1859 in Utrecht, 8 of 9 jaar oud.
+4 Alida Pauline Bisdom van Cattenbroek, geboren in 1854 in Utrecht. Volgt 1.1.1.3.2.1.4.3.4.
+5 Maurits Cornelis Bisdom van Cattenbroek, geboren in 1856 in Utrecht. Volgt 1.1.1.3.2.1.4.3.5.
+6 Fredericus Augustinus Bisdom van Cattenbroek, geboren in 1859 in Utrecht. Volgt 1.1.1.3.2.1.4.3.6.
+
+Photo:
+http://www.hetutrechtsarchief.nl/collectie/beeldmateriaal/fotografische_documenten/1880-1890/104178</description>
+    </event>
+    <event>
+      <start>1883-1-1 0:0:0</start>
+      <end>1883-1-1 0:0:0</end>
+      <text>Haastrecht lift bridge built</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1864-7-11 0:0:0</start>
+      <end>1864-7-11 0:0:0</end>
+      <text>M &amp; M BVV silver anniversary</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+      <description>table set of crystal and silver was a gift to celebrate the silver wedding of Paulina's parents in 1864.</description>
+    </event>
+    <event>
+      <start>1889-1-1 0:0:0</start>
+      <end>1889-1-1 0:0:0</end>
+      <text>Couperus' 'Eline Vere' published</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>'Eline Vere" first appeared in 1889, and its success launched the career of Louis Couperus (1863-1923), now regarded as the greatest Dutch novelist of his time. That may sound like faint praise. It shouldn't. With this "novel of The Hague," Couperus produced one of those beautifully composed, old-style realist novels that present an entire society to us while simultaneously questioning its values. </description>
+    </event>
+    <event>
+      <start>1798-1-1 0:0:0</start>
+      <end>1798-1-1 0:0:0</end>
+      <text>VOC abolished</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD
+
+by decree leaving huge debts</description>
+    </event>
+    <event>
+      <start>1702-3-19 0:0:0</start>
+      <end>1702-3-19 0:0:0</end>
+      <text>William III died</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>at Hampton Court
+Last  stadholder until 1780 &amp; had been a commanding presence.
+Regents now took control i.e. civic office holders rather than nobility who, since the times of the Dukes of Burgunbdy, had been appointed as the richest townsmen, therefore paying most taxes. Created a patrician oligarchy over the centuries, tending to be anti-Orangist.
+Economy declined, cities decayed and army retreated from French threat. regents drew on their investments and spent lavishly (wigs, silk breeches, elegant town houses and fine country villas) but withdrew from business and were non-productive. Adopted French language and fashions.</description>
+    </event>
+    <event>
+      <start>1751-1-1 0:0:0</start>
+      <end>1751-1-1 0:0:0</end>
+      <text>William V</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Stadhouder of all Provinces. Calm period followed as regents cowed and demoralised.</description>
+    </event>
+    <event>
+      <start>1747-1-1 0:0:0</start>
+      <end>1747-1-1 0:0:0</end>
+      <text>William IV</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Stadholder of all Provinces. Returned after virtual revolution. Responded to public outcry by purge of burgemeesters. Regents demoralised.  </description>
+    </event>
+    <event>
+      <start>1787-6-1 0:0:0</start>
+      <end>1787-6-1 0:0:0</end>
+      <text>Queen Wilhelmina captured near Haastrecht</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>By Gouda Free Corps, Woerden during Patriot rebellion. Was en route fromNijmegen to Den Haag to mediate with Patriots. Taken to Goejanverwellesluis for five hours. Sister of Prussian King who then intervened. Many Patriots fled to France and Willaim V was restored to power. </description>
+    </event>
+    <event>
+      <start>1786-8-1 0:0:0</start>
+      <end>1786-8-1 0:0:0</end>
+      <text>Patriot civil war</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Patriots called for republican constitution. Utrecht was thei main centre. Wore black cockades and ribbons tied in V for freedom (vrijheid). Open rebellion for four months.
+Anti-Orange regents withdrew thei support, however.</description>
+    </event>
+    <event>
+      <start>1780-12-9 0:0:0</start>
+      <end>1780-12-9 0:0:0</end>
+      <text>4th Anglo-Dutch war breaks out</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>until 1784
+American revolution in 1776 had gained Dutch sympathy &amp; deepened anti-British feelings. 19/04/1782 Dutch officially recognised US (second only to France in europe).
+War was a disaster.</description>
+    </event>
+    <event>
+      <start>1780-1-1 0:0:0</start>
+      <end>1780-1-1 0:0:0</end>
+      <text>Patriot rebellion starts</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>ends 1787</description>
+    </event>
+    <event>
+      <start>1787-1-1 0:0:0</start>
+      <end>1787-1-1 0:0:0</end>
+      <text>Patriot rebellion crushed</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>With help of Prussians</description>
+    </event>
+    <event>
+      <start>1815-6-18 0:0:0</start>
+      <end>1815-6-18 0:0:0</end>
+      <text>Battle of Waterloo</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Dutch &amp; Belgian fought together under Wellington. King William I fought bravely, receiving a shoulder wound.</description>
+    </event>
+    <event>
+      <start>1840-10-17 0:0:0</start>
+      <end>1840-10-17 0:0:0</end>
+      <text>William I abdicates for William II</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>To great general relief!
+Married Belgian Catholic  countess Henriette d'Outremont.
+Died 12/12/43
+
+
+
+</description>
+    </event>
+    <event>
+      <start>1840-10-21 0:0:0</start>
+      <end>1840-10-21 0:0:0</end>
+      <text>Holland split into N &amp; S</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Part of new constitution.</description>
+    </event>
+    <event>
+      <start>1853-3-30 0:0:0</start>
+      <end>1890-7-29 0:0:0</end>
+      <text>Van Gough</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Others</category>
+      <description>Briefly art dealer in Den Haag. Only painted last 10 yrs of life.
+
+Brother Theo also art dealer in Den Haag, died young of syphillis.</description>
+    </event>
+    <event>
+      <start>1782-1-1 0:0:0</start>
+      <end>1782-1-1 0:0:0</end>
+      <text>Sara Burgerhart published</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+The history of Miss Sara Burgerhart is vredited with being the first dutch novel published. Written by Betje Wolff anf Aagdje Deken in 1782. A moral tale in which the wayward heroine is saved by the love of a good man.</description>
+    </event>
+    <event>
+      <start>1858-1-1 0:0:0</start>
+      <end>1858-1-1 0:0:0</end>
+      <text>Slavery abolished in Dutch East Indies</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1863-1-1 0:0:0</start>
+      <end>1863-1-1 0:0:0</end>
+      <text>Slavery abolished Dutch West Indies</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1866-1-1 0:0:0</start>
+      <end>1866-1-1 0:0:0</end>
+      <text>First trade unions formed</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD</description>
+    </event>
+    <event>
+      <start>1872-1-1 0:0:0</start>
+      <end>1872-1-1 0:0:0</end>
+      <text>Gemaal De Hooge Boezem opens</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Village/local</category>
+      <description>Query MM/DD
+
+Pumping station with Crosssley engine draining Lopikerwaard.
+
+Haas is in the main street of the pumping station since 1872, the High Mantel behind Haas. The pumping station was to begin 90 years of service in the drainage above the Lopikerwaard. When it ceased to function threatened sloop.Gelukkig succeeded Foundation The High Pumping Bosom in acquiring the property. The pumping station since 1995 when Poldermuseum 6 days a week open to the public, being given the opportunity by more than 30 volunteers and some financial sponsors.
+The complex - now national monument - includes the pumping station building opposite the former home operator. It was Haas tourist information office, also known as access desk for polder museum functions.
+Water past, present and future...
+The museum tells the history of the pumping station itself and the story of how people in ancient times this region was habitable with wind mills and - later - Ground. The museum also focuses on the current and future problems: we keep this country sinking deeper and deeper still dry? Are we still talking about 250 years?</description>
+    </event>
+    <event>
+      <start>1923-1-1 0:0:0</start>
+      <end>1923-1-1 0:0:0</end>
+      <text>Dutch Windmill Society established</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>National</category>
+      <description>Query MM/DD
+
+To preserve the mills from destruction as old fashioned now modern pumping engines in use.</description>
+    </event>
+    <event>
+      <start>1859-1-1 0:0:0</start>
+      <end>1859-1-1 0:0:0</end>
+      <text>Darwin's Origin of the Species published</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>International</category>
+      <description>?DD/MM
+
+Followed the publication of following:
+
+Vestiges of the Natural History of Creation was a significant work of natural history published anonymously in England in 1844. It brought together various ideas of stellar evolution and progressive transmutation of species governed by God-given laws in an accessible narrative which tied together numerous speculative scientific theories of the age.
+It was initially well received by polite Victorian society and became a bestseller, but its unorthodox themes contradicted the natural theology of the time and was reviled by orthodox clergymen and scientists, who readily found fault in its amateurish deficiencies. The ideas in the book were favoured by Radicals, but its presentation remained popular with a wide public. It has been seen as causing a shift in public opinion which paved the way for the general acceptance of evolution which followed on from the publication of On the Origin of Species by Charles Darwin, and continued to outsell that book until the end of the 19th century.
+For many decades there was speculation, often correct, as to its authorship. The 12th edition, published in 1884, finally revealed officially that the author was Robert Chambers, a Scottish journalist, who had written the book in St Andrews between 1841 and 1844. Much of the inspiration for the work derived from the Edinburgh Phrenological Society whose influence reached a climax between 1825 and 1840. Chambers was closely involved with the phrenologists William A.F. Browne and Hewett Cottrell Watson who did much to spell out the materialist theory of the mind. Chambers himself died in 1871 and is buried in the grounds of St Andrews Cathedral.</description>
+    </event>
+    <event>
+      <start>1922-12-21 0:0:0</start>
+      <end>1922-12-21 0:0:0</end>
+      <text>Paulina makes her will</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+      <description>Also sealed packet which is speculated to contain letters and day book notes.
+
+Tried to remeber evryone in the family but some dispute seems hinted re Baarn and Albert Muurling (cousin?). Comment that she was unwordly.</description>
+    </event>
+    <event>
+      <start>1869-8-1 0:0:0</start>
+      <end>1869-8-1 0:0:0</end>
+      <text>PMBV &amp; JJFM moved to Den Haag</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+      <description>the Bezuidenhoutseweg at of of the Boschstraat in The Hague in the 19th century. Ideze street in the then nieuwbouwwijk the young couple from 1869 up to 1877 has lived. Nearly the whole district has been devastated at a bombardment during.</description>
+    </event>
+    <event>
+      <start>1877-12-1 0:0:0</start>
+      <end>1877-12-1 0:0:0</end>
+      <text>PMBV &amp; JJFM move back to Haastrecht</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+    </event>
+    <event>
+      <start>1853-1-1 0:0:0</start>
+      <end>1853-1-1 0:0:0</end>
+      <text>Daguerrotype with parents and Aegidia</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+    </event>
+    <event>
+      <start>1865-7-27 0:0:0</start>
+      <end>1865-7-27 0:0:0</end>
+      <text>Holiday in Switzerland &amp; Italy</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+      <description>Letter to her frind Mientje Blankewn.
+Went with parents and 'Attendants'
+via Chamonix to Millan</description>
+    </event>
+    <event>
+      <start>1866-7-14 0:0:0</start>
+      <end>1866-7-14 0:0:0</end>
+      <text>Visit to Aachen</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Paulina Maria Bisdom von Vliet</category>
+      <description>Letter to Mientje.
+Possibly visiting relatives. Went by train via De Steeg.</description>
+    </event>
+    <event>
+      <start>1907-1-1 0:0:0</start>
+      <end>1907-1-1 0:0:0</end>
+      <text>Portrait of dog</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Gilles Johannes FM (bro-in-law)</category>
+      <description>by Otto Eerelman
+
+/home/dreeve/Documents/AStoryForPaulina/Research/Bouvier-de-Flandres-portrait.Jpeg</description>
+    </event>
+    <event>
+      <start>1765-9-10 0:0:0</start>
+      <end>1821-5-19 0:0:0</end>
+      <text>Gilles Johannis le Fevre de Montigny</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Gilles Johannis FM (JJs grandfather)</category>
+      <description>Gilles Johannis le Fèvre de Montigny ( Gemonde , 10 September 1765 - Maassluis , 19 May 1821 ) was a Dutch soldier. He was an engineer responsible for designing and defenses as a cartographer responsible for making military maps [1] .
+[ edit ] Life and work
+
+
+
+Cartouche title of the Le Fèvre de Montigny in 1800 made ​​the map of Zijpe [2]
+Le Fèvre de Montigny was in 1765 Gemonde son of the captain, engineer and later lieutenant-colonel and director of the Lower Rhine and IJsssellinie Nicolaes John Le Fevre (de Montigny) and Maria de Bruyn [3] . Like his father he made ​​career in the army. He served in the military engineering and fortifications designed in various parts of the country. From 1795 to 1800 he was a captain-engineer adjutant of the Director-General of the genius H. van Hooff and from 1800 he was adjutant of the council pensionary Rutger Jan Schimmelpenninck [2] . In 1803 he designed the fortifications at Den Helder [4] .
+In 1803 engineer refused Jan Blanken at his command an inspection tour. The incident led to the resignation of white men from the army, which then would make careers in what later would be called rijkswaterstaat [5] . In 1811, Le Fèvre de Montigny designated as the first administrator of the Cadaster [6] . Previously, he was already 1806 examiner of surveyors in the precursor of the register, verponding ', would be appointed [1] . In 1814 he was promoted to lieutenant colonel in the engineering genius.
+Le Fèvre de Montigny married on November 11, 1807 to Zwartewaal Lena van der Sluys. He died in May 1821 at age 55 in Maassluis. His namesake great-great grandson Gillis John's was in the second half of the 20th century the Dutch land forces commander and Chief of Defence Staff .</description>
+    </event>
+    <event>
+      <start>1866-1-1 0:0:0</start>
+      <end>1866-1-1 0:0:0</end>
+      <text>Gillis Johannis FM married</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Gilles Johannes FM (bro-in-law)</category>
+      <description>Wife was Mary Woutherina van Haaften</description>
+    </event>
+    <event>
+      <start>2011-10-5 0:0:0</start>
+      <end>2011-10-5 0:0:0</end>
+      <text>Johan Jacob FM (JJs nephew)</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>JohanJacob FM (JJs nephew)</category>
+      <description>Persoonlijke gegevens Johan Jacob de Fèvre De Montigny 
+
+Hij is geboren op 17 maart 1868 in Berkel (Zuid-Holland).
+Hij is overleden op 16 januari 1923 in New York (Usa), hij was toen 54 jaar oud.
+Voorouders van Johan Jacob de Fèvre De Montigny
+
+ 	 	 	 
+Gillis Johannes de Fèvre De Montigny
+Maria Woutherina van Haaften
+
+Johan Jacob de Fèvre De Montigny
+1868-1923
+x.1893
+Geertruida Johanna Schenkenberg Van Mierop
+1868-1946
+
+Maria Wouterina de Fèvre De Montigny
+± 1895-????	Johanna Gijsberta de Fèvre De Montigny
+± 1896-????
+
+Gezin van Johan Jacob de Fèvre De Montigny
+
+Hij is getrouwd met Geertruida Johanna Schenkenberg Van Mierop op 23 november 1893 te Hilligersberg[ Bron 1 ].
+
+Bruidegom Johan Jacob Le Fèvre de Montigny , Berkel en Rodenrijs , 25
+Vader Gillis Johannis Le Fèvre de Montigny
+Moeder Maria Wouterina van Haaften
+Bruid Geertruida Johanna Schenkenberg van Mierop , Delfshaven , 25
+Vader Lodewijk Hendrik Schenkenberg van Mierop
+Moeder Jannetje Gijsbertje Pijnacker Hordijk
+--------------------------------------------------------------------------------------
+Kind(eren):
+
+Maria Wouterina de Fèvre De Montigny  ± 1895-????
+Johanna Gijsberta de Fèvre De Montigny  ± 1896-????
+</description>
+    </event>
+    <event>
+      <start>1868-3-17 0:0:0</start>
+      <end>1923-1-16 0:0:0</end>
+      <text>Johan Jacob FM (JJs nephew)</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>JohanJacob FM (JJs nephew)</category>
+      <description>Persoonlijke gegevens Johan Jacob de Fèvre De Montigny 
+
+Hij is geboren op 17 maart 1868 in Berkel (Zuid-Holland).
+Hij is overleden op 16 januari 1923 in New York (Usa), hij was toen 54 jaar oud.
+Voorouders van Johan Jacob de Fèvre De Montigny
+
+ 	 	 	 
+Gillis Johannes de Fèvre De Montigny
+Maria Woutherina van Haaften
+
+Johan Jacob de Fèvre De Montigny
+1868-1923
+x.1893
+Geertruida Johanna Schenkenberg Van Mierop
+1868-1946
+
+Maria Wouterina de Fèvre De Montigny
+± 1895-????	Johanna Gijsberta de Fèvre De Montigny
+± 1896-????
+
+
+
+Persoonlijke gegevens Geertruida Johanna Schenkenberg Van Mierop 
+
+
+Zij is geboren op 28 september 1868 in Delfshaven.[ Bron 1 ]
+Gemeente Delfshaven, Geboorteakte, Aktenummer 288
+Geboortedatum 28-09-1868, Aangiftedatum 30-09-1868, Geboorteplaats Delfshaven
+Naam Geertruida Johanna Schenkenberg van Mierop
+Vader: Lodewijk Hendrik Schenkenberg van Mierop
+Moeder:Jannetje Gijsbertje Pijnacker Hordijk
+Zij is overleden op 10 maart 1946 in Zwolle, zij was toen 77 jaar oud.
+Voorouders van Geertruida Johanna Schenkenberg Van Mierop
+
+Toon totale kwartierstaat
+			
+Johan Hendrik Daniël Schenkenberg Van Mierop
+1799-1864	Johanna Elisabeth Beelaerts Van Emmichhoven
+1801-1869	Abraham Pijnacker Hordijk
+1809-1879	Geertje Janna van Wijk
+1810-1867
+	
+Lodewijk Hendrik Schenkenberg Van Mierop
+1841-1908	Jannetje Gijsbertje Pijnacker Hordijk
+1838-1916
+
+Geertruida Johanna Schenkenberg Van Mierop
+1868-1946
+x.1893
+Johan Jacob de Fèvre De Montigny
+1868-1923
+
+Maria Wouterina de Fèvre De Montigny
+± 1895-????	Johanna Gijsberta de Fèvre De Montigny
+± 1896-????
+
+Gezin van Geertruida Johanna Schenkenberg Van Mierop
+
+Zij is getrouwd met Johan Jacob de Fèvre De Montigny op 23 november 1893 te Hilligersberg[ Bron 2 ].
+
+Bruidegom Johan Jacob Le Fèvre de Montigny , Berkel en Rodenrijs , 25
+Vader Gillis Johannis Le Fèvre de Montigny
+Moeder Maria Wouterina van Haaften
+Bruid Geertruida Johanna Schenkenberg van Mierop , Delfshaven , 25
+Vader Lodewijk Hendrik Schenkenberg van Mierop
+Moeder Jannetje Gijsbertje Pijnacker Hordijk
+--------------------------------------------------------------------------------------
+Kind(eren):
+
+Maria Wouterina de Fèvre De Montigny  ± 1895-????
+Johanna Gijsberta de Fèvre De Montigny  ± 1896-????
+</description>
+    </event>
+  </events>
+  <view>
+    <displayed_period>
+      <start>1823-7-3 0:0:0</start>
+      <end>1833-7-3 0:0:0</end>
+    </displayed_period>
+    <hidden_categories>
+      <name>International</name>
+    </hidden_categories>
+  </view>
+</timeline>
