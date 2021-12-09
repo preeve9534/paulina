@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:svg="http://www.w3.org/2000/svg"
-         xmlns:m="http://www.w3.org/1998/Math/MathML"
-         xmlns:html="http://www.w3.org/1999/xhtml"
-         xmlns:db="http://docbook.org/ns/docbook">
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook">
   <title>Prologue</title>
 
   <section>
-    <title/>
-
     <para>The curator adjusted the head torch then began warming the short,
     thin-bladed knife over the spirit burner which was placed diagonally
     across the table from her. Satisfied that the sliver of steel was warm
@@ -20,7 +14,7 @@
     took some careful working of the blade to remove but finally it came away
     intact to be laid aside with a frisson of relief that no damage had been
     done during its removal. Her mission was to reveal the contents of the
-    artefact with a view to re-assembling the parts into the exact form in
+    artifact with a view to re-assembling the parts into the exact form in
     which the whole had been created over a century earlier. This was no easy
     task since the packet, which was about the size of modern paperback, had
     been thoroughly secured so as to evidence even the slightest attempt at
@@ -46,7 +40,7 @@
     attempt at working the knife beneath the flap because the blade snagged,
     almost tearing the paper.</para>
 
-    <para>The select group of museum friends dwho had been invited to attend
+    <para>The select group of museum friends who had been invited to attend
     this special event and who had been unconsciously leaning ever further
     forward as the curator did her work now drew in their breath as one. Each
     now became suddenly self-conscious, their rapt attention broken, and they
@@ -92,7 +86,7 @@
 
     <para>The curator gathered her wandering thoughts, replaced the head torch
     and returned her attention to the packet The guests quietened down at the
-    resumption of activity as at the package. This time the curatot made
+    resumption of activity as at the package. This time the curator made
     greater allowance being for the liquid being applied to soak into the
     old-fashioned glue. Timing was of the essence as letting the fine wove
     paper become wet to the point of soggy would also court disaster. But, at
@@ -101,7 +95,7 @@
     <para>Now the moment had arrived for the packet to be opened and the cache
     of documents that it had concealed since 1922 released into the light. It
     would have brought a touch of magic to the proceedings had it been
-    possible to withdraw the papers one by one with a flourish as a conjourer
+    possible to withdraw the papers one by one with a flourish as a conjurer
     might pull playing cards from a top hat. However, the thoroughness of
     their author's preparation thwarted this performance with an encircling
     girdle of fine, pink, silk ribbon intended to maintain the neatness of her
@@ -172,12 +166,15 @@
     and a stage cough nearby. Looking up, the curator came face to stony face
     with the Bisdom van Vliet trust's lawyer.</para>
 
-    <para><quote>I think that we should observe the same legal procedure as is
-    usual for the reading of a will. It is my view, also, that the appropriate
-    experts in the relevant speciality of the law should be consulted in order
-    to make a determination as to whether this additional document is, indeed,
-    valid and binding. We need to be sure of our position before we announce
-    Weduwe Bisdom van Vliet's final wish to the public.</quote></para>
+    <para>
+      <quote>I think that we should observe the same legal procedure as is
+      usual for the reading of a will. It is my view, also, that the
+      appropriate experts in the relevant speciality of the law should be
+      consulted in order to make a determination as to whether this additional
+      document is, indeed, valid and binding. We need to be sure of our
+      position before we announce Weduwe Bisdom van Vliet's final wish to the
+      public.</quote>
+    </para>
 
     <para>The curator knew that the lawyer was right despite her frustration
     at the anti-climax of having so nearly exposed this last, unanticipated
@@ -195,7 +192,7 @@
     small but modern flat in what had previously been part of the house used
     only by servants. Her working days were spent in the dusty splendour of
     the main part of the house which had, indeed, been left in a century long
-    time warp. She had also got inot the habit of wandering the rooms when the
+    time warp. She had also got into the habit of wandering the rooms when the
     museum was closed, sometimes coming to rest in a chair and exercising her
     imagination in order to empathise with Paulina. It would only be right
     that she should be the one to write the widow's biography since she felt

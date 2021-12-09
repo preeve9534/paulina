@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:svg="http://www.w3.org/2000/svg"
-         xmlns:m="http://www.w3.org/1998/Math/MathML"
-         xmlns:html="http://www.w3.org/1999/xhtml"
-         xmlns:db="http://docbook.org/ns/docbook">
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook">
   <title>Juli 1869</title>
 
   <section>
-    <title></title>
-
     <para>The man waiting patiently at the edge of the room was quite
     unremarkable. He could neither be described as tall nor short, thick-set
     nor thin, dark nor fair and he wore clothes that were neither rough nor
@@ -60,116 +54,140 @@
     listener was left to interpret what he heard for himself and form what
     judgement he may of the individual it concerned.</para>
 
-    <para><quote>The subject, Johan Jacob le Fèvre de Montigny, is the second
-    living son of Johan Jacob le Fèvre de Montigny, after whom he was named,
-    and Petronella Henrietta Kleijn. His father was called to the ministry of
-    the Nederlandse Hevormde Kerk as a young man and all his family practice
-    that religion.</quote></para>
+    <para>
+      <quote>The subject, Johan Jacob le Fèvre de Montigny, is the second
+      living son of Johan Jacob le Fèvre de Montigny, after whom he was named,
+      and Petronella Henrietta Kleijn. His father was called to the ministry
+      of the Nederlandse Hevormde Kerk as a young man and all his family
+      practice that religion.</quote>
+    </para>
 
-    <para><quote>He has one surviving older brother, Gillis Johannes le Fèvre
-    de Montigny, named after his grandfather. This brother was born in 1837 in
-    the village of Kwadijk in the Zeevang community of North Holland, his
-    father being the pastor resident there. A second child, Bartolomeus, born
-    in 1938, did not survive infancy. The family were quite short of funds at
-    this time.</quote></para>
+    <para>
+      <quote>He has one surviving older brother, Gillis Johannes le Fèvre de
+      Montigny, named after his grandfather. This brother was born in 1837 in
+      the village of Kwadijk in the Zeevang community of North Holland, his
+      father being the pastor resident there. A second child, Bartolomeus,
+      born in 1938, did not survive infancy. The family were quite short of
+      funds at this time.</quote>
+    </para>
 
-    <para><quote>In 1839 the family moved to Nieuwe Tonge in the community of
-    Middleharnis on the island of Goeree-Overflakkee in South Holland. Here
-    Johan Jacob junior was born in 1840 and another child, Henri Pieter,
-    arrived some years later.</quote></para>
+    <para>
+      <quote>In 1839 the family moved to Nieuwe Tonge in the community of
+      Middleharnis on the island of Goeree-Overflakkee in South Holland. Here
+      Johan Jacob junior was born in 1840 and another child, Henri Pieter,
+      arrived some years later.</quote>
+    </para>
 
-    <para><quote>Johan Jacob senior was predikant of the parish of Nieuwe
-    Tonge for the remainder of his lifetime, his fortunes improving such that
-    he was registered as a landowner at his death in 1849. It is said that his
-    new parish was granted as the result of the application of both power and
-    money on the part of his parents. Nieuwe Tonge was certainly an
-    improvement on Kwadijk in both location, being close to his family, and in
-    possessing an environment more favourable for both physical and financial
-    health. However, his choice of profession is rather at odds with the
-    occupations of the rest of his well-respected patrician
-    family.</quote></para>
+    <para>
+      <quote>Johan Jacob senior was predikant of the parish of Nieuwe Tonge
+      for the remainder of his lifetime, his fortunes improving such that he
+      was registered as a landowner at his death in 1849. It is said that his
+      new parish was granted as the result of the application of both power
+      and money on the part of his parents. Nieuwe Tonge was certainly an
+      improvement on Kwadijk in both location, being close to his family, and
+      in possessing an environment more favourable for both physical and
+      financial health. However, his choice of profession is rather at odds
+      with the occupations of the rest of his well-respected patrician
+      family.</quote>
+    </para>
 
-    <para><quote>The subject's grandfather, Gillis Johannes senior, married
-    Lena van der Sluys in 1807 at Zwartewaal, near Brielle on the island of
-    Voorne-Putten in South Holland. They had two daughters and two sons who
-    survived into adulthood. The daughters, who are the eldest children,
-    married well. Maria Johanna wed Arij Jacobusz Hogendijk, a shipowner and
-    merchant, and lives in Vlardingen. The Hogendijks are a clan of
-    shipbuilders and builders in the area of Krimpen aan den IJssel. Jacoba
-    Elena wed Johannes Oudorp Kotebrant who was appointed mayor of Kralingen
-    near Rotterdam in 1867. The Oudorp family also has connections in the East
-    Indies. A fourth and youngest child, Jacob known as Jacques, requires
-    money for his care and always lives with a family member. He was in the
-    home of Lena van der Sluys until her death in 1859, some 38 years after
-    her husband, at Oudendijk. Jaques now lives with the Kralingen branch of
-    the family but it has not been possible to discover what ails
-    him.</quote></para>
+    <para>
+      <quote>The subject's grandfather, Gillis Johannes senior, married Lena
+      van der Sluys in 1807 at Zwartewaal, near Brielle on the island of
+      Voorne-Putten in South Holland. They had two daughters and two sons who
+      survived into adulthood. The daughters, who are the eldest children,
+      married well. Maria Johanna wed Arij Jacobusz Hogendijk, a shipowner and
+      merchant, and lives in Vlardingen. The Hogendijks are a clan of
+      shipbuilders and builders in the area of Krimpen aan den IJssel. Jacoba
+      Elena wed Johannes Oudorp Kotebrant who was appointed mayor of Kralingen
+      near Rotterdam in 1867. The Oudorp family also has connections in the
+      East Indies. A fourth and youngest child, Jacob known as Jacques,
+      requires money for his care and always lives with a family member. He
+      was in the home of Lena van der Sluys until her death in 1859, some 38
+      years after her husband, at Oudendijk. Jaques now lives with the
+      Kralingen branch of the family but it has not been possible to discover
+      what ails him.</quote>
+    </para>
 
-    <para><quote>The subject's grandfather, Gillis Johannes le Fèvre de
-    Montigny was born at Den Bosch in North Brabant in 1765 and died at
-    Maasluis in South Holland in 1821. In 1776 he became a Kornet in the
-    Regiment Oranje-Gelderland. By 1782 he had risen to the rank of Kolonel in
-    the Korps Ingenieurs which became Korps der Genie in 1806 then the
-    Koninklijk Korps der Artillerie en Genie in 1807. He is noted and
-    respected for his work in map-making and, less so, for the design of
-    defensive structures. In 1806 he was appointed examiner of surveys to the
-    land register. The Koninklijk Korps der Artillerie en Genie closed in 1810
-    after French came to power but Kolonel le Fèvre de Montigny was one of the
-    few to retain his rank in the French army.</quote></para>
+    <para>
+      <quote>The subject's grandfather, Gillis Johannes le Fèvre de Montigny
+      was born at Den Bosch in North Brabant in 1765 and died at Maasluis in
+      South Holland in 1821. In 1776 he became a Kornet in the Regiment
+      Oranje-Gelderland. By 1782 he had risen to the rank of Kolonel in the
+      Korps Ingenieurs which became Korps der Genie in 1806 then the
+      Koninklijk Korps der Artillerie en Genie in 1807. He is noted and
+      respected for his work in map-making and, less so, for the design of
+      defensive structures. In 1806 he was appointed examiner of surveys to
+      the land register. The Koninklijk Korps der Artillerie en Genie closed
+      in 1810 after French came to power but Kolonel le Fèvre de Montigny was
+      one of the few to retain his rank in the French army.</quote>
+    </para>
 
-    <para><quote>Thus from 1810 – 1811 the Kolonel was <emphasis>chef de
-    battailion</emphasis> 1e Klasse. He was designated premier administrator
-    to Hollandse cadaster which surveyed and mapped the Netherlands in order
-    to create the land register which was to form the basis of new tax laws on
-    property. He held this post until 1817 and is best known for the quality
-    of his work and for taking a principled stand over standardization and
-    detail in his surveys. This was deemed both costly and irrelevant by those
-    in charge of the project but le Fèvre de Montigny stood fast and overcame
-    this opposition to oversee the production of the first set of detailed and
-    accurate maps of our country.</quote></para>
+    <para>
+      <quote>Thus from 1810 – 1811 the Kolonel was <emphasis>chef de
+      battailion</emphasis> 1e Klasse. He was designated premier administrator
+      to Hollandse cadaster which surveyed and mapped the Netherlands in order
+      to create the land register which was to form the basis of new tax laws
+      on property. He held this post until 1817 and is best known for the
+      quality of his work and for taking a principled stand over
+      standardization and detail in his surveys. This was deemed both costly
+      and irrelevant by those in charge of the project but le Fèvre de
+      Montigny stood fast and overcame this opposition to oversee the
+      production of the first set of detailed and accurate maps of our
+      country.</quote>
+    </para>
 
-    <para><quote>The subject's grandfather had followed in the military
-    footsteps of his own father, Johan Nicolaas le Fèvre de Montigny, who
-    joined the Korps Ingenieurs as a Kornet 1776 and rose to the rank of
-    Lieutenant-Kolonel in 1795. Johan Nicolaas became Directeur of Nederrijn-
-    en IJssellinie defensive works, for which he produced the first accurate
-    maps of Overijssel and Zeeland.</quote></para>
+    <para>
+      <quote>The subject's grandfather had followed in the military footsteps
+      of his own father, Johan Nicolaas le Fèvre de Montigny, who joined the
+      Korps Ingenieurs as a Kornet 1776 and rose to the rank of
+      Lieutenant-Kolonel in 1795. Johan Nicolaas became Directeur of
+      Nederrijn- en IJssellinie defensive works, for which he produced the
+      first accurate maps of Overijssel and Zeeland.</quote>
+    </para>
 
-    <para><quote>To return to more recent events. The subject and two brothers
-    were still minors in the care of their mother, Petronella Henrietta
-    Kleijn, when their grandmother, Lena van der Sluys, died in 1857. At this
-    point the three pastor's sons inherited a significant amount of money,
-    being their father's share of the estate. The subject's grandmother owned
-    a great deal of land around Brielle which was sold by her heirs and the
-    proceeds apportioned between them. The subject's mother did not benefit
-    from this inheritance and died some years later at the age of fifty three.
-    I could find no trace of the younger brother after that
-    event.</quote></para>
+    <para>
+      <quote>To return to more recent events. The subject and two brothers
+      were still minors in the care of their mother, Petronella Henrietta
+      Kleijn, when their grandmother, Lena van der Sluys, died in 1857. At
+      this point the three pastor's sons inherited a significant amount of
+      money, being their father's share of the estate. The subject's
+      grandmother owned a great deal of land around Brielle which was sold by
+      her heirs and the proceeds apportioned between them. The subject's
+      mother did not benefit from this inheritance and died some years later
+      at the age of fifty three. I could find no trace of the younger brother
+      after that event.</quote>
+    </para>
 
-    <para><quote>At the time that he benefited from his inheritance the older
-    brother, Gillis Johannes, was employed as a candidate notary in Den Haag.
-    After his grandmother's death he moved to Brielle then, in 1864, gave up
-    the law and went to live in Berkel near Rotterdam, having been appointed
-    burgemeester of Berkel and Rodenrijs at the end of the previous year.
-    Gillis Johannes has recently been appointed burgemeester of Hillegersberg
-    and Bergschenhoek, which neighbours his previous constituency yet is more
-    favourably located for development as a substantial centre of business and
-    an elegant residential area. It would seem that the subject's brother has
-    used his new-found wealth and his ancestor's influential name in order to
-    progress a career in politics. In 1866 he married Maria Woutherina van
-    Haaften in Den Haag. To date, he has one son, an infant given the family
-    names of Johan Jacob. He has just built a substantial villa in
-    Hillegersberg where the subject is also currently residing.</quote></para>
+    <para>
+      <quote>At the time that he benefited from his inheritance the older
+      brother, Gillis Johannes, was employed as a candidate notary in Den
+      Haag. After his grandmother's death he moved to Brielle then, in 1864,
+      gave up the law and went to live in Berkel near Rotterdam, having been
+      appointed burgemeester of Berkel and Rodenrijs at the end of the
+      previous year. Gillis Johannes has recently been appointed burgemeester
+      of Hillegersberg and Bergschenhoek, which neighbours his previous
+      constituency yet is more favourably located for development as a
+      substantial centre of business and an elegant residential area. It would
+      seem that the subject's brother has used his new-found wealth and his
+      ancestor's influential name in order to progress a career in politics.
+      In 1866 he married Maria Woutherina van Haaften in Den Haag. To date, he
+      has one son, an infant given the family names of Johan Jacob. He has
+      just built a substantial villa in Hillegersberg where the subject is
+      also currently residing.</quote>
+    </para>
 
-    <para><quote>As to the subject's biography, he attended a private
-    elementary school in Hilversum then, aged 14, commenced training as a
-    sea-going officer in the navy. The reasons for his taking this course of
-    action rather than following the family preference for the military are
-    not known. The Naval Training School in Den Helder did not exist at that
-    time so our subject's training was arranged as a private matter between
-    the family and appropriate sea captains. Perhaps the influence of his
-    family background set him on the course of becoming a navigation
-    officer.</quote></para>
+    <para>
+      <quote>As to the subject's biography, he attended a private elementary
+      school in Hilversum then, aged 14, commenced training as a sea-going
+      officer in the navy. The reasons for his taking this course of action
+      rather than following the family preference for the military are not
+      known. The Naval Training School in Den Helder did not exist at that
+      time so our subject's training was arranged as a private matter between
+      the family and appropriate sea captains. Perhaps the influence of his
+      family background set him on the course of becoming a navigation
+      officer.</quote>
+    </para>
 
     <para>The man smiled wryly to himself behind his stony face as he examined
     his client for any sign that his little pun had been appreciated. He often
@@ -182,53 +200,65 @@
     his expression at the man's slight whimsy. Thus, coming to the meat of the
     matter, the man continued,</para>
 
-    <para><quote>The subject's first voyage of any length was as a Kornet on
-    the Frigate <emphasis>Admiral van Wassenaar</emphasis> from 1855 to 1856.
-    During another two-year voyage from 1857 to 1859, also on a Frigate, he
-    was promoted to Adelborst. Then he served on the transport ship
-    <emphasis>De Heldin</emphasis> which sailed from Hellevoetsluis to the
-    West Indies, being promoted to Lieutenant ter Zee der 2e Klasse in 1859.
-    In connection with his voyages, he has purchased many charts and maps,
-    including of Java, the Batta countries and Sumatra in the East Indies, as
-    well as inheriting many maps from his forbears.</quote></para>
+    <para>
+      <quote>The subject's first voyage of any length was as a Kornet on the
+      Frigate <emphasis>Admiral van Wassenaar</emphasis> from 1855 to 1856.
+      During another two-year voyage from 1857 to 1859, also on a Frigate, he
+      was promoted to Adelborst. Then he served on the transport ship
+      <emphasis>De Heldin</emphasis> which sailed from Hellevoetsluis to the
+      West Indies, being promoted to Lieutenant ter Zee der 2e Klasse in 1859.
+      In connection with his voyages, he has purchased many charts and maps,
+      including of Java, the Batta countries and Sumatra in the East Indies,
+      as well as inheriting many maps from his forbears.</quote>
+    </para>
 
-    <para><quote>At the age of twenty two he left the navy and began to live
-    variously in hotels in Den Haag, Amsterdam and Gouda as well as with his
-    brother near Rotterdam. He has made substantial investments using the firm
-    of Jonas &amp; Krugeman in Amsterdam, including a particularly successful
-    venture in the Koninklijke Stoomboot Maatschappij. He is a member of Den
-    Haag Freemason's lodge and The Amsterdam branch of the public welfare
-    organisation Maatschappij tot Nut van het Algemeen. He has never married
-    and no scandal attaches to his name.</quote></para>
+    <para>
+      <quote>At the age of twenty two he left the navy and began to live
+      variously in hotels in Den Haag, Amsterdam and Gouda as well as with his
+      brother near Rotterdam. He has made substantial investments using the
+      firm of Jonas &amp; Krugeman in Amsterdam, including a particularly
+      successful venture in the Koninklijke Stoomboot Maatschappij. He is a
+      member of Den Haag Freemason's lodge and The Amsterdam branch of the
+      public welfare organisation Maatschappij tot Nut van het Algemeen. He
+      has never married and no scandal attaches to his name.</quote>
+    </para>
 
     <para>The man stopped speaking and looked directly at Viruly. An interval
     elapsed during which Viruly tried to formulate his thoughts for the
     response which was clearly expected. In the end he simply said,</para>
 
-    <para><quote>If I understand you correctly, Lieutenant le Fèvre de
-    Montigny comes from a lesser branch of a notable patrician family. He is
-    of the Nederlandse Hevormde Kerk protestant religion, possessed of some
-    wealth and a member of suitably worthy organisations. He has never married
-    and has no independent household.</quote></para>
+    <para>
+      <quote>If I understand you correctly, Lieutenant le Fèvre de Montigny
+      comes from a lesser branch of a notable patrician family. He is of the
+      Nederlandse Hevormde Kerk protestant religion, possessed of some wealth
+      and a member of suitably worthy organisations. He has never married and
+      has no independent household.</quote>
+    </para>
 
     <para>The man nodded his confirmation. Viruly continued,</para>
 
-    <para><quote>Does he have any particular friends?</quote></para>
+    <para>
+      <quote>Does he have any particular friends?</quote>
+    </para>
 
     <para>The man knew that not even the smallest grain of the truth must dust
     his answer,</para>
 
-    <para><quote>The subject has an easy social manner which has engaged many
-    acquaintances but he has formed no particular friendships. His
-    relationship with his brother has endured and indicates that he has the
-    potential to form deep and lasting attachments.</quote></para>
+    <para>
+      <quote>The subject has an easy social manner which has engaged many
+      acquaintances but he has formed no particular friendships. His
+      relationship with his brother has endured and indicates that he has the
+      potential to form deep and lasting attachments.</quote>
+    </para>
 
     <para>This answer had only skimmed the surface of Viruly's most serious
     concern so he felt that he must press further,</para>
 
-    <para><quote>You say that no scandal attaches to his name but you do not
-    offer any more detailed assessment of his character. I should be
-    interested to hear your opinion of him as a man.</quote></para>
+    <para>
+      <quote>You say that no scandal attaches to his name but you do not offer
+      any more detailed assessment of his character. I should be interested to
+      hear your opinion of him as a man.</quote>
+    </para>
 
     <para>The man had prepared his answer, having expected such a line of
     enquiry. He knew that he needed to tread carefully in what he said but
@@ -237,19 +267,22 @@
     jeopardy of losing valuable clients and perhaps even put him in the way of
     a more physical sort of danger.</para>
 
-    <para><quote>The subject is a sailor and a bachelor who has been in the
-    habit of going where he pleases and suiting himself. Many of his
-    connections are people who share his charitable, business and religious
-    interests and others are naval colleagues. He is accepted into polite
-    society wherever he goes.</quote></para>
+    <para>
+      <quote>The subject is a sailor and a bachelor who has been in the habit
+      of going where he pleases and suiting himself. Many of his connections
+      are people who share his charitable, business and religious interests
+      and others are naval colleagues. He is accepted into polite society
+      wherever he goes.</quote>
+    </para>
 
-    <para><quote>I should perhaps mention that there has lately been an
-    alteration in his usual behaviours which might be interpreted as
-    indicating that he has come to a time in his life where he is ready to
-    settle down and take a wife, should he find someone suitable. For
-    instance, I have heard that he has very recently made enquiries as to the
-    purchase of a house presently under construction in a fashionable part of
-    The Hague.</quote></para>
+    <para>
+      <quote>I should perhaps mention that there has lately been an alteration
+      in his usual behaviours which might be interpreted as indicating that he
+      has come to a time in his life where he is ready to settle down and take
+      a wife, should he find someone suitable. For instance, I have heard that
+      he has very recently made enquiries as to the purchase of a house
+      presently under construction in a fashionable part of The Hague.</quote>
+    </para>
 
     <para>The man left his answer there, knowing that he had avoided the moral
     quagmire before him yet safely achieved the crux of the matter that
@@ -296,7 +329,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>Once back at Haastrecht, preparations for the luncheon consumed a
     great deal of Paulina's emotional energies. Everything seemed to conspire
@@ -428,7 +461,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>The day of the luncheon seemed to come round very quickly so that,
     before she knew it, Paulina was being helped into her best day dress by
@@ -583,7 +616,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>The last day of June was Paulina's twenty-ninth birthday which made
     for a constant stream of callers to the house. Villagers and tennants came

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+
+<book version="5.0" xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:m="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info>
+    <title>The Last of Her Line</title>
+
+    <author>
+      <personname>
+        <firstname>Diane</firstname>
+
+        <surname>Reeve</surname>
+      </personname>
+    </author>
+
+    <pubdate>tbc</pubdate>
+
+    <copyright>
+      <year>2012</year>
+
+      <holder>Diane Reeve</holder>
+    </copyright>
+
+    <legalnotice>
+      <para>Diane Reeve asserts her moral right to be identified as the author
+      of this work.</para>
+    </legalnotice>
+  </info>
+
+
+  <xi:include href="chapter01.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="chapter02.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="chapter03.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="chapter04.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="chapter05.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="chapter06.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="chapter07.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="chapter08.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="chapter09.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+
+</book>

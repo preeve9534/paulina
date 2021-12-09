@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:svg="http://www.w3.org/2000/svg"
-         xmlns:m="http://www.w3.org/1998/Math/MathML"
-         xmlns:html="http://www.w3.org/1999/xhtml"
-         xmlns:db="http://docbook.org/ns/docbook">
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook">
   <title>Summer 1871</title>
 
   <section>
-    <title/>
-
     <para>Joahn's sea chest had stood next to Paulina's trunks and boxes in
     the voorkammer of Van den Boschstratt 12 as the couple made their
     farewells on a freezing January morning. Four months had now passed since
@@ -700,7 +694,7 @@
     losses). Somehow Marcellus felt that the final salutation from "Your
     loving son" was rather overblown. However was his daughter faring in a
     marriage with someone so lacking in sensitivity to others and so keen to
-    inflate his emotional connections to them? </para>
+    inflate his emotional connections to them?</para>
 
     <para/>
   </section>

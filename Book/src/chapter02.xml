@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:svg="http://www.w3.org/2000/svg"
-         xmlns:m="http://www.w3.org/1998/Math/MathML"
-         xmlns:html="http://www.w3.org/1999/xhtml"
-         xmlns:db="http://docbook.org/ns/docbook">
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook">
   <title>Juni 1869</title>
 
   <section>
-    <title></title>
 
     <para>The door before her opened and Pauline stepped out of the shadow of
     the house into the warm, summer sunshine.</para>
@@ -175,7 +169,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>The service over, the children set off for home with an enthusiasm
     which the governesses could not quite curb. Pauline had expected to stay
@@ -197,7 +191,8 @@
     boat:</para>
 
     <blockquote>
-      <para><literallayout><emphasis>Schuitje varen, theetje drinken,
+      <para>
+        <literallayout><emphasis>Schuitje varen, theetje drinken,
 Varen we naar de Overtoom.
 Drinken er zoete melk met room.
 Zoete melk met brokken,
@@ -209,7 +204,8 @@ Drinking sweet milk with cream.
 Sweet milk with bread lumps,
 children, don't tell fibs.
 *The Overtoom was a canal in the suburbs of Amsterdam that connected important waterways.</para>
-          </footnote></literallayout></para>
+          </footnote></literallayout>
+      </para>
     </blockquote>
 
     <para>Looking over at the impromptu choir, she was surprised to find her
@@ -219,8 +215,9 @@ children, don't tell fibs.
     as soon as they closed and she soon found him standing before her,
     extending his hand in introduction,</para>
 
-    <para><quote>Lieutenant le Fèvre de Montigny at your
-    service.</quote></para>
+    <para>
+      <quote>Lieutenant le Fèvre de Montigny at your service.</quote>
+    </para>
 
     <para>He bowed low over her hand before releasing it but continuing to
     look directly into her eyes. His own eyes were a liquid brown and she
@@ -231,15 +228,18 @@ children, don't tell fibs.
     jaw and across his top lip, yet his chin and neck were shaved bare as was
     the fashion in Den Haag.</para>
 
-    <para><quote>I think you are a relative of Mr Viruly. You have his
-    stature.</quote></para>
+    <para>
+      <quote>I think you are a relative of Mr Viruly. You have his
+      stature.</quote>
+    </para>
 
     <para>She was amazed that he, the first person whom she had encountered
     since Margaretha had awakened her, could appreciate that she was a
     significant woman.</para>
 
-    <para><quote>I am Paulina Bisdom van Vliet, his wife's
-    half-sister.</quote></para>
+    <para>
+      <quote>I am Paulina Bisdom van Vliet, his wife's half-sister.</quote>
+    </para>
 
     <para>All her life she had insisted on being known as “Pauline” so that
     she would be distinguished from her grandmother, Paulina Maria
@@ -247,15 +247,19 @@ children, don't tell fibs.
     her to find that she had suddenly and without thought reclaimed her proper
     name, her own name.</para>
 
-    <para><quote>Your father is the burgemeester of Haastrecht?</quote></para>
+    <para>
+      <quote>Your father is the burgemeester of Haastrecht?</quote>
+    </para>
 
     <para>She nodded assent.</para>
 
-    <para><quote>Then I have had the honour of making his acquaintance at my
-    brother's house. Gilles was the burgemeester of Berkel and Rodenrijs and
-    has just become burgemeester of Hillegerberg and Bergschenhoek. Both your
-    father and Viruly were his supporters in gaining his improved
-    appointment.</quote></para>
+    <para>
+      <quote>Then I have had the honour of making his acquaintance at my
+      brother's house. Gilles was the burgemeester of Berkel and Rodenrijs and
+      has just become burgemeester of Hillegerberg and Bergschenhoek. Both
+      your father and Viruly were his supporters in gaining his improved
+      appointment.</quote>
+    </para>
 
     <para>She was glad to hear that he moved in the same social circles as her
     family and was not going to prove an embarrassment to be seen talking to.
@@ -263,16 +267,22 @@ children, don't tell fibs.
     since she was herself taller than most men. Anxious now that their
     conversation should not flag, she enquired,</para>
 
-    <para><quote>Are you in Gouda with your ship?</quote></para>
+    <para>
+      <quote>Are you in Gouda with your ship?</quote>
+    </para>
 
-    <para><quote>I am between voyages at present and like to stay at the Hotel
-    De Zalm here. So, it is fortuitous that we have met today. I see that you
-    are watching the operation of the lock, do you have an interest in
-    navigation?</quote></para>
+    <para>
+      <quote>I am between voyages at present and like to stay at the Hotel De
+      Zalm here. So, it is fortuitous that we have met today. I see that you
+      are watching the operation of the lock, do you have an interest in
+      navigation?</quote>
+    </para>
 
-    <para><quote>Since I was a child I watched boats pass our house on the
-    Hollandse IJssel and bring cargo along the Vlist to the Haven in
-    Haastrecht, but I know nothing of the sea or of the marine.</quote></para>
+    <para>
+      <quote>Since I was a child I watched boats pass our house on the
+      Hollandse IJssel and bring cargo along the Vlist to the Haven in
+      Haastrecht, but I know nothing of the sea or of the marine.</quote>
+    </para>
 
     <para>He easily took up her conversational opening and began to tell of
     his sea voyages, allowing Paulina to ask questions and show interest at
@@ -288,8 +298,9 @@ children, don't tell fibs.
     for her by turning and taking a step towards Theo, thus allowing her to do
     the same. The lieutenant then greeted Theo enthusiastically,</para>
 
-    <para><quote>Good morning, Mayor Viruly! Let me give you my
-    hand!</quote></para>
+    <para>
+      <quote>Good morning, Mayor Viruly! Let me give you my hand!</quote>
+    </para>
 
     <para>Theo only briefly touched the hand extended to him and grunted a
     greeting in reply before offering Paulina his arm and steering her in the
@@ -299,24 +310,28 @@ children, don't tell fibs.
     leaving her alone after church but also for tearing her away from her
     handsome new friend, she chided him,</para>
 
-    <para><quote>Lieutenant le Fèvre de Montigny was good enough to escort me
-    after church since your politics detained you for so long. I found his
-    company most engaging and understood that you and he were acquainted. I am
-    sorry to be parted from him so briskly and hope that I shall meet him
-    again.</quote></para>
+    <para>
+      <quote>Lieutenant le Fèvre de Montigny was good enough to escort me
+      after church since your politics detained you for so long. I found his
+      company most engaging and understood that you and he were acquainted. I
+      am sorry to be parted from him so briskly and hope that I shall meet him
+      again.</quote>
+    </para>
 
     <para>Theo was silent for some time before replying,</para>
 
-    <para><quote>Yes, I have met le Fèvre de Montigny and so has your father.
-    His brother is in politics and looks to do well. I am sorry if you thought
-    me rather unfriendly just now.</quote></para>
+    <para>
+      <quote>Yes, I have met le Fèvre de Montigny and so has your father. His
+      brother is in politics and looks to do well. I am sorry if you thought
+      me rather unfriendly just now.</quote>
+    </para>
 
     <para>There the matter rested and they were soon back inside De Haven and
     into the thick of family life once more.</para>
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>Sunday dinner was a family meal and rather chaotic so it was well
     into the afternoon before Aegidia and Paulina were alone. Paulina went to
@@ -349,108 +364,140 @@ children, don't tell fibs.
     self-consciously realised that she sounded just like a girl in love. Aggie
     picked up on this immediately, asking,</para>
 
-    <para><quote>Tell me, sister, did you perhaps flirt with him a
-    little?</quote></para>
+    <para>
+      <quote>Tell me, sister, did you perhaps flirt with him a little?</quote>
+    </para>
 
     <para>Paulina found herself blushing and left with no choice but to
     confess that perhaps she had – just a little.</para>
 
-    <para><quote>I am so pleased for you that you have found someone who takes
-    your fancy! Now, let us consider how suitable a match he would be for you.
-    What do you know of his family?</quote></para>
+    <para>
+      <quote>I am so pleased for you that you have found someone who takes
+      your fancy! Now, let us consider how suitable a match he would be for
+      you. What do you know of his family?</quote>
+    </para>
 
-    <para><quote>Well, his brother is a burgemeester and both papa and Theo
-    know him. He is an officer in the marine, too, and looks so handsome in
-    his uniform! He has such interesting things to say about his voyages and
-    the places he has visited. I wonder if he has ever been in a battle? He
-    didn't say.</quote></para>
+    <para>
+      <quote>Well, his brother is a burgemeester and both papa and Theo know
+      him. He is an officer in the marine, too, and looks so handsome in his
+      uniform! He has such interesting things to say about his voyages and the
+      places he has visited. I wonder if he has ever been in a battle? He
+      didn't say.</quote>
+    </para>
 
-    <para><quote>I think that you are getting a little distracted! If he were
-    in the military then I would know exactly who his family is. There were
-    illustrious military engineers called le Fèvre de Montigny, so he may be
-    connected with them. In which case, he is of the patriciate and socially
-    on a par with us. We should ask Theo or papa to find out
-    more.</quote></para>
+    <para>
+      <quote>I think that you are getting a little distracted! If he were in
+      the military then I would know exactly who his family is. There were
+      illustrious military engineers called le Fèvre de Montigny, so he may be
+      connected with them. In which case, he is of the patriciate and socially
+      on a par with us. We should ask Theo or papa to find out more.</quote>
+    </para>
 
-    <para><quote>Oh, but isn't that making rather a lot of fuss after just
-    one, brief meeting?</quote></para>
+    <para>
+      <quote>Oh, but isn't that making rather a lot of fuss after just one,
+      brief meeting?</quote>
+    </para>
 
-    <para><quote>My dear! I have never seen you show such an interest in a man
-    and I am so excited for you that I want to help all I can. He just might
-    be the right one for you and we shouldn't let him get away! It is not as
-    though you are a mere girl and this just an infatuation that will be gone
-    by tomorrow! You will be twenty nine years old in a few days and have a
-    mature woman's sensibilities and not a little experience in dealing with
-    potential suitors. I think that we need to find out more about your
-    handsome stranger.</quote></para>
+    <para>
+      <quote>My dear! I have never seen you show such an interest in a man and
+      I am so excited for you that I want to help all I can. He just might be
+      the right one for you and we shouldn't let him get away! It is not as
+      though you are a mere girl and this just an infatuation that will be
+      gone by tomorrow! You will be twenty nine years old in a few days and
+      have a mature woman's sensibilities and not a little experience in
+      dealing with potential suitors. I think that we need to find out more
+      about your handsome stranger.</quote>
+    </para>
 
-    <para><quote>But what if he is married or I don't feel the same next time
-    I see him?</quote></para>
+    <para>
+      <quote>But what if he is married or I don't feel the same next time I
+      see him?</quote>
+    </para>
 
-    <para><quote>We must be patient and leave it to the men to find out more.
-    But, in the meantime, perhaps we can make sure that you chance upon a
-    second meeting? You said that he is resident at Hotel De Zalm? Well then,
-    it should be easy! If you find reason to stroll in the Markt for long
-    enough you are sure to encounter him. You might even take coffee at the
-    hotel during the cheese market. How I wish that my condition allowed me to
-    go with you! As it is, my great belly would be enough to put off any
-    man!</quote></para>
+    <para>
+      <quote>We must be patient and leave it to the men to find out more. But,
+      in the meantime, perhaps we can make sure that you chance upon a second
+      meeting? You said that he is resident at Hotel De Zalm? Well then, it
+      should be easy! If you find reason to stroll in the Markt for long
+      enough you are sure to encounter him. You might even take coffee at the
+      hotel during the cheese market. How I wish that my condition allowed me
+      to go with you! As it is, my great belly would be enough to put off any
+      man!</quote>
+    </para>
 
-    <para><quote>Poor Aggie, is it really so bad?</quote></para>
+    <para>
+      <quote>Poor Aggie, is it really so bad?</quote>
+    </para>
 
-    <para><quote>I must confess that I am finding it exhausting this time. The
-    doctor says that this must be my last pregnancy if I am to fully recover
-    my health after the birth. But I seem to become pregnant so easily that I
-    am not sure how I shall stop! I could go on to have another five or ten
-    children before I am too old to conceive! What a dreadful
-    thought!</quote></para>
+    <para>
+      <quote>I must confess that I am finding it exhausting this time. The
+      doctor says that this must be my last pregnancy if I am to fully recover
+      my health after the birth. But I seem to become pregnant so easily that
+      I am not sure how I shall stop! I could go on to have another five or
+      ten children before I am too old to conceive! What a dreadful
+      thought!</quote>
+    </para>
 
-    <para><quote>Our mama must have been about the same age as you when I was
-    born yet there were no more children after me. Poor papa, he so wanted a
-    son to inherit his position and wealth but all he got was me! Which brings
-    me to the other thing that happened to me today: I have become resolved to
-    do all that I can do in this life and not be hindered by the limitations
-    on what is expected of me because of my sex. I was looking at Margaretha
-    van Parma in the stained glass window I was sitting under in church this
-    morning and she seemed pour her strength into me. So, if le Fèvre de
-    Montigny is to be my husband, he had better know that I shall not bend
-    myself or my destiny to accommodate his - or anyone else's - notion of
-    wifely behaviour!</quote></para>
+    <para>
+      <quote>Our mama must have been about the same age as you when I was born
+      yet there were no more children after me. Poor papa, he so wanted a son
+      to inherit his position and wealth but all he got was me! Which brings
+      me to the other thing that happened to me today: I have become resolved
+      to do all that I can do in this life and not be hindered by the
+      limitations on what is expected of me because of my sex. I was looking
+      at Margaretha van Parma in the stained glass window I was sitting under
+      in church this morning and she seemed pour her strength into me. So, if
+      le Fèvre de Montigny is to be my husband, he had better know that I
+      shall not bend myself or my destiny to accommodate his - or anyone
+      else's - notion of wifely behaviour!</quote>
+    </para>
 
-    <para><quote>Good gracious, Pauline. You are quite disconcerting
-    me!</quote></para>
+    <para>
+      <quote>Good gracious, Pauline. You are quite disconcerting me!</quote>
+    </para>
 
-    <para><quote>Well, you might as well know straight away that I now call
-    myself Paulina, with the 'a' that I was Christened with. I assure you that
-    nobody will ever confuse me with old Oma now!</quote></para>
+    <para>
+      <quote>Well, you might as well know straight away that I now call myself
+      Paulina, with the 'a' that I was Christened with. I assure you that
+      nobody will ever confuse me with old Oma now!</quote>
+    </para>
 
-    <para><quote>I am quite sure that you are right in that! Now,
-    Paulin-with-an-A, I have had quite enough excitement for one day so,
-    please will you read to me for a while? Since I must spend so much of my
-    day in idleness I thought I should exercise my mind in compensation.
-    Whilst you were at church I began reading 'Max Havelaar' to see what all
-    the fuss was about when it was published some years ago. I have to confess
-    that Mr Douwes Dekker's style is most conducive to rest as it fails to
-    excite. Yet, I feel that I must continue with it as the subject matter is
-    important. Theo is concerned with the political debates about our East
-    Indies colonies so it will be good to inform myself about the topic so
-    that I might appear more knowledgeable and interested when he talks of his
-    work in Den Haag.</quote></para>
+    <para>
+      <quote>I am quite sure that you are right in that! Now,
+      Paulin-with-an-A, I have had quite enough excitement for one day so,
+      please will you read to me for a while? Since I must spend so much of my
+      day in idleness I thought I should exercise my mind in compensation.
+      Whilst you were at church I began reading 'Max Havelaar' to see what all
+      the fuss was about when it was published some years ago. I have to
+      confess that Mr Douwes Dekker's style is most conducive to rest as it
+      fails to excite. Yet, I feel that I must continue with it as the subject
+      matter is important. Theo is concerned with the political debates about
+      our East Indies colonies so it will be good to inform myself about the
+      topic so that I might appear more knowledgeable and interested when he
+      talks of his work in Den Haag.</quote>
+    </para>
 
-    <para><quote>Is that the Multatuli book?</quote></para>
+    <para>
+      <quote>Is that the Multatuli book?</quote>
+    </para>
 
-    <para><quote>Yes.</quote></para>
+    <para>
+      <quote>Yes.</quote>
+    </para>
 
-    <para><quote>What a strange <emphasis>nom de
-    plume</emphasis>.</quote></para>
+    <para>
+      <quote>What a strange <emphasis>nom de plume</emphasis>.</quote>
+    </para>
 
-    <para><quote>Apparently it is Latin for 'I have borne much' – which seems
-    appropriate for my situation! I fear that the poor man had a bad time of
-    things in Java. It seems such a far-away place and such a different place
-    to Holland that I find it hard to believe that his tales have much to do
-    with us ordinary Dutch people. It has caused quite a stir, though. Maybe
-    you will be able to put some excitement into it when you read a passage
-    for me?</quote></para>
+    <para>
+      <quote>Apparently it is Latin for 'I have borne much' – which seems
+      appropriate for my situation! I fear that the poor man had a bad time of
+      things in Java. It seems such a far-away place and such a different
+      place to Holland that I find it hard to believe that his tales have much
+      to do with us ordinary Dutch people. It has caused quite a stir, though.
+      Maybe you will be able to put some excitement into it when you read a
+      passage for me?</quote>
+    </para>
 
     <para>Paulina did try to make the tale interesting but Aggie was soon fast
     asleep and she did not chose to carry on with the book for herself.
@@ -480,7 +527,7 @@ children, don't tell fibs.
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>Despite Aggie's urging her to frequent the environs of Hotel De Zalm
     in the hope of another encounter with the handsome naval officer, several
@@ -597,14 +644,17 @@ children, don't tell fibs.
     the muffled sound he turned from supervising the porter who was stacking
     his luggage and quickly covered the distance between them.</para>
 
-    <para><quote>Is there something the matter?</quote></para>
+    <para>
+      <quote>Is there something the matter?</quote>
+    </para>
 
     <para>He asked and before she had time to think about what she would say
     Paulina had replied,</para>
 
-    <para><quote>Oh, no, not at all! I had so hoped to see you again but now
-    it seems that you are going away, perhaps on a long sea
-    voyage!</quote></para>
+    <para>
+      <quote>Oh, no, not at all! I had so hoped to see you again but now it
+      seems that you are going away, perhaps on a long sea voyage!</quote>
+    </para>
 
     <para>She was aware that this was a rather bold and forthright utterance,
     although it was truthful. But Johan Jacob le Fèvre de Montigny was not a
@@ -613,28 +663,35 @@ children, don't tell fibs.
     replied in kind whilst hoping to be able to put a name to her vaguely
     recalled face.</para>
 
-    <para><quote>Do not concern yourself, my dear, I am merely paying a visit
-    to my brother in Hillegersberg. I shall not be far away and, in any case,
-    will return to De Zalm in a week or so's time. Are you taking the train
-    yourself?</quote></para>
+    <para>
+      <quote>Do not concern yourself, my dear, I am merely paying a visit to
+      my brother in Hillegersberg. I shall not be far away and, in any case,
+      will return to De Zalm in a week or so's time. Are you taking the train
+      yourself?</quote>
+    </para>
 
-    <para><quote>No, I am here in my step-sister's place beside Theo Viruly at
-    the opening ceremony; and to meet my father who is arriving with the
-    official party from Rotterdam. We are to go home to Haastrecht later today
-    but I am sure that I shall be back in Gouda once my latest niece or nephew
-    arrives.</quote></para>
+    <para>
+      <quote>No, I am here in my step-sister's place beside Theo Viruly at the
+      opening ceremony; and to meet my father who is arriving with the
+      official party from Rotterdam. We are to go home to Haastrecht later
+      today but I am sure that I shall be back in Gouda once my latest niece
+      or nephew arrives.</quote>
+    </para>
 
     <para>At last, Johan placed the woman. She was the only daughter of the
     burgemeester of Haastrecht and she seemed to be setting her cap at him. He
     was intrigued!</para>
 
-    <para><quote>My brother is among the burgemeesters from Rotterdam who have
-    been invited today. Perhaps you would like to be introduced to
-    him?</quote></para>
+    <para>
+      <quote>My brother is among the burgemeesters from Rotterdam who have
+      been invited today. Perhaps you would like to be introduced to
+      him?</quote>
+    </para>
 
-    <para><quote>Oh, yes, that would be delightful! You can meet my father,
-    too! This has really turned out to be a most fortunate
-    encounter!</quote></para>
+    <para>
+      <quote>Oh, yes, that would be delightful! You can meet my father, too!
+      This has really turned out to be a most fortunate encounter!</quote>
+    </para>
 
     <para>Johan had a vague sense that he was not quite in control of the way
     things were going as the young woman seemed to be slightly more
@@ -736,17 +793,20 @@ children, don't tell fibs.
     being a good natured man and exceedingly fond of his daughter, joined in
     with their excitement, proclaiming,</para>
 
-    <para><quote>I do believe that you are a little enamoured of this
-    gentleman!</quote></para>
+    <para>
+      <quote>I do believe that you are a little enamoured of this
+      gentleman!</quote>
+    </para>
 
     <para>To the surprise of all present Paulina announced,</para>
 
-    <para><quote>Yes, father. He is the man I am going to
-    marry!</quote></para>
+    <para>
+      <quote>Yes, father. He is the man I am going to marry!</quote>
+    </para>
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>Everyone had been somewhat taken aback by Paulina's announcement but
     the tone of determination in her voice brooked of no contrary comments.

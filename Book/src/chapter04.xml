@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:svg="http://www.w3.org/2000/svg"
-         xmlns:m="http://www.w3.org/1998/Math/MathML"
-         xmlns:html="http://www.w3.org/1999/xhtml"
-         xmlns:db="http://docbook.org/ns/docbook">
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook">
   <title>Vroeg August 1869</title>
 
   <section>
-    <title></title>
-
     <para>Johan was enjoying himself hugely. If he had been the sort of man to
     reflect on life then it would have come as a surprise to him that he was
     so pleasurably engrossed in his courtship of Paulina Maria. But he was not
@@ -111,7 +105,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>As he lay alone in the old-fashioned cupboard bed in his room in the
     <emphasis>familiehuis</emphasis>, old Oma's words came back into Johan's
@@ -200,7 +194,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>The following day dawned fine and warm, offering Johan the prospect
     of again spending much of it out of doors, as was his preference. He
@@ -300,7 +294,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>Johan's high spirits soon suffered a knock, however. He readied
     himself to drive out then joined Paulina Maria to wait in the vestibule
@@ -442,7 +436,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>The refreshment provided with lunch was most welcome and Johan
     partook of several glasses of an excellent Spätburgunder with which to
@@ -526,7 +520,7 @@
   </section>
 
   <section>
-    <title></title>
+    <title/>
 
     <para>As the Bisdom van Vliet family gathered before dinner on Friday 6th
     August Johan was pleased to announce that he and Paulina Maria were to be
@@ -784,7 +778,7 @@
     unpremeditated mutual embrace, heedless of the possibility of being
     observed.</para>
 
-    <para></para>
+    <para/>
 
     <para>Paulina Maria was wearing her new Bride Dress for the first time
     that evening. As Johan returned to her side, dressed for dinner and ready
