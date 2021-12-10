@@ -1,5 +1,5 @@
 clean :
-	@rm -f *.pdf *.epub *.mobi
+	@rm -f assembled.xml *.pdf *.epub *.mobi
 
 assembled.xml : src/book.xml
 	xmllint --xinclude src/book.xml > assembled.xml
