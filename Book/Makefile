@@ -5,7 +5,12 @@ assembled.xml : src/book.xml
 	xmllint --xinclude src/book.xml > assembled.xml
 
 pdf : assembled.xml
-	pandoc -t latex -o book.pdf assembled.xml -f docbook --toc
+	pandoc -t latex -o book.pdf assembled.xml -f docbook \
+        --toc \
+        --toc-depth=1 \
+        --top-level-division=chapter \
+        -V geometry:a5paper \
+        -V geometry:margin=2cm
 	
 mobi : assembled.xml
 	@xslutil db5ToPDF_Book book.xml book.pdf	

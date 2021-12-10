@@ -9,15 +9,12 @@
       xmlns:html="http://www.w3.org/1999/xhtml"
       xmlns:db="http://docbook.org/ns/docbook">
 
-  <title>The Last of Her Line</title>
-
   <info>
-    <author>
-      <personname>
-        <firstname>Diane</firstname>
+    <title>The Last of Her Line</title>
 
-        <surname>Reeve</surname>
-      </personname>
+    <author>
+      <firstname>Diane</firstname>
+      <surname>Reeve</surname>
     </author>
 
     <pubdate>tbc</pubdate>
@@ -34,21 +31,21 @@
     </legalnotice>
   </info>
 
-  <xi:include href="chapter01.xml"/>
+  <xi:include href="chapter01.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="chapter02.xml"/>
+  <xi:include href="chapter02.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="chapter03.xml"/>
+  <xi:include href="chapter03.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="chapter04.xml"/>
+  <xi:include href="chapter04.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="chapter05.xml"/>
+  <xi:include href="chapter05.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="chapter06.xml"/>
+  <xi:include href="chapter06.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="chapter07.xml"/>
+  <xi:include href="chapter07.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="chapter08.xml"/>
+  <xi:include href="chapter08.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="chapter09.xml"/>
+  <xi:include href="chapter09.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 </book>

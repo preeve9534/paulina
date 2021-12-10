@@ -1,9 +1,987 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
-<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:db="http://docbook.org/ns/docbook" version="5.0">
-  <info>
-    <title>The Last of Her Line</title>
+<!DOCTYPE book [
+<!ENTITY sstarf "⋆">
+<!ENTITY real "ℜ">
+<!ENTITY ldot "⋖">
+<!ENTITY egrave "è">
+<!ENTITY nmid "∤">
+<!ENTITY b.piv "𝛡">
+<!ENTITY b.Sigma "𝚺">
+<!ENTITY tstrok "ŧ">
+<!ENTITY lowbar "_">
+<!ENTITY rthree "⋌">
+<!ENTITY forall "∀">
+<!ENTITY boxvh "┼">
+<!ENTITY brvbar "¦">
+<!ENTITY blk12 "▒">
+<!ENTITY square "□">
+<!ENTITY xdtri "▽">
+<!ENTITY Rcaron "Ř">
+<!ENTITY num "#">
+<!ENTITY angsph "∢">
+<!ENTITY cuvee "⋎">
+<!ENTITY Gcy "Г">
+<!ENTITY b.sigma "𝛔">
+<!ENTITY cir "○">
+<!ENTITY sim "∼">
+<!ENTITY scaron "š">
+<!ENTITY frac45 "⅘">
+<!ENTITY colone "≔">
+<!ENTITY boxVh "╫">
+<!ENTITY ohacgr "ώ">
+<!ENTITY ldquor "„">
+<!ENTITY nlArr "⇍">
+<!ENTITY cuwed "⋏">
+<!ENTITY boxH "═">
+<!ENTITY yucy "ю">
+<!ENTITY KJcy "Ќ">
+<!ENTITY Lstrok "Ł">
+<!ENTITY infin "∞">
+<!ENTITY kcy "к">
+<!ENTITY mgr "μ">
+<!ENTITY comma ",">
+<!ENTITY oS "Ⓢ">
+<!ENTITY itilde "ĩ">
+<!ENTITY Lacute "Ĺ">
+<!ENTITY para "¶">
+<!ENTITY empty "∅">
+<!ENTITY radic "√">
+<!ENTITY tprime "‴">
+<!ENTITY nlarr "↚">
+<!ENTITY vprop "∝">
+<!ENTITY b.pi "𝛑">
+<!ENTITY b.rhov "𝛠">
+<!ENTITY smile "⌣">
+<!ENTITY Uacgr "Ύ">
+<!ENTITY b.delta "𝛅">
+<!ENTITY aelig "æ">
+<!ENTITY ocirc "ô">
+<!ENTITY Ubreve "Ŭ">
+<!ENTITY rdquor "”">
+<!ENTITY boxul "┘">
+<!ENTITY Ouml "Ö">
+<!ENTITY Ccirc "Ĉ">
+<!ENTITY lthree "⋋">
+<!ENTITY clubs "♣">
+<!ENTITY Lgr "Λ">
+<!ENTITY b.Delta "𝚫">
+<!ENTITY sime "≃">
+<!ENTITY oplus "⊕">
+<!ENTITY plusdo "∔">
+<!ENTITY boxdr "┌">
+<!ENTITY Zcy "З">
+<!ENTITY kappa "κ">
+<!ENTITY thetav "ϑ">
+<!ENTITY lsquor "‚">
+<!ENTITY ge "≥">
+<!ENTITY permil "‰">
+<!ENTITY xharr "⟷">
+<!ENTITY rfloor "⌋">
+<!ENTITY ohgr "ω">
+<!ENTITY Iacute "Í">
+<!ENTITY imacr "ī">
+<!ENTITY Omacr "Ō">
+<!ENTITY conint "∮">
+<!ENTITY nsub "⊄">
+<!ENTITY cire "≗">
+<!ENTITY b.phiv "𝛟">
+<!ENTITY harr "↔">
+<!ENTITY Pgr "Π">
+<!ENTITY Ograve "Ò">
+<!ENTITY ngE "≧̸">
+<!ENTITY lap "⪅">
+<!ENTITY dgr "δ">
+<!ENTITY Ecirc "Ê">
+<!ENTITY Scirc "Ŝ">
+<!ENTITY lnap "⪉">
+<!ENTITY Dcy "Д">
+<!ENTITY eta "η">
+<!ENTITY emsp13 " ">
+<!ENTITY ecolon "≕">
+<!ENTITY IOcy "Ё">
+<!ENTITY Lcy "Л">
+<!ENTITY grave "`">
+<!ENTITY gnap "⪊">
+<!ENTITY ngr "ν">
+<!ENTITY eng "ŋ">
+<!ENTITY Idot "İ">
+<!ENTITY ulcrop "⌏">
+<!ENTITY nles "⩽̸">
+<!ENTITY boxvr "├">
+<!ENTITY aacute "á">
+<!ENTITY quest "?">
+<!ENTITY emsp14 " ">
+<!ENTITY isin "∈">
+<!ENTITY iota "ι">
+<!ENTITY Gdot "Ġ">
+<!ENTITY cularr "↶">
+<!ENTITY uharl "↿">
+<!ENTITY fnof "ƒ">
+<!ENTITY boxDl "╖">
+<!ENTITY boxVR "╠">
+<!ENTITY pi "π">
+<!ENTITY tau "τ">
+<!ENTITY uharr "↾">
+<!ENTITY xrArr "⟹">
+<!ENTITY epsi "ϵ">
+<!ENTITY b.beta "𝛃">
+<!ENTITY ngt "≯">
+<!ENTITY vsubnE "⫋︀">
+<!ENTITY sqcap "⊓">
+<!ENTITY sqcup "⊔">
+<!ENTITY fork "⋔">
+<!ENTITY sfrown "⌢">
+<!ENTITY ldquo "“">
+<!ENTITY lceil "⌈">
+<!ENTITY amacr "ā">
+<!ENTITY Aacgr "Ά">
+<!ENTITY sup "⊃">
+<!ENTITY rarrhk "↪">
+<!ENTITY lfloor "⌊">
+<!ENTITY boxhU "╨">
+<!ENTITY ycy "ы">
+<!ENTITY frac56 "⅚">
+<!ENTITY int "∫">
+<!ENTITY Verbar "‖">
+<!ENTITY nges "⩾̸">
+<!ENTITY efDot "≒">
+<!ENTITY Cdot "Ċ">
+<!ENTITY bepsi "϶">
+<!ENTITY YUcy "Ю">
+<!ENTITY DScy "Ѕ">
+<!ENTITY frac35 "⅗">
+<!ENTITY rtri "▹">
+<!ENTITY sext "✶">
+<!ENTITY mid "∣">
+<!ENTITY gcy "г">
+<!ENTITY macr "¯">
+<!ENTITY eegr "η">
+<!ENTITY ycirc "ŷ">
+<!ENTITY nearr "↗">
+<!ENTITY hcirc "ĥ">
+<!ENTITY telrec "⌕">
+<!ENTITY otimes "⊗">
+<!ENTITY scy "с">
+<!ENTITY jcirc "ĵ">
+<!ENTITY equals "=">
+<!ENTITY larrhk "↩">
+<!ENTITY varr "↕">
+<!ENTITY boxuR "╘">
+<!ENTITY Delta "Δ">
+<!ENTITY upsi "υ">
+<!ENTITY edot "ė">
+<!ENTITY sqsub "⊏">
+<!ENTITY commat "@">
+<!ENTITY lt "&#60;">
+<!ENTITY boxuL "╛">
+<!ENTITY frac18 "⅛">
+<!ENTITY prnsim "⋨">
+<!ENTITY sce "⪰">
+<!ENTITY percnt "&#x25;">
+<!ENTITY lAarr "⇚">
+<!ENTITY dashv "⊣">
+<!ENTITY Aogon "Ą">
+<!ENTITY loz "◊">
+<!ENTITY eDot "≑">
+<!ENTITY icy "и">
+<!ENTITY shcy "ш">
+<!ENTITY kappav "ϰ">
+<!ENTITY caret "⁁">
+<!ENTITY mdash "—">
+<!ENTITY THORN "Þ">
+<!ENTITY scedil "ş">
+<!ENTITY becaus "∵">
+<!ENTITY gnE "≩">
+<!ENTITY leg "⋚">
+<!ENTITY boxVl "╢">
+<!ENTITY alpha "α">
+<!ENTITY Odblac "Ő">
+<!ENTITY npar "∦">
+<!ENTITY boxdR "╒">
+<!ENTITY boxHD "╦">
+<!ENTITY chcy "ч">
+<!ENTITY b.Psi "𝚿">
+<!ENTITY Euml "Ë">
+<!ENTITY laquo "«">
+<!ENTITY samalg "∐">
+<!ENTITY thkap "≈">
+<!ENTITY dtrif "▾">
+<!ENTITY hybull "⁃">
+<!ENTITY scsim "≿">
+<!ENTITY Ucirc "Û">
+<!ENTITY rdquo "”">
+<!ENTITY napos "ŉ">
+<!ENTITY nabla "∇">
+<!ENTITY dharr "⇂">
+<!ENTITY lhard "↽">
+<!ENTITY nvdash "⊬">
+<!ENTITY yacy "я">
+<!ENTITY Xgr "Ξ">
+<!ENTITY Gcirc "Ĝ">
+<!ENTITY frac14 "¼">
+<!ENTITY Kcedil "Ķ">
+<!ENTITY blk34 "▓">
+<!ENTITY boxvR "╞">
+<!ENTITY OHacgr "Ώ">
+<!ENTITY ohm "Ω">
+<!ENTITY ordm "º">
+<!ENTITY daleth "ℸ">
+<!ENTITY boxvL "╡">
+<!ENTITY semi ";">
+<!ENTITY block "█">
+<!ENTITY tcy "т">
+<!ENTITY caron "ˇ">
+<!ENTITY Oacute "Ó">
+<!ENTITY iff "⇔">
+<!ENTITY nsmid "∤">
+<!ENTITY els "⪕">
+<!ENTITY ZHcy "Ж">
+<!ENTITY eeacgr "ή">
+<!ENTITY rArr "⇒">
+<!ENTITY veebar "⊻">
+<!ENTITY boxVr "╟">
+<!ENTITY dot "˙">
+<!ENTITY b.tau "𝛕">
+<!ENTITY Vcy "В">
+<!ENTITY vsubne "⊊︀">
+<!ENTITY ecy "э">
+<!ENTITY bgr "β">
+<!ENTITY b.epsiv "𝛜">
+<!ENTITY ouml "ö">
+<!ENTITY Uring "Ů">
+<!ENTITY nhArr "⇎">
+<!ENTITY djcy "ђ">
+<!ENTITY agr "α">
+<!ENTITY Rgr "Ρ">
+<!ENTITY auml "ä">
+<!ENTITY boxdl "┐">
+<!ENTITY not "¬">
+<!ENTITY thinsp " ">
+<!ENTITY ges "⩾">
+<!ENTITY Vvdash "⊪">
+<!ENTITY jukcy "є">
+<!ENTITY Psi "Ψ">
+<!ENTITY ocir "⊚">
+<!ENTITY psgr "ψ">
+<!ENTITY b.epsi "𝛆">
+<!ENTITY frac23 "⅔">
+<!ENTITY uhblk "▀">
+<!ENTITY Omega "Ω">
+<!ENTITY rho "ρ">
+<!ENTITY nldr "‥">
+<!ENTITY prod "∏">
+<!ENTITY nsce "⪰̸">
+<!ENTITY ang "∠">
+<!ENTITY Amacr "Ā">
+<!ENTITY shy "­">
+<!ENTITY Ecy "Э">
+<!ENTITY uml "¨">
+<!ENTITY rpar ")">
+<!ENTITY wedgeq "≙">
+<!ENTITY nsube "⊈">
+<!ENTITY gel "⋛">
+<!ENTITY ncedil "ņ">
+<!ENTITY nsupE "⫆̸">
+<!ENTITY njcy "њ">
+<!ENTITY Imacr "Ī">
+<!ENTITY divide "÷">
+<!ENTITY dArr "⇓">
+<!ENTITY smid "∣">
+<!ENTITY boxur "└">
+<!ENTITY TSHcy "Ћ">
+<!ENTITY yicy "ї">
+<!ENTITY mu "μ">
+<!ENTITY map "↦">
+<!ENTITY bump "≎">
+<!ENTITY erDot "≓">
+<!ENTITY Ogr "Ο">
+<!ENTITY beta "β">
+<!ENTITY bsime "⋍">
+<!ENTITY Tgr "Τ">
+<!ENTITY xgr "ξ">
+<!ENTITY prnap "⪹">
+<!ENTITY jcy "й">
+<!ENTITY dcy "д">
+<!ENTITY Ngr "Ν">
+<!ENTITY gacute "ǵ">
+<!ENTITY diams "♦">
+<!ENTITY gne "⪈">
+<!ENTITY nspar "∦">
+<!ENTITY boxhd "┬">
+<!ENTITY boxVL "╣">
+<!ENTITY b.Omega "𝛀">
+<!ENTITY bsol "\">
+<!ENTITY Cap "⋒">
+<!ENTITY boxv "│">
+<!ENTITY otilde "õ">
+<!ENTITY cdot "ċ">
+<!ENTITY lang "〈">
+<!ENTITY amalg "⨿">
+<!ENTITY urcorn "⌝">
+<!ENTITY lcy "л">
+<!ENTITY larrtl "↢">
+<!ENTITY rcy "р">
+<!ENTITY egs "⪖">
+<!ENTITY GJcy "Ѓ">
+<!ENTITY phiv "φ">
+<!ENTITY Eogon "Ę">
+<!ENTITY igr "ι">
+<!ENTITY b.psi "𝛙">
+<!ENTITY Dot "¨">
+<!ENTITY Ocirc "Ô">
+<!ENTITY Ycirc "Ŷ">
+<!ENTITY and "∧">
+<!ENTITY lsh "↰">
+<!ENTITY barwed "⌅">
+<!ENTITY Egrave "È">
+<!ENTITY copysr "℗">
+<!ENTITY lpargt "⦠">
+<!ENTITY npr "⊀">
+<!ENTITY KHgr "Χ">
+<!ENTITY epsis "ϵ">
+<!ENTITY equiv "≡">
+<!ENTITY intcal "⊺">
+<!ENTITY dlcorn "⌞">
+<!ENTITY vsupnE "⫌︀">
+<!ENTITY DJcy "Ђ">
+<!ENTITY b.Theta "𝚯">
+<!ENTITY uogon "ų">
+<!ENTITY curren "¤">
+<!ENTITY pound "£">
+<!ENTITY marker "▮">
+<!ENTITY ucy "у">
+<!ENTITY zcy "з">
+<!ENTITY ugr "υ">
+<!ENTITY Idigr "Ϊ">
+<!ENTITY acirc "â">
+<!ENTITY khgr "χ">
+<!ENTITY idiagr "ΐ">
+<!ENTITY b.phi "𝛗">
+<!ENTITY divonx "⋇">
+<!ENTITY Ccaron "Č">
+<!ENTITY lacute "ĺ">
+<!ENTITY colon ":">
+<!ENTITY vDash "⊨">
+<!ENTITY boxvl "┤">
+<!ENTITY Dstrok "Đ">
+<!ENTITY frac12 "½">
+<!ENTITY dtri "▿">
+<!ENTITY lhblk "▄">
+<!ENTITY gamma "γ">
+<!ENTITY Zcaron "Ž">
+<!ENTITY bernou "ℬ">
+<!ENTITY twixt "≬">
+<!ENTITY Agr "Α">
+<!ENTITY abreve "ă">
+<!ENTITY Ncedil "Ņ">
+<!ENTITY verbar "|">
+<!ENTITY uarr2 "⇈">
+<!ENTITY boxvH "╪">
+<!ENTITY SOFTcy "Ь">
+<!ENTITY oacute "ó">
+<!ENTITY Tcedil "Ţ">
+<!ENTITY sqsup "⊐">
+<!ENTITY boxHU "╩">
+<!ENTITY phgr "φ">
+<!ENTITY tcaron "ť">
+<!ENTITY lcub "{">
+<!ENTITY emsp " ">
+<!ENTITY rect "▭">
+<!ENTITY npre "⪯̸">
+<!ENTITY Rcy "Р">
+<!ENTITY SHcy "Ш">
+<!ENTITY ntilde "ñ">
+<!ENTITY ang90 "∟">
+<!ENTITY Sup "⋑">
+<!ENTITY softcy "ь">
+<!ENTITY Igr "Ι">
+<!ENTITY rhov "ϱ">
+<!ENTITY hyphen "‐">
+<!ENTITY drcorn "⌟">
+<!ENTITY boxVH "╬">
+<!ENTITY b.kappav "𝛞">
+<!ENTITY ell "ℓ">
+<!ENTITY Ll "⋘">
+<!ENTITY phis "ϕ">
+<!ENTITY b.gammad "ϝ">
+<!ENTITY frac34 "¾">
+<!ENTITY cong "≅">
+<!ENTITY nrtri "⋫">
+<!ENTITY bcy "б">
+<!ENTITY plusmn "±">
+<!ENTITY minusb "⊟">
+<!ENTITY boxh "─">
+<!ENTITY idigr "ϊ">
+<!ENTITY ENG "Ŋ">
+<!ENTITY utilde "ũ">
+<!ENTITY rsh "↱">
+<!ENTITY nsime "≄">
+<!ENTITY lg "≶">
+<!ENTITY Bcy "Б">
+<!ENTITY HARDcy "Ъ">
+<!ENTITY Icy "И">
+<!ENTITY darr "↓">
+<!ENTITY frac78 "⅞">
+<!ENTITY Dagger "‡">
+<!ENTITY lnsim "⋦">
+<!ENTITY tscy "ц">
+<!ENTITY euml "ë">
+<!ENTITY Oslash "Ø">
+<!ENTITY iquest "¿">
+<!ENTITY starf "★">
+<!ENTITY nsubE "⫅̸">
+<!ENTITY nsupe "⊉">
+<!ENTITY Dgr "Δ">
+<!ENTITY sigmav "ς">
+<!ENTITY aring "å">
+<!ENTITY Zacute "Ź">
+<!ENTITY sdotb "⊡">
+<!ENTITY pcy "п">
+<!ENTITY Ucy "У">
+<!ENTITY die "¨">
+<!ENTITY sigma "σ">
+<!ENTITY IJlig "Ĳ">
+<!ENTITY iogon "į">
+<!ENTITY ffllig "ﬄ">
+<!ENTITY ndash "–">
+<!ENTITY gEl "⪌">
+<!ENTITY Otilde "Õ">
+<!ENTITY rsquor "’">
+<!ENTITY or "∨">
+<!ENTITY Larr "↞">
+<!ENTITY sbsol "﹨">
+<!ENTITY sfgr "ς">
+<!ENTITY dagger "†">
+<!ENTITY hearts "♥">
+<!ENTITY subne "⊊">
+<!ENTITY jnodot "j">
+<!ENTITY Scy "С">
+<!ENTITY natur "♮">
+<!ENTITY gE "≧">
+<!ENTITY amp "&#38;">
+<!ENTITY rcub "}">
+<!ENTITY DotDot " ⃜">
+<!ENTITY boxV "║">
+<!ENTITY kcedil "ķ">
+<!ENTITY frac38 "⅜">
+<!ENTITY rsqb "]">
+<!ENTITY cuesc "⋟">
+<!ENTITY trie "≜">
+<!ENTITY shchcy "щ">
+<!ENTITY star "☆">
+<!ENTITY blk14 "░">
+<!ENTITY exist "∃">
+<!ENTITY ltimes "⋉">
+<!ENTITY udiagr "ΰ">
+<!ENTITY Pi "Π">
+<!ENTITY top "⊤">
+<!ENTITY uarr "↑">
+<!ENTITY larrlp "↫">
+<!ENTITY Jcirc "Ĵ">
+<!ENTITY check "✓">
+<!ENTITY compfn "∘">
+<!ENTITY phmmat "ℳ">
+<!ENTITY rharu "⇀">
+<!ENTITY boxDR "╔">
+<!ENTITY psi "ψ">
+<!ENTITY atilde "ã">
+<!ENTITY Gcedil "Ģ">
+<!ENTITY rarr "→">
+<!ENTITY Yacute "Ý">
+<!ENTITY uring "ů">
+<!ENTITY minus "−">
+<!ENTITY dharl "⇃">
+<!ENTITY vArr "⇕">
+<!ENTITY b.xi "𝛏">
+<!ENTITY Scaron "Š">
+<!ENTITY urcrop "⌎">
+<!ENTITY hamilt "ℋ">
+<!ENTITY tdot " ⃛">
+<!ENTITY lvnE "≨︀">
+<!ENTITY nap "≉">
+<!ENTITY rgr "ρ">
+<!ENTITY b.upsi "𝛖">
+<!ENTITY ni "∋">
+<!ENTITY scap "⪸">
+<!ENTITY Jsercy "Ј">
+<!ENTITY gnsim "⋧">
+<!ENTITY nlt "≮">
+<!ENTITY SHCHcy "Щ">
+<!ENTITY ubrcy "ў">
+<!ENTITY agrave "à">
+<!ENTITY dcaron "ď">
+<!ENTITY cuepr "⋞">
+<!ENTITY Lt "≪">
+<!ENTITY PSgr "Ψ">
+<!ENTITY OElig "Œ">
+<!ENTITY excl "!">
+<!ENTITY cup "∪">
+<!ENTITY boxHu "╧">
+<!ENTITY icirc "î">
+<!ENTITY Gbreve "Ğ">
+<!ENTITY wreath "≀">
+<!ENTITY Jcy "Й">
+<!ENTITY Pcy "П">
+<!ENTITY Eacute "É">
+<!ENTITY udblac "ű">
+<!ENTITY boxUl "╜">
+<!ENTITY ugrave "ù">
+<!ENTITY kgr "κ">
+<!ENTITY Atilde "Ã">
+<!ENTITY ccaron "č">
+<!ENTITY Prime "″">
+<!ENTITY there4 "∴">
+<!ENTITY Tcy "Т">
+<!ENTITY Ubrcy "Ў">
+<!ENTITY ulcorn "⌜">
+<!ENTITY nvDash "⊭">
+<!ENTITY beth "ℶ">
+<!ENTITY nltri "⋪">
+<!ENTITY nltrie "⋬">
+<!ENTITY Vdash "⊩">
+<!ENTITY nbsp " ">
+<!ENTITY Barwed "⌆">
+<!ENTITY yen "¥">
+<!ENTITY rang "〉">
+<!ENTITY xlArr "⟸">
+<!ENTITY esdot "≐">
+<!ENTITY b.gamma "𝛄">
+<!ENTITY b.Pi "𝚷">
+<!ENTITY cacute "ć">
+<!ENTITY rarrlp "↬">
+<!ENTITY sccue "≽">
+<!ENTITY iecy "е">
+<!ENTITY Iacgr "Ί">
+<!ENTITY nlE "≦̸">
+<!ENTITY ocy "о">
+<!ENTITY delta "δ">
+<!ENTITY zeta "ζ">
+<!ENTITY gcirc "ĝ">
+<!ENTITY numero "№">
+<!ENTITY b.nu "𝛎">
+<!ENTITY fflig "ﬀ">
+<!ENTITY b.zeta "𝛇">
+<!ENTITY Rcedil "Ŗ">
+<!ENTITY lrhar2 "⇋">
+<!ENTITY Mgr "Μ">
+<!ENTITY iexcl "¡">
+<!ENTITY Lmidot "Ŀ">
+<!ENTITY umacr "ū">
+<!ENTITY supe "⊇">
+<!ENTITY lnE "≨">
+<!ENTITY Acy "А">
+<!ENTITY Kcy "К">
+<!ENTITY harrw "↭">
+<!ENTITY mumap "⊸">
+<!ENTITY subnE "⫋">
+<!ENTITY kjcy "ќ">
+<!ENTITY Ecaron "Ě">
+<!ENTITY iukcy "і">
+<!ENTITY uuml "ü">
+<!ENTITY zdot "ż">
+<!ENTITY copy "©">
+<!ENTITY deg "°">
+<!ENTITY raquo "»">
+<!ENTITY emacr "ē">
+<!ENTITY thksim "∼">
+<!ENTITY apos "'">
+<!ENTITY les "⩽">
+<!ENTITY spar "∥">
+<!ENTITY Mcy "М">
+<!ENTITY b.omega "𝛚">
+<!ENTITY vellip "⋮">
+<!ENTITY hArr "⇔">
+<!ENTITY bsim "∽">
+<!ENTITY cupre "≼">
+<!ENTITY dscy "ѕ">
+<!ENTITY Emacr "Ē">
+<!ENTITY Nacute "Ń">
+<!ENTITY order "ℴ">
+<!ENTITY part "∂">
+<!ENTITY Ncy "Н">
+<!ENTITY ncy "н">
+<!ENTITY b.Gamma "𝚪">
+<!ENTITY sect "§">
+<!ENTITY nsim "≁">
+<!ENTITY bprime "‵">
+<!ENTITY chi "χ">
+<!ENTITY Abreve "Ă">
+<!ENTITY nharr "↮">
+<!ENTITY rlhar2 "⇌">
+<!ENTITY Cup "⋓">
+<!ENTITY scnsim "⋩">
+<!ENTITY bcong "≌">
+<!ENTITY iocy "ё">
+<!ENTITY ncaron "ň">
+<!ENTITY xhArr "⟺">
+<!ENTITY hardcy "ъ">
+<!ENTITY ring "˚">
+<!ENTITY flat "♭">
+<!ENTITY notin "∉">
+<!ENTITY ape "≊">
+<!ENTITY Sub "⋐">
+<!ENTITY boxDr "╓">
+<!ENTITY Uogon "Ų">
+<!ENTITY b.lambda "𝛌">
+<!ENTITY b.rho "𝛒">
+<!ENTITY szlig "ß">
+<!ENTITY orarr "↻">
+<!ENTITY angmsd "∡">
+<!ENTITY nrarr "↛">
+<!ENTITY female "♀">
+<!ENTITY boxdL "╕">
+<!ENTITY boxUL "╝">
+<!ENTITY odblac "ő">
+<!ENTITY euro "€">
+<!ENTITY dzcy "џ">
+<!ENTITY pgr "π">
+<!ENTITY angst "Å">
+<!ENTITY gl "≷">
+<!ENTITY gsdot "⋗">
+<!ENTITY Icirc "Î">
+<!ENTITY nVdash "⊮">
+<!ENTITY b.alpha "𝛂">
+<!ENTITY phone "☎">
+<!ENTITY curarr "↷">
+<!ENTITY nrArr "⇏">
+<!ENTITY acy "а">
+<!ENTITY b.sigmav "𝛓">
+<!ENTITY coprod "∐">
+<!ENTITY prap "⪷">
+<!ENTITY quot '"'>
+<!ENTITY prime "′">
+<!ENTITY oast "⊛">
+<!ENTITY Gg "⋙">
+<!ENTITY ltrie "⊴">
+<!ENTITY tgr "τ">
+<!ENTITY epsiv "ε">
+<!ENTITY Lcedil "Ļ">
+<!ENTITY half "½">
+<!ENTITY sqsube "⊑">
+<!ENTITY larr "←">
+<!ENTITY timesb "⊠">
+<!ENTITY nle "≰">
+<!ENTITY ucirc "û">
+<!ENTITY rsquo "’">
+<!ENTITY puncsp " ">
+<!ENTITY Upsi "ϒ">
+<!ENTITY iacute "í">
+<!ENTITY odot "⊙">
+<!ENTITY xcirc "◯">
+<!ENTITY plusb "⊞">
+<!ENTITY Ocy "О">
+<!ENTITY udigr "ϋ">
+<!ENTITY zgr "ζ">
+<!ENTITY piv "ϖ">
+<!ENTITY Lcaron "Ľ">
+<!ENTITY oelig "œ">
+<!ENTITY rcedil "ŗ">
+<!ENTITY frac16 "⅙">
+<!ENTITY bumpe "≏">
+<!ENTITY supE "⫆">
+<!ENTITY boxhD "╥">
+<!ENTITY cedil "¸">
+<!ENTITY lne "⪇">
+<!ENTITY hstrok "ħ">
+<!ENTITY Iogon "Į">
+<!ENTITY reg "®">
+<!ENTITY squ "□">
+<!ENTITY ssmile "⌣">
+<!ENTITY b.mu "𝛍">
+<!ENTITY nacute "ń">
+<!ENTITY target "⌖">
+<!ENTITY lharu "↼">
+<!ENTITY planck "ℏ">
+<!ENTITY Ggr "Γ">
+<!ENTITY Kgr "Κ">
+<!ENTITY oslash "ø">
+<!ENTITY lcedil "ļ">
+<!ENTITY sacute "ś">
+<!ENTITY Yuml "Ÿ">
+<!ENTITY drarr "↘">
+<!ENTITY Iukcy "І">
+<!ENTITY ljcy "љ">
+<!ENTITY b.Lambda "𝚲">
+<!ENTITY lcaron "ľ">
+<!ENTITY uplus "⊎">
+<!ENTITY lEg "⪋">
+<!ENTITY sharp "♯">
+<!ENTITY nwarr "↖">
+<!ENTITY vsupne "⊋︀">
+<!ENTITY Edot "Ė">
+<!ENTITY frac58 "⅝">
+<!ENTITY sup2 "²">
+<!ENTITY times "×">
+<!ENTITY b.Phi "𝚽">
+<!ENTITY rtrif "▸">
+<!ENTITY bottom "⊥">
+<!ENTITY rarrw "↝">
+<!ENTITY Udigr "Ϋ">
+<!ENTITY b.Gammad "Ϝ">
+<!ENTITY b.Upsi "𝚼">
+<!ENTITY sol "/">
+<!ENTITY lagran "ℒ">
+<!ENTITY lArr "⇐">
+<!ENTITY Egr "Ε">
+<!ENTITY Ncaron "Ň">
+<!ENTITY trade "™">
+<!ENTITY ssetmn "∖">
+<!ENTITY sum "∑">
+<!ENTITY gt ">">
+<!ENTITY ccirc "ĉ">
+<!ENTITY sup1 "¹">
+<!ENTITY rceil "⌉">
+<!ENTITY NJcy "Њ">
+<!ENTITY scirc "ŝ">
+<!ENTITY uArr "⇑">
+<!ENTITY diam "⋄">
+<!ENTITY nge "≱">
+<!ENTITY KHcy "Х">
+<!ENTITY asymp "≈">
+<!ENTITY lE "≦">
+<!ENTITY cap "∩">
+<!ENTITY supne "⊋">
+<!ENTITY gap "⪆">
+<!ENTITY Oacgr "Ό">
+<!ENTITY lpar "(">
+<!ENTITY period ".">
+<!ENTITY nequiv "≢">
+<!ENTITY bowtie "⋈">
+<!ENTITY b.eta "𝛈">
+<!ENTITY vprime "′">
+<!ENTITY YIcy "Ї">
+<!ENTITY circ "ˆ">
+<!ENTITY Zdot "Ż">
+<!ENTITY malt "✠">
+<!ENTITY sc "≻">
+<!ENTITY LJcy "Љ">
+<!ENTITY frown "⌢">
+<!ENTITY boxhu "┴">
+<!ENTITY Phi "Φ">
+<!ENTITY ograve "ò">
+<!ENTITY aogon "ą">
+<!ENTITY ijlig "ĳ">
+<!ENTITY rpargt "⦔">
+<!ENTITY vrtri "⊳">
+<!ENTITY ap "≈">
+<!ENTITY Rarr "↠">
+<!ENTITY weierp "℘">
+<!ENTITY boxDL "╗">
+<!ENTITY b.Xi "𝚵">
+<!ENTITY Ntilde "Ñ">
+<!ENTITY yuml "ÿ">
+<!ENTITY gdot "ġ">
+<!ENTITY sup3 "³">
+<!ENTITY lsim "≲">
+<!ENTITY ne "≠">
+<!ENTITY gimel "ℷ">
+<!ENTITY pre "⪯">
+<!ENTITY rcaron "ř">
+<!ENTITY AElig "Æ">
+<!ENTITY fllig "ﬂ">
+<!ENTITY DZcy "Џ">
+<!ENTITY ecirc "ê">
+<!ENTITY dlcrop "⌍">
+<!ENTITY prop "∝">
+<!ENTITY osol "⊘">
+<!ENTITY setmn "∖">
+<!ENTITY vcy "в">
+<!ENTITY xi "ξ">
+<!ENTITY iuml "ï">
+<!ENTITY frac25 "⅖">
+<!ENTITY Ugr "Υ">
+<!ENTITY ominus "⊖">
+<!ENTITY YAcy "Я">
+<!ENTITY ggr "γ">
+<!ENTITY lgr "λ">
+<!ENTITY cent "¢">
+<!ENTITY boxUR "╚">
+<!ENTITY thorn "þ">
+<!ENTITY Umacr "Ū">
+<!ENTITY b.thetas "𝛉">
+<!ENTITY Igrave "Ì">
+<!ENTITY Sacute "Ś">
+<!ENTITY cross "✗">
+<!ENTITY rtimes "⋊">
+<!ENTITY lambda "λ">
+<!ENTITY kgreen "ĸ">
+<!ENTITY breve "˘">
+<!ENTITY Cacute "Ć">
+<!ENTITY mnplus "∓">
+<!ENTITY fcy "ф">
+<!ENTITY Aring "Å">
+<!ENTITY lmidot "ŀ">
+<!ENTITY Utilde "Ũ">
+<!ENTITY rlarr2 "⇄">
+<!ENTITY ecir "≖">
+<!ENTITY IEcy "Е">
+<!ENTITY incare "℅">
+<!ENTITY CHcy "Ч">
+<!ENTITY ogr "ο">
+<!ENTITY OHgr "Ω">
+<!ENTITY Eacgr "Έ">
+<!ENTITY Auml "Ä">
+<!ENTITY lozf "⧫">
+<!ENTITY spades "♠">
+<!ENTITY boxHd "╤">
+<!ENTITY zhcy "ж">
+<!ENTITY uacute "ú">
+<!ENTITY yacute "ý">
+<!ENTITY lrarr2 "⇆">
+<!ENTITY nexist "∄">
+<!ENTITY eogon "ę">
+<!ENTITY EEacgr "Ή">
+<!ENTITY ubreve "ŭ">
+<!ENTITY ensp " ">
+<!ENTITY ltri "◃">
+<!ENTITY numsp " ">
+<!ENTITY jsercy "ј">
+<!ENTITY dlarr "↙">
+<!ENTITY nrtrie "⋭">
+<!ENTITY tilde "˜">
+<!ENTITY egr "ε">
+<!ENTITY Agrave "À">
+<!ENTITY odash "⊝">
+<!ENTITY Jukcy "Є">
+<!ENTITY lstrok "ł">
+<!ENTITY Racute "Ŕ">
+<!ENTITY lsquo "‘">
+<!ENTITY nVDash "⊯">
+<!ENTITY gbreve "ğ">
+<!ENTITY sube "⊆">
+<!ENTITY gjcy "ѓ">
+<!ENTITY eacute "é">
+<!ENTITY racute "ŕ">
+<!ENTITY micro "µ">
+<!ENTITY sung "♪">
+<!ENTITY pr "≺">
+<!ENTITY prsim "≾">
+<!ENTITY rarr2 "⇉">
+<!ENTITY mcy "м">
+<!ENTITY Hcirc "Ĥ">
+<!ENTITY Itilde "Ĩ">
+<!ENTITY zacute "ź">
+<!ENTITY ordf "ª">
+<!ENTITY ffilig "ﬃ">
+<!ENTITY le "≤">
+<!ENTITY sgr "σ">
+<!ENTITY gammad "ϝ">
+<!ENTITY drcrop "⌌">
+<!ENTITY gsim "≳">
+<!ENTITY Lambda "Λ">
+<!ENTITY b.thetav "𝛝">
+<!ENTITY Uuml "Ü">
+<!ENTITY olarr "↺">
+<!ENTITY rarrtl "↣">
+<!ENTITY Ycy "Ы">
+<!ENTITY ast "*">
+<!ENTITY blank "␣">
+<!ENTITY par "∥">
+<!ENTITY scnE "⪶">
+<!ENTITY rx "℞">
+<!ENTITY squf "▪">
+<!ENTITY comp "∁">
+<!ENTITY Theta "Θ">
+<!ENTITY ltrif "◂">
+<!ENTITY lowast "∗">
+<!ENTITY larr2 "⇇">
+<!ENTITY supnE "⫌">
+<!ENTITY Gt "≫">
+<!ENTITY khcy "х">
+<!ENTITY b.kappa "𝛋">
+<!ENTITY ETH "Ð">
+<!ENTITY Scedil "Ş">
+<!ENTITY igrave "ì">
+<!ENTITY Iuml "Ï">
+<!ENTITY Ugrave "Ù">
+<!ENTITY ecaron "ě">
+<!ENTITY THgr "Θ">
+<!ENTITY utrif "▴">
+<!ENTITY ncong "≇">
+<!ENTITY ogon "˛">
+<!ENTITY thetas "θ">
+<!ENTITY eth "ð">
+<!ENTITY dstrok "đ">
+<!ENTITY uacgr "ύ">
+<!ENTITY b.chi "𝛘">
+<!ENTITY dollar "$">
+<!ENTITY Zgr "Ζ">
+<!ENTITY aacgr "ά">
+<!ENTITY Hstrok "Ħ">
+<!ENTITY rhard "⇁">
+<!ENTITY Bgr "Β">
+<!ENTITY Sgr "Σ">
+<!ENTITY tcedil "ţ">
+<!ENTITY Udblac "Ű">
+<!ENTITY horbar "―">
+<!ENTITY nsup "⊅">
+<!ENTITY sqsupe "⊒">
+<!ENTITY Sigma "Σ">
+<!ENTITY b.iota "𝛊">
+<!ENTITY Tcaron "Ť">
+<!ENTITY models "⊧">
+<!ENTITY vdash "⊢">
+<!ENTITY vltri "⊲">
+<!ENTITY boxUr "╙">
+<!ENTITY eacgr "έ">
+<!ENTITY filig "ﬁ">
+<!ENTITY xutri "△">
+<!ENTITY tshcy "ћ">
+<!ENTITY oacgr "ό">
+<!ENTITY Ccedil "Ç">
+<!ENTITY nsc "⊁">
+<!ENTITY rtrie "⊵">
+<!ENTITY perp "⊥">
+<!ENTITY Dcaron "Ď">
+<!ENTITY omacr "ō">
+<!ENTITY wcirc "ŵ">
+<!ENTITY hellip "…">
+<!ENTITY aleph "ℵ">
+<!ENTITY sub "⊂">
+<!ENTITY prnE "⪵">
+<!ENTITY inodot "ı">
+<!ENTITY PHgr "Φ">
+<!ENTITY bull "•">
+<!ENTITY frac15 "⅕">
+<!ENTITY Gamma "Γ">
+<!ENTITY rAarr "⇛">
+<!ENTITY Xi "Ξ">
+<!ENTITY Wcirc "Ŵ">
+<!ENTITY utri "▵">
+<!ENTITY scnap "⪺">
+<!ENTITY nu "ν">
+<!ENTITY Acirc "Â">
+<!ENTITY male "♂">
+<!ENTITY TScy "Ц">
+<!ENTITY thgr "θ">
+<!ENTITY Tstrok "Ŧ">
+<!ENTITY zcaron "ž">
+<!ENTITY acute "´">
+<!ENTITY dblac "˝">
+<!ENTITY EEgr "Η">
+<!ENTITY middot "·">
+<!ENTITY gvnE "≩︀">
+<!ENTITY Fcy "Ф">
+<!ENTITY Uacute "Ú">
+<!ENTITY lsqb "[">
+<!ENTITY Aacute "Á">
+<!ENTITY plus "+">
+<!ENTITY dash "‐">
+<!ENTITY mldr "…">
+<!ENTITY subE "⫅">
+<!ENTITY darr2 "⇊">
+<!ENTITY sdot "⋅">
+<!ENTITY omega "ω">
+<!ENTITY ccedil "ç">
+<!ENTITY iacgr "ί">
+<!ENTITY frac13 "⅓">
+<!ENTITY hairsp " ">
+]>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xila="http://www.w3.org/2001/XInclude/local-attributes" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:trans="http://docbook.org/ns/transclusion" xmlns:svg="http://www.w3.org/2000/svg" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:db="http://docbook.org/ns/docbook" version="5.1">
 
+  <title>The Last of Her Line</title>
+
+  <info>
     <author>
       <personname>
         <firstname>Diane</firstname>
@@ -26,8 +1004,8 @@
     </legalnotice>
   </info>
 
+  <chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xila="http://www.w3.org/2001/XInclude/local-attributes" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:trans="http://docbook.org/ns/transclusion" xmlns:svg="http://www.w3.org/2000/svg" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:db="http://docbook.org/ns/docbook" version="5.1">
 
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
   <title>Prologue</title>
 
   <section>
@@ -231,7 +1209,8 @@
     <para/>
   </section>
 </chapter>
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <chapter xmlns="http://docbook.org/ns/docbook" version="4.5">
   <title>Juni 1869</title>
 
   <section>
@@ -1090,7 +2069,8 @@ children, don't tell fibs.
     investigate and report back directly on the young lieutenant.</para>
   </section>
 </chapter>
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <chapter xmlns="http://docbook.org/ns/docbook" version="4.5">
   <title>Juli 1869</title>
 
   <section>
@@ -1803,7 +2783,8 @@ children, don't tell fibs.
     complicated draperies of the fashionable gowns illustrated therein.</para>
   </section>
 </chapter>
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <chapter xmlns="http://docbook.org/ns/docbook" version="4.5">
   <title>Vroeg August 1869</title>
 
   <section>
@@ -2705,7 +3686,8 @@ children, don't tell fibs.
     distinctive part in it all.</para>
   </section>
 </chapter>
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <chapter xmlns="http://docbook.org/ns/docbook" version="4.5">
   <title>Overig August 1869</title>
 
   <section>
@@ -3560,7 +4542,8 @@ children, don't tell fibs.
     appearance of a fading dream.</para>
   </section>
 </chapter>
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <chapter xmlns="http://docbook.org/ns/docbook" version="4.5">
   <title>New Year 1871</title>
 
   <section>
@@ -4334,7 +5317,8 @@ children, don't tell fibs.
     <para/>
   </section>
 </chapter>
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <chapter xmlns="http://docbook.org/ns/docbook" version="4.5">
   <title>Summer 1871</title>
 
   <section>
@@ -5032,7 +6016,8 @@ children, don't tell fibs.
     <para/>
   </section>
 </chapter>
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <chapter xmlns="http://docbook.org/ns/docbook" version="4.5">
   <title>Summer 1872(3)</title>
 
   <section>
@@ -5643,7 +6628,8 @@ children, don't tell fibs.
     <para/>
   </section>
 </chapter>
-  <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <chapter xmlns="http://docbook.org/ns/docbook" version="4.5">
   <title>Summer 1876</title>
 
   <section>
@@ -5820,5 +6806,4 @@ children, don't tell fibs.
     <para/>
   </section>
 </chapter>
-
 </book>
