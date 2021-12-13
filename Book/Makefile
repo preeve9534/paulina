@@ -1,6 +1,9 @@
 clean :
 	@rm -f assembled.* *.pdf *.epub *.mobi
 
+stylesheet: 
+	cd resources/stylesheets && make
+
 assembled.xml : src/*.xml
 	xmllint --xinclude src/book.xml > assembled.xml
 
@@ -10,7 +13,10 @@ assembled.markdown : assembled.xml
 assembled.fo : assembled.xml
 	xsltproc --output assembled.fo resources/stylesheets/pdf.xsl assembled.xml
 
-fop : clean assembled.fo
+validate : assembled.xml
+	jing http://docs.oasis-open.org/docbook/docbook/v5.1/os/schemas/rng/docbook.rng assembled.xml
+
+fop : assembled.fo
 	fop assembled.fo book.pdf
 	open book.pdf
 	
