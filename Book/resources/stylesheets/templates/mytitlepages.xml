@@ -11,7 +11,8 @@
 <!ENTITY hsize3space "12.96pt"> <!-- 0.75 * hsize3 -->
 <!ENTITY hsize4space "15.552pt"> <!-- 0.75 * hsize4 -->
 <!ENTITY hsize5space "18.6624pt"> <!-- 0.75 * hsize5 -->
-<!ENTITY hsize6space "180pt">
+<!ENTITY hsize6space "40pt">
+<!ENTITY hsize7space "180pt">
 ]>
 <t:templates xmlns:t="http://nwalsh.com/docbook/xsl/template/1.0"
              xmlns:param="http://nwalsh.com/docbook/xsl/template/1.0/param"
@@ -531,7 +532,8 @@
     <t:titlepage-content t:side="recto" margin-left="{$title.margin.left}">
       <title t:named-template="component.title"
 	     param:node="ancestor-or-self::chapter[1]"
-             space-before="&hsize6space;"
+             space-before="&hsize5space;"
+             space-after="&hsize6space;"
 	     font-size="&hsize5;"
 	     font-weight="bold"/>
 
