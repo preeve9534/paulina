@@ -2170,7 +2170,7 @@
 </xsl:template>
 
 <xsl:template match="d:title" mode="chapter.titlepage.recto.auto.mode">
-<fo:block xsl:use-attribute-sets="chapter.titlepage.recto.style" space-before="18.6624pt" space-after="40pt" font-size="24.8832pt" font-weight="bold">
+<fo:block xsl:use-attribute-sets="chapter.titlepage.recto.style" space-before.conditionality="retain" space-before="150pt" space-after="30pt" font-size="24.8832pt" font-weight="bold">
 <xsl:call-template name="component.title">
 <xsl:with-param name="node" select="ancestor-or-self::d:chapter[1]"/>
 </xsl:call-template>

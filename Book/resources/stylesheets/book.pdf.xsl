@@ -9,6 +9,7 @@
   <xsl:import href="/opt/homebrew/Cellar/docbook-xsl/1.79.2_1/docbook-xsl-ns/fo/docbook.xsl"/>
   <xsl:import href="mytitlepages.xsl"/>
 
+  <!-- <xsl:param name="body.font.family">Baskerville</xsl:param> -->
   <xsl:param name="paper.type">A5</xsl:param>
   <xsl:param name="toc.max.depth">1</xsl:param>
   <xsl:param name="body.start.indent">0pt</xsl:param>

@@ -9,8 +9,8 @@
 set -e
 
 program_name=${0##*/}
-fop_libs_dir=/usr/lib/apache-xml
-fop_fonts_dir=/usr/share/fop/fonts
+fop_libs_dir=/opt/homebrew/Cellar/fop/2.6/libexec/fop/lib
+fop_fonts_dir=.
 
 die()
 {
