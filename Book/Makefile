@@ -1,29 +1,27 @@
 clean :
-	@rm -f assembled.* *.pdf *.epub *.mobi
+	@rm -f book.* synopsis.*
 
-assembled.xml : src/*.xml
-	xmllint --xinclude src/book.xml > assembled.xml
+stylesheet: 
+	cd resources/stylesheets && make
 
-assembled.markdown : assembled.xml
-	pandoc -t latex -f docbook assembled.xml -o book.markdown
+book.xml : src/*.xml
+	xmllint --xinclude src/book.xml > book.xml
 
-assembled.fo : assembled.xml
-	xsltproc --output assembled.fo resources/stylesheets/pdf.xsl assembled.xml
+book.fo : book.xml
+	xsltproc --output book.fo resources/stylesheets/book.pdf.xsl book.xml
 
-fop : clean assembled.fo
-	fop assembled.fo book.pdf
+synopsis.fo : src/synopsis.xml
+	xsltproc --output synopsis.fo resources/stylesheets/synopsis.xsl src/synopsis.xml 
+
+validate : book.xml
+	jing http://docs.oasis-open.org/docbook/docbook/v5.1/os/schemas/rng/docbook.rng book.xml
+
+book.pdf : book.fo
+	fop -c cfg.xml book.fo book.pdf
 	open book.pdf
-	
-pdf : assembled.xml
-	pandoc -t latex -o book.pdf assembled.xml -f docbook \
-        --toc \
-        --toc-depth=1 \
-        --top-level-division=chapter \
-        -V geometry:a5paper \
-        -V geometry:margin=2cm
-	
-epub : assembled.markdown
-	pandoc assembled.markdown -o book.epub
 
-synopsis : synopsis.xml
-	pandoc -t latex -o synopsis.pdf src/synopsis.xml -f docbook
+book.txt : book.fo
+	fop book.fo -txt book.txt
+
+synopsis.pdf : synopsis.fo
+	fop -c cfg.xml synopsis.fo synopsis.pdf
