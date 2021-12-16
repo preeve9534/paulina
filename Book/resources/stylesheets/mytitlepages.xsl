@@ -134,7 +134,7 @@
 </xsl:template>
 
 <xsl:template match="d:title" mode="article.titlepage.recto.auto.mode">
-<fo:block xsl:use-attribute-sets="article.titlepage.recto.style" keep-with-next.within-column="always" space-before="18.6624pt" font-size="24.8832pt" font-weight="bold">
+<fo:block xsl:use-attribute-sets="article.titlepage.recto.style" keep-with-next.within-column="always" space-before="18.6624pt" font-size="24.8832pt" font-weight="bold" text-align="center">
 <xsl:call-template name="component.title">
 <xsl:with-param name="node" select="ancestor-or-self::d:article[1]"/>
 </xsl:call-template>

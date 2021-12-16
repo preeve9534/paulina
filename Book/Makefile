@@ -11,7 +11,7 @@ book.fo : book.xml
 	xsltproc --output book.fo resources/stylesheets/book.pdf.xsl book.xml
 
 synopsis.fo : src/synopsis.xml
-	xsltproc --output synopsis.fo resources/stylesheets/synopsis.xsl src/synopsis.xml 
+	xsltproc --output synopsis.fo resources/stylesheets/synopsis.pdf.xsl src/synopsis.xml 
 
 validate : book.xml
 	jing http://docs.oasis-open.org/docbook/docbook/v5.1/os/schemas/rng/docbook.rng book.xml
@@ -25,3 +25,4 @@ book.txt : book.fo
 
 synopsis.pdf : synopsis.fo
 	fop -c cfg.xml synopsis.fo synopsis.pdf
+	open synopsis.pdf

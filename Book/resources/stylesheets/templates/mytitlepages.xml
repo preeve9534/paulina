@@ -42,7 +42,8 @@
 	   keep-with-next.within-column="always"
            space-before="&hsize5space;"
 	   font-size="&hsize5;"
-	   font-weight="bold"/>
+	   font-weight="bold"
+           text-align="center"/>
 
     <subtitle/>
 
