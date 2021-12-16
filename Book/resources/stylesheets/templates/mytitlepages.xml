@@ -37,10 +37,10 @@
 	     start-indent="0pt"
              text-align="center">
 
-    <title t:named-template="component.title"
+    <title t:named-template="division.title"
 	   param:node="ancestor-or-self::article[1]"
-	   keep-with-next.within-column="always"
            space-before="&hsize5space;"
+	   keep-with-next.within-column="always"
 	   font-size="&hsize5;"
 	   font-weight="bold"
            text-align="center"/>
