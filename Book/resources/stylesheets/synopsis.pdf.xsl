@@ -10,25 +10,11 @@
   <xsl:import href="mytitlepages.xsl"/>
 
   <!-- <xsl:param name="body.font.family">Baskerville</xsl:param> -->
-  <xsl:param name="paper.type">A5</xsl:param>
+  <!-- <xsl:param name="paper.type">A5</xsl:param> -->
   <xsl:param name="body.start.indent">0pt</xsl:param>
-<xsl:param name="generate.toc">
-/appendix toc,title
-article/appendix  nop
-/article nop 
-book      toc,title,figure,table,example,equation
-/chapter  toc,title
-part      toc,title
-/preface  toc,title
-reference toc,title
-/sect1    toc
-/sect2    toc
-/sect3    toc
-/sect4    toc
-/sect5    toc
-/section  toc
-set       toc,title
-</xsl:param>
+  <xsl:param name="generate.toc">
+    /article nop 
+  </xsl:param>
 
 </xsl:stylesheet>
 
